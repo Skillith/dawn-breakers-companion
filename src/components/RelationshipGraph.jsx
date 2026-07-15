@@ -62,11 +62,14 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
     nodesRef.current = initialNodes;
     linksRef.current = initialLinks;
     
-    // Reset offset to center
-    transformRef.current = { x: 0, y: 0, scale: 1 };
-    setZoom(1);
-    setOffsetX(0);
-    setOffsetY(0);
+    // Reset offset to center with default zoomed out view
+    const initialScale = 0.6;
+    const rx = 450 * (1 - initialScale);
+    const ry = 250 * (1 - initialScale);
+    transformRef.current = { x: rx, y: ry, scale: initialScale };
+    setZoom(initialScale);
+    setOffsetX(rx);
+    setOffsetY(ry);
   }, [people]);
 
   // Force-directed simulation loop
@@ -80,10 +83,10 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
     const height = canvas.height;
 
     // Simulation forces constants
-    const repellingForce = 40000;
-    const linkForce = 0.05;
-    const linkLength = 120;
-    const gravity = 0.003;
+    const repellingForce = 120000;
+    const linkForce = 0.04;
+    const linkLength = 160;
+    const gravity = 0.002;
     const damping = 0.85;
 
     const updateSimulation = () => {
@@ -109,7 +112,7 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
           const distSq = dx * dx + dy * dy + 0.1;
           const dist = Math.sqrt(distSq);
 
-          if (dist < 350) {
+          if (dist < 450) {
             // Cap force to prevent division by zero or infinite accelerations
             const force = Math.min(100, repellingForce / distSq);
             const fx = (dx / dist) * force;
@@ -182,9 +185,9 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
           node.vx = 0;
           node.vy = 0;
         } else {
-          // Keep inside canvas bounds loosely
-          node.x = Math.max(50, Math.min(width - 50, node.x));
-          node.y = Math.max(50, Math.min(height - 50, node.y));
+          // Keep inside canvas bounds loosely (expanded to allow spread)
+          node.x = Math.max(-200, Math.min(width + 200, node.x));
+          node.y = Math.max(-150, Math.min(height + 150, node.y));
         }
       });
     };
@@ -367,7 +370,7 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
     const centerY = canvas.height / 2;
     
     const oldScale = transformRef.current.scale;
-    const newScale = Math.max(0.4, Math.min(2.5, oldScale * factor));
+    const newScale = Math.max(0.25, Math.min(2.5, oldScale * factor));
     
     // Zoom centered on canvas middle
     const newX = centerX - (centerX - transformRef.current.x) * (newScale / oldScale);
@@ -385,10 +388,13 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
   };
 
   const resetGraph = () => {
-    transformRef.current = { x: 0, y: 0, scale: 1 };
-    setZoom(1);
-    setOffsetX(0);
-    setOffsetY(0);
+    const initialScale = 0.6;
+    const rx = 450 * (1 - initialScale);
+    const ry = 250 * (1 - initialScale);
+    transformRef.current = { x: rx, y: ry, scale: initialScale };
+    setZoom(initialScale);
+    setOffsetX(rx);
+    setOffsetY(ry);
     
     // Jitter positions slightly to kickstart the simulation
     nodesRef.current.forEach(node => {

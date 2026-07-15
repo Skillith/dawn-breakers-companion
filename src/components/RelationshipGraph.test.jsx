@@ -85,9 +85,10 @@ describe('RelationshipGraph Component', () => {
     expect(canvas).toBeInTheDocument();
 
     // Simulate clicking Node 0 ('the_bab')
-    // Calculated position with Math.random returning 0.5:
-    // angle = 0, radius = 225, x = 675, y = 250
-    fireEvent.mouseDown(canvas, { clientX: 675, clientY: 250 });
+    // Calculated position with Math.random returning 0.5 and scale = 0.6:
+    // angle = 0, radius = 210, x = 660, y = 250
+    // clientX = 180 + 660 * 0.6 = 576, clientY = 100 + 250 * 0.6 = 250
+    fireEvent.mouseDown(canvas, { clientX: 576, clientY: 250 });
     fireEvent.mouseUp(canvas);
 
     expect(mockOnSelectPerson).toHaveBeenCalledWith('the_bab');
