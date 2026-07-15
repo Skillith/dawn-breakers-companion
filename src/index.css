@@ -1021,17 +1021,51 @@ header {
   }
 }
 
-.cities-list-container {
-  overflow-y: auto;
-  max-height: calc(100vh - 200px);
-  padding-right: 0.5rem;
+.cities-list-panel {
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 16px;
+  padding: 1.2rem;
+  box-shadow: var(--card-shadow);
+  backdrop-filter: blur(15px);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-sizing: border-box;
 }
 
-@media (max-width: 991px) {
-  .cities-list-container {
-    max-height: none;
-    overflow-y: visible;
+@media (min-width: 992px) {
+  .cities-list-panel {
+    position: sticky;
+    top: 2rem;
+    max-height: calc(100vh - 240px);
   }
+}
+
+.cities-list-header {
+  margin-bottom: 0.2rem;
+}
+
+.cities-list-panel-title {
+  font-family: var(--font-title);
+  font-size: 1.2rem;
+  color: var(--accent-color);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.cities-list-panel-subtitle {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-family: var(--font-sans);
+}
+
+.cities-list-container {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding-right: 0.5rem;
 }
 
 .cities-grid {

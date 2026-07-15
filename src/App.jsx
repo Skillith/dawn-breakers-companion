@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, Moon, Sun, Users, Map, Network, Info, Clock } from 'lucide-react';
+import { Search, Moon, Sun, Users, Map, Network, Info, Clock, BookOpen } from 'lucide-react';
 import data from './data.json';
 import PersonCard from './components/PersonCard';
 import CityCard from './components/CityCard';
@@ -93,11 +93,20 @@ export default function App() {
   const handleSelectCity = (cityId) => {
     setActiveCityId(cityId);
     
-    // Smooth scroll to the city card
+    // Smooth scroll only the right-hand container to keep map and list aligned
     setTimeout(() => {
+      const container = document.querySelector('.cities-list-container');
       const element = document.getElementById(`city-${cityId}`);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      if (container && element) {
+        const containerRect = container.getBoundingClientRect();
+        const elementRect = element.getBoundingClientRect();
+        const scrollTarget = container.scrollTop + (elementRect.top - containerRect.top) - 8; // 8px offset for breathing room
+        
+        container.scrollTo({
+          top: scrollTarget,
+          behavior: 'smooth'
+        });
+
         // Briefly flash card border
         element.style.borderColor = 'var(--accent-color)';
         element.style.boxShadow = '0 0 15px rgba(212, 175, 55, 0.4)';
@@ -265,24 +274,35 @@ export default function App() {
               activeCityId={activeCityId}
               onSelectCity={handleSelectCity}
             />
-            <div className="cities-list-container">
-              {filteredCities.length > 0 ? (
-                <div className="cities-grid">
-                  {filteredCities.map(city => (
-                    <CityCard
-                      key={city.id}
-                      city={city}
-                      isActive={activeCityId === city.id}
-                    />
-                  ))}
-                </div>
-              ) : (
-                <div className="empty-state">
-                  <Map size={48} />
-                  <h3 className="empty-state-title">No Cities Found</h3>
-                  <p>No cities or events match your search query "{searchQuery}".</p>
-                </div>
-              )}
+            <div className="cities-list-panel">
+              <div className="cities-list-header">
+                <h3 className="cities-list-panel-title">
+                  <BookOpen size={18} />
+                  Cities & Events Directory
+                </h3>
+                <p className="cities-list-panel-subtitle">
+                  Browse cities alphabetically or search for events.
+                </p>
+              </div>
+              <div className="cities-list-container">
+                {filteredCities.length > 0 ? (
+                  <div className="cities-grid">
+                    {filteredCities.map(city => (
+                      <CityCard
+                        key={city.id}
+                        city={city}
+                        isActive={activeCityId === city.id}
+                      />
+                    ))}
+                  </div>
+                ) : (
+                  <div className="empty-state">
+                    <Map size={48} />
+                    <h3 className="empty-state-title">No Cities Found</h3>
+                    <p>No cities or events match your search query "{searchQuery}".</p>
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         )}
