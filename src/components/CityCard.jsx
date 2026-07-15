@@ -1,9 +1,9 @@
 import React from 'react';
 import { Map, BookOpen } from 'lucide-react';
 
-export default function CityCard({ city }) {
+export default function CityCard({ city, isActive }) {
   return (
-    <div className="card-item" id={`city-${city.id}`}>
+    <div className={`card-item ${isActive ? 'active' : ''}`} id={`city-${city.id}`}>
       <div className="card-header">
         <div className="card-meta-row">
           <span className="category-tag cities">Location</span>

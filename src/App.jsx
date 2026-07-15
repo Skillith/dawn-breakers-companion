@@ -3,6 +3,7 @@ import { Search, Moon, Sun, Users, Map, Network, Info, Clock } from 'lucide-reac
 import data from './data.json';
 import PersonCard from './components/PersonCard';
 import CityCard from './components/CityCard';
+import CityMap from './components/CityMap';
 import RelationshipGraph from './components/RelationshipGraph';
 import ExportButton from './components/ExportButton';
 import TimelineView from './components/TimelineView';
@@ -87,6 +88,26 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('people');
   const [searchQuery, setSearchQuery] = useState('');
   const [focusedItemId, setFocusedItemId] = useState(null);
+  const [activeCityId, setActiveCityId] = useState(null);
+
+  const handleSelectCity = (cityId) => {
+    setActiveCityId(cityId);
+    
+    // Smooth scroll to the city card
+    setTimeout(() => {
+      const element = document.getElementById(`city-${cityId}`);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        // Briefly flash card border
+        element.style.borderColor = 'var(--accent-color)';
+        element.style.boxShadow = '0 0 15px rgba(212, 175, 55, 0.4)';
+        setTimeout(() => {
+          element.style.borderColor = '';
+          element.style.boxShadow = '';
+        }, 1500);
+      }
+    }, 100);
+  };
 
   // Sync theme with DOM and localStorage
   useEffect(() => {
@@ -191,7 +212,7 @@ export default function App() {
             Figures ({filteredPeople.length})
           </button>
           <button
-            onClick={() => { setActiveTab('cities'); clearSearch(); }}
+            onClick={() => { setActiveTab('cities'); clearSearch(); setActiveCityId(null); }}
             className={`tab-btn ${activeTab === 'cities' ? 'active' : ''}`}
           >
             <Map size={16} />
@@ -237,19 +258,33 @@ export default function App() {
         )}
 
         {activeTab === 'cities' && (
-          filteredCities.length > 0 ? (
-            <div className="results-grid">
-              {filteredCities.map(city => (
-                <CityCard key={city.id} city={city} />
-              ))}
+          <div className="cities-layout">
+            <CityMap
+              cities={data.cities}
+              filteredCities={filteredCities}
+              activeCityId={activeCityId}
+              onSelectCity={handleSelectCity}
+            />
+            <div className="cities-list-container">
+              {filteredCities.length > 0 ? (
+                <div className="cities-grid">
+                  {filteredCities.map(city => (
+                    <CityCard
+                      key={city.id}
+                      city={city}
+                      isActive={activeCityId === city.id}
+                    />
+                  ))}
+                </div>
+              ) : (
+                <div className="empty-state">
+                  <Map size={48} />
+                  <h3 className="empty-state-title">No Cities Found</h3>
+                  <p>No cities or events match your search query "{searchQuery}".</p>
+                </div>
+              )}
             </div>
-          ) : (
-            <div className="empty-state">
-              <Map size={48} />
-              <h3 className="empty-state-title">No Cities Found</h3>
-              <p>No cities or events match your search query "{searchQuery}".</p>
-            </div>
-          )
+          </div>
         )}
 
         {activeTab === 'relations' && (
