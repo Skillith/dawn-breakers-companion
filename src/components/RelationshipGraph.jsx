@@ -16,10 +16,35 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
 
   // Initialize nodes and links
   useEffect(() => {
-    // 1. Build nodes list
-    const initialNodes = people.map((p, idx) => {
-      const angle = (idx / people.length) * Math.PI * 2;
-      const radius = 200 + Math.random() * 50;
+    // 1. Build links list and track connected IDs
+    const initialLinks = [];
+    const connectedIds = new Set();
+
+    people.forEach(p => {
+      if (p.relations) {
+        p.relations.forEach(r => {
+          // Verify target exists
+          const targetExists = people.some(t => t.id === r.targetId);
+          if (targetExists) {
+            initialLinks.push({
+              source: p.id,
+              target: r.targetId,
+              label: r.type
+            });
+            connectedIds.add(p.id);
+            connectedIds.add(r.targetId);
+          }
+        });
+      }
+    });
+
+    // 2. Filter people to only those who have connections
+    const connectedPeople = people.filter(p => connectedIds.has(p.id));
+
+    // 3. Build nodes list for connected people
+    const initialNodes = connectedPeople.map((p, idx) => {
+      const angle = (idx / connectedPeople.length) * Math.PI * 2;
+      const radius = 180 + Math.random() * 60;
       return {
         id: p.id,
         label: p.name.split(" (")[0], // Short name
@@ -32,24 +57,6 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
                p.id === 'mulla_husayn' || p.id === 'quddus' || p.id === 'tahirih' || p.id === 'vahid' || p.id === 'hujjat' ? '#c29b38' : '#8c7d70',
         textColor: '#fff'
       };
-    });
-
-    // 2. Build links list
-    const initialLinks = [];
-    people.forEach(p => {
-      if (p.relations) {
-        p.relations.forEach(r => {
-          // Verify target exists
-          const targetExists = people.some(t => t.id === r.targetId);
-          if (targetExists) {
-            initialLinks.push({
-              source: p.id,
-              target: r.targetId,
-              label: r.type
-            });
-          }
-        });
-      }
     });
 
     nodesRef.current = initialNodes;
@@ -90,13 +97,21 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
         for (let j = i + 1; j < nodes.length; j++) {
           const nodeB = nodes[j];
           
-          const dx = nodeB.x - nodeA.x;
-          const dy = nodeB.y - nodeA.y;
+          let dx = nodeB.x - nodeA.x;
+          let dy = nodeB.y - nodeA.y;
+          
+          // Overlap prevention
+          if (dx === 0 && dy === 0) {
+            dx = (Math.random() - 0.5) * 2;
+            dy = (Math.random() - 0.5) * 2;
+          }
+          
           const distSq = dx * dx + dy * dy + 0.1;
           const dist = Math.sqrt(distSq);
 
           if (dist < 350) {
-            const force = repellingForce / distSq;
+            // Cap force to prevent division by zero or infinite accelerations
+            const force = Math.min(100, repellingForce / distSq);
             const fx = (dx / dist) * force;
             const fy = (dy / dist) * force;
 
@@ -149,15 +164,28 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
         node.vx += dx * gravity;
         node.vy += dy * gravity;
 
+        // Cap velocities to prevent nodes flying out of bounds
+        const maxVelocity = 12;
+        node.vx = Math.max(-maxVelocity, Math.min(maxVelocity, node.vx));
+        node.vy = Math.max(-maxVelocity, Math.min(maxVelocity, node.vy));
+
         // Apply velocities & damping
         node.x += node.vx;
         node.y += node.vy;
         node.vx *= damping;
         node.vy *= damping;
 
-        // Keep inside canvas bounds loosely
-        node.x = Math.max(50, Math.min(width - 50, node.x));
-        node.y = Math.max(50, Math.min(height - 50, node.y));
+        // NaN safeguard
+        if (isNaN(node.x) || isNaN(node.y)) {
+          node.x = centerX + (Math.random() - 0.5) * 100;
+          node.y = centerY + (Math.random() - 0.5) * 100;
+          node.vx = 0;
+          node.vy = 0;
+        } else {
+          // Keep inside canvas bounds loosely
+          node.x = Math.max(50, Math.min(width - 50, node.x));
+          node.y = Math.max(50, Math.min(height - 50, node.y));
+        }
       });
     };
 

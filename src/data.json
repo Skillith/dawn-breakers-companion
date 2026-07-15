@@ -2,12 +2,12 @@
   "people": [
     {
       "id": "the_bab",
-      "name": "The B\u00e1b (M\u00edrz\u00e1 'Al\u00ed-Muhammad)",
+      "name": "The Báb (Mírzá 'Alí-Muhammad)",
       "sortName": "Bab, The",
       "titles": [
-        "Siyyid-i-B\u00e1b",
+        "Siyyid-i-Báb",
         "The Herald",
-        "M\u00edrz\u00e1 'Al\u00ed-Muhammad"
+        "Mírzá 'Alí-Muhammad"
       ],
       "cityOfOrigin": "Shiraz",
       "relations": [
@@ -32,8 +32,8 @@
           "type": "Martyred alongside"
         }
       ],
-      "bio": "The B\u00e1b (meaning 'The Gate') was the Prophet-Herald of the Bah\u00e1'\u00ed Revelation. Born in Shiraz as Siyyid 'Al\u00ed-Muhammad, He declared His mission in 1844, initiating a spiritual revolution that shook 19th-century Persia. He called for moral regeneration and prepared His followers for the imminent arrival of 'Him Whom God shall make manifest' (Bah\u00e1'u'll\u00e1h).\n\nHis teachings spread rapidly, provoking intense opposition from the Islamic clergy and the royal court. He was imprisoned in the remote mountain fortresses of M\u00e1h-K\u00fa and Chihr\u00edq, and was ultimately martyred by a firing squad of 750 soldiers in Tabriz on July 9, 1850.",
-      "confusionAlert": "Sometimes referred to by His birth name M\u00edrz\u00e1 'Al\u00ed-Muhammad. Do not confuse with other individuals named M\u00edrz\u00e1 'Al\u00ed or Muhammad.",
+      "bio": "The Báb (meaning 'The Gate') was the Prophet-Herald of the Bahá'í Revelation. Born in Shiraz as Siyyid 'Alí-Muhammad, He declared His mission in 1844, initiating a spiritual revolution that shook 19th-century Persia. He called for moral regeneration and prepared His followers for the imminent arrival of 'Him Whom God shall make manifest' (Bahá'u'lláh).\n\nHis teachings spread rapidly, provoking intense opposition from the Islamic clergy and the royal court. He was imprisoned in the remote mountain fortresses of Máh-Kú and Chihríq, and was ultimately martyred by a firing squad of 750 soldiers in Tabriz on July 9, 1850.",
+      "confusionAlert": "Sometimes referred to by His birth name Mírzá 'Alí-Muhammad. Do not confuse with other individuals named Mírzá 'Alí or Muhammad.",
       "pages": [
         5,
         9,
@@ -312,12 +312,12 @@
     },
     {
       "id": "bahaullah",
-      "name": "Bah\u00e1'u'll\u00e1h (M\u00edrz\u00e1 Husayn-'Al\u00ed)",
+      "name": "Bahá'u'lláh (Mírzá Husayn-'Alí)",
       "sortName": "Baha'u'llah",
       "titles": [
-        "M\u00edrz\u00e1 Husayn-'Al\u00ed",
+        "Mírzá Husayn-'Alí",
         "The Glory of God",
-        "Jin\u00e1b-i-Bah\u00e1"
+        "Jináb-i-Bahá"
       ],
       "cityOfOrigin": "Tehran",
       "relations": [
@@ -334,8 +334,8 @@
           "type": "Half-brother of (later opponent)"
         }
       ],
-      "bio": "Bah\u00e1'u'll\u00e1h (born M\u00edrz\u00e1 Husayn-'Al\u00ed in Tehran) was a nobleman who rejected a life of courtly luxury to champion the B\u00e1b's cause. He became one of the most prominent B\u00e1b\u00eds, organizing the historic Conference of Badasht where the old laws of Islam were formally abrogated. He suffered imprisonment, torture, and the loss of all His properties following the attempt on the Shah's life in 1852, during which He was cast into the infamous subterranean prison, the Siy\u00e1h-Ch\u00e1l.\n\nIt was in the darkness of the Siy\u00e1h-Ch\u00e1l that He received the first intimations of His own divine mission. He is the Promised One foretold by the B\u00e1b and all previous scriptures, whose teachings form the foundation of the Bah\u00e1'\u00ed Faith.",
-      "confusionAlert": "In Nab\u00edl's Narrative, He is primarily referred to by His birth name M\u00edrz\u00e1 Husayn-'Al\u00ed or Jin\u00e1b-i-Bah\u00e1. Do not confuse with Mull\u00e1 Husayn.",
+      "bio": "Bahá'u'lláh (born Mírzá Husayn-'Alí in Tehran) was a nobleman who rejected a life of courtly luxury to champion the Báb's cause. He became one of the most prominent Bábís, organizing the historic Conference of Badasht where the old laws of Islam were formally abrogated. He suffered imprisonment, torture, and the loss of all His properties following the attempt on the Shah's life in 1852, during which He was cast into the infamous subterranean prison, the Siyáh-Chál.\n\nIt was in the darkness of the Siyáh-Chál that He received the first intimations of His own divine mission. He is the Promised One foretold by the Báb and all previous scriptures, whose teachings form the foundation of the Bahá'í Faith.",
+      "confusionAlert": "In Nabíl's Narrative, He is primarily referred to by His birth name Mírzá Husayn-'Alí or Jináb-i-Bahá. Do not confuse with Mullá Husayn.",
       "pages": [
         5,
         10,
@@ -475,10 +475,10 @@
     },
     {
       "id": "mulla_husayn",
-      "name": "Mull\u00e1 Husayn-i-Bushr\u00fa'\u00ed",
+      "name": "Mullá Husayn-i-Bushrú'í",
       "sortName": "Husayn-i-Bushru'i, Mulla",
       "titles": [
-        "B\u00e1bu'l-B\u00e1b",
+        "Bábu'l-Báb",
         "Gate of the Gate"
       ],
       "cityOfOrigin": "Bushruyih",
@@ -489,7 +489,7 @@
         },
         {
           "targetId": "quddus",
-          "type": "Co-commander at Fort Tabars\u00ed"
+          "type": "Co-commander at Fort Tabarsí"
         },
         {
           "targetId": "shaykh_ahmad",
@@ -500,8 +500,8 @@
           "type": "Student and successor candidate of"
         }
       ],
-      "bio": "Mull\u00e1 Husayn was the first Letter of the Living and the initial believer in the B\u00e1b. A brilliant young scholar under Siyyid K\u00e1zim, he spent forty days in prayer and fasting before traveling to Shiraz, where on May 23, 1844, he recognized the B\u00e1b's station. For this, he was given the title 'B\u00e1bu'l-B\u00e1b' (the Gate of the Gate).\n\nHe was a figure of legendary courage and physical strength. He walked on foot across Persia to spread the new teachings, and later raised the Black Standard of Khurasan, marching with a band of B\u00e1b\u00eds to the forests of Mazandaran. He oversaw the construction of Fort Shaykh Tabars\u00ed and led the defense against royal armies, performing feats of defense before being martyred by a bullet during a night sortie in early 1849.",
-      "confusionAlert": "Do not confuse with Bah\u00e1'u'll\u00e1h (M\u00edrz\u00e1 Husayn-'Al\u00ed) or the Imam Husayn (the Shia martyr whose shrine is in Karbila).",
+      "bio": "Mullá Husayn was the first Letter of the Living and the initial believer in the Báb. A brilliant young scholar under Siyyid Kázim, he spent forty days in prayer and fasting before traveling to Shiraz, where on May 23, 1844, he recognized the Báb's station. For this, he was given the title 'Bábu'l-Báb' (the Gate of the Gate).\n\nHe was a figure of legendary courage and physical strength. He walked on foot across Persia to spread the new teachings, and later raised the Black Standard of Khurasan, marching with a band of Bábís to the forests of Mazandaran. He oversaw the construction of Fort Shaykh Tabarsí and led the defense against royal armies, performing feats of defense before being martyred by a bullet during a night sortie in early 1849.",
+      "confusionAlert": "Do not confuse with Bahá'u'lláh (Mírzá Husayn-'Alí) or the Imam Husayn (the Shia martyr whose shrine is in Karbila).",
       "pages": [
         15,
         16,
@@ -632,11 +632,11 @@
     },
     {
       "id": "quddus",
-      "name": "Qudd\u00fas (Mull\u00e1 Muhammad-'Al\u00ed-i-B\u00e1rfur\u00fash\u00ed)",
+      "name": "Quddús (Mullá Muhammad-'Alí-i-Bárfurúshí)",
       "sortName": "Quddus",
       "titles": [
-        "Mull\u00e1 Muhammad-'Al\u00ed",
-        "Qudd\u00fas (The Most Holy)"
+        "Mullá Muhammad-'Alí",
+        "Quddús (The Most Holy)"
       ],
       "cityOfOrigin": "Barfurush",
       "relations": [
@@ -646,15 +646,15 @@
         },
         {
           "targetId": "mulla_husayn",
-          "type": "Co-commander at Fort Tabars\u00ed"
+          "type": "Co-commander at Fort Tabarsí"
         },
         {
           "targetId": "bahaullah",
           "type": "Reconciled with at Badasht"
         }
       ],
-      "bio": "Qudd\u00fas was the 18th and final Letter of the Living, considered by the B\u00e1b to have the highest spiritual rank among His disciples. Born Mull\u00e1 Muhammad-'Al\u00ed in Mazandaran, he accompanied the B\u00e1b on His pilgrimage to Mecca and Medina, where he courageously assisted in proclaiming the Faith. Upon returning, he was arrested and tortured in Shiraz.\n\nHe was the spiritual leader of the B\u00e1b\u00eds at Fort Shaykh Tabars\u00ed, where his presence inspired the defenders to withstand armies for months. After the fall of the fort due to a treacherous peace treaty, Qudd\u00fas was delivered to the hostile clergy of B\u00e1rfur\u00fash, who tortured him brutally and martyred him in the public square in May 1849.",
-      "confusionAlert": "His birth name was Mull\u00e1 Muhammad-'Al\u00ed. Do not confuse with Mull\u00e1 Muhammad-'Al\u00ed-i-Zanj\u00e1n\u00ed (Hujjat) or Mull\u00e1 Muhammad-'Al\u00ed-i-Zun\u00faz\u00ed (An\u00eds).",
+      "bio": "Quddús was the 18th and final Letter of the Living, considered by the Báb to have the highest spiritual rank among His disciples. Born Mullá Muhammad-'Alí in Mazandaran, he accompanied the Báb on His pilgrimage to Mecca and Medina, where he courageously assisted in proclaiming the Faith. Upon returning, he was arrested and tortured in Shiraz.\n\nHe was the spiritual leader of the Bábís at Fort Shaykh Tabarsí, where his presence inspired the defenders to withstand armies for months. After the fall of the fort due to a treacherous peace treaty, Quddús was delivered to the hostile clergy of Bárfurúsh, who tortured him brutally and martyred him in the public square in May 1849.",
+      "confusionAlert": "His birth name was Mullá Muhammad-'Alí. Do not confuse with Mullá Muhammad-'Alí-i-Zanjání (Hujjat) or Mullá Muhammad-'Alí-i-Zunúzí (Anís).",
       "pages": [
         24,
         52,
@@ -757,11 +757,11 @@
     },
     {
       "id": "vahid",
-      "name": "Vah\u00edd (Siyyid Yahy\u00e1-i-D\u00e1r\u00e1b\u00ed)",
+      "name": "Vahíd (Siyyid Yahyá-i-Dárábí)",
       "sortName": "Vahid",
       "titles": [
-        "Siyyid Yahy\u00e1",
-        "Vah\u00edd (The Unique One)"
+        "Siyyid Yahyá",
+        "Vahíd (The Unique One)"
       ],
       "cityOfOrigin": "Darab",
       "relations": [
@@ -774,8 +774,8 @@
           "type": "Emissary sent by"
         }
       ],
-      "bio": "Vah\u00edd (born Siyyid Yahy\u00e1-i-D\u00e1r\u00e1b\u00ed) was one of the most learned religious figures in Persia. He possessed such a prodigious memory that he had memorized over 30,000 Islamic traditions. Muhammad Shah sent him to investigate the B\u00e1b's claims, expecting him to disprove them. Instead, during their interviews in Shiraz, Vah\u00edd was overwhelmed by the B\u00e1b's divine knowledge and became a devoted follower.\n\nHe traveled across Persia, converting thousands. When persecutions intensified, he led the B\u00e1b\u00ed defense during the Nayr\u00edz Upheaval, holding out in the fort of Kh\u00e1jih. He was martyred in 1850 after the townspeople violated an oath sworn on the Qur'\u00e1n to grant the B\u00e1b\u00eds peace.",
-      "confusionAlert": "Do not confuse with M\u00edrz\u00e1 Yahy\u00e1 (Subh-i-Azal), Bah\u00e1'u'll\u00e1h's half-brother.",
+      "bio": "Vahíd (born Siyyid Yahyá-i-Dárábí) was one of the most learned religious figures in Persia. He possessed such a prodigious memory that he had memorized over 30,000 Islamic traditions. Muhammad Shah sent him to investigate the Báb's claims, expecting him to disprove them. Instead, during their interviews in Shiraz, Vahíd was overwhelmed by the Báb's divine knowledge and became a devoted follower.\n\nHe traveled across Persia, converting thousands. When persecutions intensified, he led the Bábí defense during the Nayríz Upheaval, holding out in the fort of Khájih. He was martyred in 1850 after the townspeople violated an oath sworn on the Qur'án to grant the Bábís peace.",
+      "confusionAlert": "Do not confuse with Mírzá Yahyá (Subh-i-Azal), Bahá'u'lláh's half-brother.",
       "pages": [
         90,
         129,
@@ -831,10 +831,10 @@
     },
     {
       "id": "hujjat",
-      "name": "Hujjat (Mull\u00e1 Muhammad-'Al\u00ed-i-Zanj\u00e1n\u00ed)",
+      "name": "Hujjat (Mullá Muhammad-'Alí-i-Zanjání)",
       "sortName": "Hujjat",
       "titles": [
-        "Mull\u00e1 Muhammad-'Al\u00ed",
+        "Mullá Muhammad-'Alí",
         "Hujjat (The Proof)"
       ],
       "cityOfOrigin": "Zanjan",
@@ -844,8 +844,8 @@
           "type": "Follower of (via amanuensis)"
         }
       ],
-      "bio": "Hujjat (born Mull\u00e1 Muhammad-'Al\u00ed) was an influential and independent-minded Mujtahid of Zanjan. Known for his theological brilliance and refusal to follow blind religious conformity, he accepted the B\u00e1b after receiving a written text from Him through a messenger.\n\nHis conversion prompted nearly his entire congregation to become B\u00e1b\u00eds, which enraged the local clergy. The resulting tensions erupted into the Zanj\u00e1n Upheaval (1850\u20131851), where Hujjat led several thousand B\u00e1b\u00eds (including women and children) in defending their quarter against imperial troops. Hujjat was wounded by a cannonball and died shortly before the fort fell. His wife and children were also martyred.",
-      "confusionAlert": "His birth name was Mull\u00e1 Muhammad-'Al\u00ed. Do not confuse with Qudd\u00fas or An\u00eds.",
+      "bio": "Hujjat (born Mullá Muhammad-'Alí) was an influential and independent-minded Mujtahid of Zanjan. Known for his theological brilliance and refusal to follow blind religious conformity, he accepted the Báb after receiving a written text from Him through a messenger.\n\nHis conversion prompted nearly his entire congregation to become Bábís, which enraged the local clergy. The resulting tensions erupted into the Zanján Upheaval (1850–1851), where Hujjat led several thousand Bábís (including women and children) in defending their quarter against imperial troops. Hujjat was wounded by a cannonball and died shortly before the fort fell. His wife and children were also martyred.",
+      "confusionAlert": "His birth name was Mullá Muhammad-'Alí. Do not confuse with Quddús or Anís.",
       "pages": [
         135,
         136,
@@ -905,12 +905,12 @@
     },
     {
       "id": "tahirih",
-      "name": "T\u00e1hirih (Qurratu'l-'Ayn)",
+      "name": "Táhirih (Qurratu'l-'Ayn)",
       "sortName": "Tahirih",
       "titles": [
         "Qurratu'l-'Ayn",
-        "F\u00e1timih Baragh\u00e1n\u00ed",
-        "T\u00e1hirih (The Pure One)"
+        "Fátimih Baraghání",
+        "Táhirih (The Pure One)"
       ],
       "cityOfOrigin": "Qazvin",
       "relations": [
@@ -931,8 +931,8 @@
           "type": "Niece and daughter-in-law of"
         }
       ],
-      "bio": "T\u00e1hirih (born F\u00e1timih Baragh\u00e1n\u00ed) was a poet, theologian, and the only female Letter of the Living. Her intellect was so formidable that she was permitted to attend the lectures of Siyyid K\u00e1zim behind a curtain and debate male scholars. She recognized the B\u00e1b through a dream and letter, and was accepted as a disciple without meeting Him in person.\n\nShe is famous for her role at the Conference of Badasht, where she appeared in public without a veil, symbolizing the separation of the B\u00e1b\u00ed Dispensation from Islamic tradition. After years of house arrest, she was choked to death with a silk scarf in a Tehran garden in August 1852. Her famous final words were: 'You can kill me as soon as you like, but you cannot stop the emancipation of women.'",
-      "confusionAlert": "Sometimes referred to as Qurratu'l-'Ayn (given by Siyyid K\u00e1zim) or T\u00e1hirih (given by Bah\u00e1'u'll\u00e1h at Badasht).",
+      "bio": "Táhirih (born Fátimih Baraghání) was a poet, theologian, and the only female Letter of the Living. Her intellect was so formidable that she was permitted to attend the lectures of Siyyid Kázim behind a curtain and debate male scholars. She recognized the Báb through a dream and letter, and was accepted as a disciple without meeting Him in person.\n\nShe is famous for her role at the Conference of Badasht, where she appeared in public without a veil, symbolizing the separation of the Bábí Dispensation from Islamic tradition. After years of house arrest, she was choked to death with a silk scarf in a Tehran garden in August 1852. Her famous final words were: 'You can kill me as soon as you like, but you cannot stop the emancipation of women.'",
+      "confusionAlert": "Sometimes referred to as Qurratu'l-'Ayn (given by Siyyid Kázim) or Táhirih (given by Bahá'u'lláh at Badasht).",
       "pages": [
         58,
         59,
@@ -980,10 +980,10 @@
     },
     {
       "id": "shaykh_ahmad",
-      "name": "Shaykh Ahmad-i-Ahs\u00e1'\u00ed",
+      "name": "Shaykh Ahmad-i-Ahsá'í",
       "sortName": "Ahmad-i-Ahsa'i, Shaykh",
       "titles": [
-        "Founder of the Shaykh\u00ed School"
+        "Founder of the Shaykhí School"
       ],
       "cityOfOrigin": "Bahrayn",
       "relations": [
@@ -996,8 +996,8 @@
           "type": "Prepared the way for"
         }
       ],
-      "bio": "Shaykh Ahmad-i-Ahs\u00e1'\u00ed was the founder of the Shaykh\u00ed school of Shia Islam. He arose in the early 19th century to protest the corruption of the clergy and teach that the arrival of the Promised Mihd\u00ed (the B\u00e1b) and the Return of Christ (Bah\u00e1'u'll\u00e1h) were imminent. He explained Shia prophecies symbolically, which drew both massive devotion and accusations of heresy from orthodox Mujtahids.\n\nHe spent his final years traveling through Persia and Iraq, sowing the seeds of expectation. He instructed his students, most notably Siyyid K\u00e1zim, to disperse and search for the Promised One upon his death. He died in 1826 while on a pilgrimage to Mecca.",
-      "confusionAlert": "Mainly referred to as Shaykh Ahmad. Do not confuse with M\u00edrz\u00e1 Ahmad-i-K\u00e1tib.",
+      "bio": "Shaykh Ahmad-i-Ahsá'í was the founder of the Shaykhí school of Shia Islam. He arose in the early 19th century to protest the corruption of the clergy and teach that the arrival of the Promised Mihdí (the Báb) and the Return of Christ (Bahá'u'lláh) were imminent. He explained Shia prophecies symbolically, which drew both massive devotion and accusations of heresy from orthodox Mujtahids.\n\nHe spent his final years traveling through Persia and Iraq, sowing the seeds of expectation. He instructed his students, most notably Siyyid Kázim, to disperse and search for the Promised One upon his death. He died in 1826 while on a pilgrimage to Mecca.",
+      "confusionAlert": "Mainly referred to as Shaykh Ahmad. Do not confuse with Mírzá Ahmad-i-Kátib.",
       "pages": [
         1,
         3,
@@ -1044,10 +1044,10 @@
     },
     {
       "id": "siyyid_kazim",
-      "name": "Siyyid K\u00e1zim-i-Rasht\u00ed",
+      "name": "Siyyid Kázim-i-Rashtí",
       "sortName": "Kazim-i-Rashti, Siyyid",
       "titles": [
-        "Leader of the Shaykh\u00eds"
+        "Leader of the Shaykhís"
       ],
       "cityOfOrigin": "Rasht",
       "relations": [
@@ -1064,8 +1064,8 @@
           "type": "Revered teacher of (before declaration)"
         }
       ],
-      "bio": "Siyyid K\u00e1zim-i-Rasht\u00ed was the designated successor of Shaykh Ahmad. He led the Shaykh\u00ed community from Karbil\u00e1, defending the teachings against orthodox attacks. He focused intensely on preparing his disciples to recognize the Twin Revelations, telling them that the Promised One was already alive among them.\n\nHe refused to name a successor, telling his students that upon his death they must leave their books, homes, and studies, and wander the earth to search for the Mihd\u00ed. He died in late 1843, shortly before the B\u00e1b declared His mission in May 1844.",
-      "confusionAlert": "Mainly referred to as Siyyid K\u00e1zim. Do not confuse with other individuals named K\u00e1zim.",
+      "bio": "Siyyid Kázim-i-Rashtí was the designated successor of Shaykh Ahmad. He led the Shaykhí community from Karbilá, defending the teachings against orthodox attacks. He focused intensely on preparing his disciples to recognize the Twin Revelations, telling them that the Promised One was already alive among them.\n\nHe refused to name a successor, telling his students that upon his death they must leave their books, homes, and studies, and wander the earth to search for the Mihdí. He died in late 1843, shortly before the Báb declared His mission in May 1844.",
+      "confusionAlert": "Mainly referred to as Siyyid Kázim. Do not confuse with other individuals named Kázim.",
       "pages": [
         6,
         7,
@@ -1141,11 +1141,11 @@
     },
     {
       "id": "mirza_yahya",
-      "name": "M\u00edrz\u00e1 Yahy\u00e1 (Subh-i-Azal)",
+      "name": "Mírzá Yahyá (Subh-i-Azal)",
       "sortName": "Yahya, Mirza (Subh-i-Azal)",
       "titles": [
         "Subh-i-Azal",
-        "M\u00edrz\u00e1 Yahy\u00e1"
+        "Mírzá Yahyá"
       ],
       "cityOfOrigin": "Tehran",
       "relations": [
@@ -1155,11 +1155,11 @@
         },
         {
           "targetId": "the_bab",
-          "type": "Nominal head of B\u00e1b\u00eds appointed by"
+          "type": "Nominal head of Bábís appointed by"
         }
       ],
-      "bio": "M\u00edrz\u00e1 Yahy\u00e1 was the younger half-brother of Bah\u00e1'u'll\u00e1h. Following the martyrdom of the B\u00e1b, he was appointed as the nominal head of the B\u00e1b\u00ed community as a protective measure to shield Bah\u00e1'u'll\u00e1h from state scrutiny. However, he spent most of his time in hiding and disguise, refusing to lead in times of danger.\n\nFollowing the attempt on the Shah's life in 1852, he fled to Baghdad in disguise. He later opposed Bah\u00e1'u'll\u00e1h when He publicly declared His mission, claiming leadership for himself and creating a schism among the B\u00e1b\u00eds. He is remembered as the primary Covenant-breaker of the B\u00e1b Dispensation.",
-      "confusionAlert": "Do not confuse with Vah\u00edd (Siyyid Yahy\u00e1-i-D\u00e1r\u00e1b\u00ed) or Yahy\u00e1 Kh\u00e1n (the warden of Chihr\u00edq).",
+      "bio": "Mírzá Yahyá was the younger half-brother of Bahá'u'lláh. Following the martyrdom of the Báb, he was appointed as the nominal head of the Bábí community as a protective measure to shield Bahá'u'lláh from state scrutiny. However, he spent most of his time in hiding and disguise, refusing to lead in times of danger.\n\nFollowing the attempt on the Shah's life in 1852, he fled to Baghdad in disguise. He later opposed Bahá'u'lláh when He publicly declared His mission, claiming leadership for himself and creating a schism among the Bábís. He is remembered as the primary Covenant-breaker of the Báb Dispensation.",
+      "confusionAlert": "Do not confuse with Vahíd (Siyyid Yahyá-i-Dárábí) or Yahyá Khán (the warden of Chihríq).",
       "pages": [
         273,
         275,
@@ -1179,11 +1179,11 @@
     },
     {
       "id": "mirza_musa",
-      "name": "M\u00edrz\u00e1 M\u00fas\u00e1 (\u00c1q\u00e1y-i-Kal\u00edm)",
+      "name": "Mírzá Músá (Áqáy-i-Kalím)",
       "sortName": "Musa, Mirza (Aqay-i-Kalim)",
       "titles": [
-        "\u00c1q\u00e1y-i-Kal\u00edm",
-        "Kal\u00edm"
+        "Áqáy-i-Kalím",
+        "Kalím"
       ],
       "cityOfOrigin": "Tehran",
       "relations": [
@@ -1192,8 +1192,8 @@
           "type": "Faithful brother and assistant of"
         }
       ],
-      "bio": "M\u00edrz\u00e1 M\u00fas\u00e1, commonly known as \u00c1q\u00e1y-i-Kal\u00edm, was one of the two faithful brothers of Bah\u00e1'u'll\u00e1h (the other being M\u00edrz\u00e1 Mihd\u00ed, who died young). He accepted the B\u00e1b's cause early on and stood resolutely beside Bah\u00e1'u'll\u00e1h through all His exiles, imprisonments, and hardships.\n\nHe was recognized by Shoghi Effendi as one of the Apostles of Bah\u00e1'u'll\u00e1h, serving as a trusted pillar of the community and assisting in managing the affairs of the exiles in Baghdad, Adrianople, and Acre.",
-      "confusionAlert": "Often called Kal\u00edm in the narrative. Do not confuse with other Mirzas.",
+      "bio": "Mírzá Músá, commonly known as Áqáy-i-Kalím, was one of the two faithful brothers of Bahá'u'lláh (the other being Mírzá Mihdí, who died young). He accepted the Báb's cause early on and stood resolutely beside Bahá'u'lláh through all His exiles, imprisonments, and hardships.\n\nHe was recognized by Shoghi Effendi as one of the Apostles of Bahá'u'lláh, serving as a trusted pillar of the community and assisting in managing the affairs of the exiles in Baghdad, Adrianople, and Acre.",
+      "confusionAlert": "Often called Kalím in the narrative. Do not confuse with other Mirzas.",
       "pages": [
         74,
         75,
@@ -1225,7 +1225,7 @@
     },
     {
       "id": "haji_mirza_aqasi",
-      "name": "H\u00e1j\u00ed M\u00edrz\u00e1 \u00c1q\u00e1s\u00ed",
+      "name": "Hájí Mírzá Áqásí",
       "sortName": "Aqasi, Haji Mirza",
       "titles": [
         "Grand Vizier of Persia",
@@ -1242,8 +1242,8 @@
           "type": "Persecutor and jailer of"
         }
       ],
-      "bio": "H\u00e1j\u00ed M\u00edrz\u00e1 \u00c1q\u00e1s\u00ed was the Grand Vizier (Prime Minister) of Persia during the reign of Muhammad Shah. He exerted immense, almost hypnotic spiritual and political influence over the weak-willed Shah. Fearing that the B\u00e1b's growing popularity would strip him of his power, he actively blocked the B\u00e1b from meeting the Shah.\n\nHe ordered the B\u00e1b's confinement in the remote mountain fortresses of M\u00e1h-K\u00fa and Chihr\u00edq, attempting to isolate Him from His followers. After the death of Muhammad Shah in 1848, he fell from power, was pillaged by his enemies, and fled to Iraq, where he died in obscurity.",
-      "confusionAlert": "Often referred to simply as \u00c1q\u00e1s\u00ed or the Grand Vizier. Do not confuse with other Hajis.",
+      "bio": "Hájí Mírzá Áqásí was the Grand Vizier (Prime Minister) of Persia during the reign of Muhammad Shah. He exerted immense, almost hypnotic spiritual and political influence over the weak-willed Shah. Fearing that the Báb's growing popularity would strip him of his power, he actively blocked the Báb from meeting the Shah.\n\nHe ordered the Báb's confinement in the remote mountain fortresses of Máh-Kú and Chihríq, attempting to isolate Him from His followers. After the death of Muhammad Shah in 1848, he fell from power, was pillaged by his enemies, and fled to Iraq, where he died in obscurity.",
+      "confusionAlert": "Often referred to simply as Áqásí or the Grand Vizier. Do not confuse with other Hajis.",
       "pages": [
         87,
         88,
@@ -1280,11 +1280,11 @@
     },
     {
       "id": "muhammad_shah",
-      "name": "Muhammad Sh\u00e1h",
+      "name": "Muhammad Sháh",
       "sortName": "Muhammad Shah",
       "titles": [
-        "Sh\u00e1h of Persia",
-        "Muhammad Sh\u00e1h Q\u00e1j\u00e1r"
+        "Sháh of Persia",
+        "Muhammad Sháh Qájár"
       ],
       "cityOfOrigin": "Tehran",
       "relations": [
@@ -1301,8 +1301,8 @@
           "type": "Sovereign who ordered the arrest of"
         }
       ],
-      "bio": "Muhammad Sh\u00e1h was the king (Sh\u00e1h) of Persia from 1834 to 1848. A weak ruler plagued by illness, he fell entirely under the sway of his Grand Vizier, H\u00e1j\u00ed M\u00edrz\u00e1 \u00c1q\u00e1s\u00ed. Intrigued by the reports of the B\u00e1b, he sent Siyyid Yahy\u00e1-i-D\u00e1r\u00e1b\u00ed (Vah\u00edd) to investigate Him.\n\nAlthough Vah\u00edd reported back that the B\u00e1b was the promised Savior, the Shah was persuaded by the Grand Vizier to avoid meeting Him and instead order His confinement in M\u00e1h-K\u00fa. Muhammad Shah died of gout in September 1848, sparking civil unrest and immediate upheavals across Persia.",
-      "confusionAlert": "Do not confuse with the B\u00e1b (M\u00edrz\u00e1 'Al\u00ed-Muhammad) or other figures named Muhammad.",
+      "bio": "Muhammad Sháh was the king (Sháh) of Persia from 1834 to 1848. A weak ruler plagued by illness, he fell entirely under the sway of his Grand Vizier, Hájí Mírzá Áqásí. Intrigued by the reports of the Báb, he sent Siyyid Yahyá-i-Dárábí (Vahíd) to investigate Him.\n\nAlthough Vahíd reported back that the Báb was the promised Savior, the Shah was persuaded by the Grand Vizier to avoid meeting Him and instead order His confinement in Máh-Kú. Muhammad Shah died of gout in September 1848, sparking civil unrest and immediate upheavals across Persia.",
+      "confusionAlert": "Do not confuse with the Báb (Mírzá 'Alí-Muhammad) or other figures named Muhammad.",
       "pages": [
         87,
         88,
@@ -1348,12 +1348,12 @@
     },
     {
       "id": "nasirid_din_shah",
-      "name": "N\u00e1siri'd-D\u00edn Sh\u00e1h",
+      "name": "Násiri'd-Dín Sháh",
       "sortName": "Nasirid-Din Shah",
       "titles": [
         "Crown Prince",
-        "Sh\u00e1h of Persia",
-        "N\u00e1siri'd-D\u00edn M\u00edrz\u00e1"
+        "Sháh of Persia",
+        "Násiri'd-Dín Mírzá"
       ],
       "cityOfOrigin": "Tehran",
       "relations": [
@@ -1366,8 +1366,8 @@
           "type": "Ordered execution of (when Shah)"
         }
       ],
-      "bio": "N\u00e1siri'd-D\u00edn Sh\u00e1h was the Crown Prince (N\u00e1siri'd-D\u00edn M\u00edrz\u00e1) who ascended the throne of Persia in 1848 after his father's death, reigning until his assassination in 1896. During the B\u00e1b's trial in Tabriz in 1848, the young prince presided over the assembly where the B\u00e1b declared His station to the assembled clergy.\n\nUpon becoming Shah, under the guidance of his prime minister Am\u00edr Kab\u00edr, he ordered the execution of the B\u00e1b in 1850 and oversaw the brutal persecution of thousands of B\u00e1b\u00eds, culminating in the horrific massacres of 1852 following the failed assassination attempt on his life.",
-      "confusionAlert": "Called N\u00e1siri'd-D\u00edn M\u00edrz\u00e1 when he was the Crown Prince. Do not confuse with his father Muhammad Shah.",
+      "bio": "Násiri'd-Dín Sháh was the Crown Prince (Násiri'd-Dín Mírzá) who ascended the throne of Persia in 1848 after his father's death, reigning until his assassination in 1896. During the Báb's trial in Tabriz in 1848, the young prince presided over the assembly where the Báb declared His station to the assembled clergy.\n\nUpon becoming Shah, under the guidance of his prime minister Amír Kabír, he ordered the execution of the Báb in 1850 and oversaw the brutal persecution of thousands of Bábís, culminating in the horrific massacres of 1852 following the failed assassination attempt on his life.",
+      "confusionAlert": "Called Násiri'd-Dín Mírzá when he was the Crown Prince. Do not confuse with his father Muhammad Shah.",
       "pages": [
         231,
         235,
@@ -1402,11 +1402,11 @@
     },
     {
       "id": "mulla_ali_bastami",
-      "name": "Mull\u00e1 'Al\u00edy-i-Bast\u00e1m\u00ed",
+      "name": "Mullá 'Alíy-i-Bastámí",
       "sortName": "Bastami, Mulla 'Aliy-i",
       "titles": [
         "Letter of the Living",
-        "First Martyr of the B\u00e1b\u00ed Dispensation"
+        "First Martyr of the Bábí Dispensation"
       ],
       "cityOfOrigin": "Bastam",
       "relations": [
@@ -1415,8 +1415,8 @@
           "type": "Second Letter of the Living, Disciple of"
         }
       ],
-      "bio": "Mull\u00e1 'Al\u00edy-i-Bast\u00e1m\u00ed was the second Letter of the Living and the first martyr of the B\u00e1b\u00ed Dispensation. He accepted the B\u00e1b immediately after Mull\u00e1 Husayn. The B\u00e1b sent him to Iraq to announce the declaration to the leading Shia clerics of Karbil\u00e1 and Najaf.\n\nHis bold proclamations provoked a massive backlash from both Shia and Sunni authorities. He was arrested, tried in Baghdad in a famous inter-sectarian trial, and sent to Istanbul as a prisoner, where he was condemned to hard labor. He died in captivity around 1846, becoming the first to lay down his life for the B\u00e1b's cause.",
-      "confusionAlert": "Do not confuse with Siyyid 'Al\u00ed-i-Zun\u00faz\u00ed or other individuals named 'Al\u00ed.",
+      "bio": "Mullá 'Alíy-i-Bastámí was the second Letter of the Living and the first martyr of the Bábí Dispensation. He accepted the Báb immediately after Mullá Husayn. The Báb sent him to Iraq to announce the declaration to the leading Shia clerics of Karbilá and Najaf.\n\nHis bold proclamations provoked a massive backlash from both Shia and Sunni authorities. He was arrested, tried in Baghdad in a famous inter-sectarian trial, and sent to Istanbul as a prisoner, where he was condemned to hard labor. He died in captivity around 1846, becoming the first to lay down his life for the Báb's cause.",
+      "confusionAlert": "Do not confuse with Siyyid 'Alí-i-Zunúzí or other individuals named 'Alí.",
       "pages": [
         39,
         48,
@@ -1434,10 +1434,10 @@
     },
     {
       "id": "anis",
-      "name": "An\u00eds (Mull\u00e1 Muhammad-'Al\u00ed-i-Zun\u00faz\u00ed)",
+      "name": "Anís (Mullá Muhammad-'Alí-i-Zunúzí)",
       "sortName": "Anis",
       "titles": [
-        "An\u00eds (The Companion)"
+        "Anís (The Companion)"
       ],
       "cityOfOrigin": "Zunuz",
       "relations": [
@@ -1450,8 +1450,8 @@
           "type": "Step-son of"
         }
       ],
-      "bio": "An\u00eds (born Mull\u00e1 Muhammad-'Al\u00ed-i-Zun\u00faz\u00ed) was a young B\u00e1b\u00ed from Tabriz who achieved eternal fame for his absolute devotion to the B\u00e1b. When the B\u00e1b was brought to Tabriz for execution, An\u00eds threw himself at the B\u00e1b's feet, pleading to be allowed to share His martyrdom.\n\nOn July 9, 1850, he was suspended alongside the B\u00e1b in the public square. When the first regiment of 750 soldiers fired, the smoke cleared to reveal the B\u00e1b unharmed and the ropes severed, but An\u00eds stood there untouched, refusing to leave the B\u00e1b's side. He was suspended again and shot by the second regiment, his body mingled with the B\u00e1b's in death.",
-      "confusionAlert": "Birth name was Mull\u00e1 Muhammad-'Al\u00ed. The name An\u00eds (meaning 'Companion') was given to him by the B\u00e1b. Do not confuse with Qudd\u00fas or Hujjat.",
+      "bio": "Anís (born Mullá Muhammad-'Alí-i-Zunúzí) was a young Bábí from Tabriz who achieved eternal fame for his absolute devotion to the Báb. When the Báb was brought to Tabriz for execution, Anís threw himself at the Báb's feet, pleading to be allowed to share His martyrdom.\n\nOn July 9, 1850, he was suspended alongside the Báb in the public square. When the first regiment of 750 soldiers fired, the smoke cleared to reveal the Báb unharmed and the ropes severed, but Anís stood there untouched, refusing to leave the Báb's side. He was suspended again and shot by the second regiment, his body mingled with the Báb's in death.",
+      "confusionAlert": "Birth name was Mullá Muhammad-'Alí. The name Anís (meaning 'Companion') was given to him by the Báb. Do not confuse with Quddús or Hujjat.",
       "pages": [
         224
       ],
@@ -1463,7 +1463,7 @@
     },
     {
       "id": "haji_siyyid_javad",
-      "name": "H\u00e1j\u00ed Siyyid Jav\u00e1d-i-Karbil\u00e1'\u00ed",
+      "name": "Hájí Siyyid Javád-i-Karbilá'í",
       "sortName": "Javad-i-Karbilai, Haji Siyyid",
       "titles": [
         "Prominent Scholar"
@@ -1483,7 +1483,7 @@
           "type": "Early believer and defender of"
         }
       ],
-      "bio": "H\u00e1j\u00ed Siyyid Jav\u00e1d-i-Karbil\u00e1'\u00ed was a revered and elder scholar of the Shaykh\u00ed school who had been a close associate of both Shaykh Ahmad and Siyyid K\u00e1zim. He recognized the B\u00e1b's station immediately after His declaration.\n\nHe was renowned for his saintly life and traveled extensively, helping to confirm many prominent figures (including Vah\u00edd) in their faith. He survived the early upheavals and later became a devoted follower of Bah\u00e1'u'll\u00e1h.",
+      "bio": "Hájí Siyyid Javád-i-Karbilá'í was a revered and elder scholar of the Shaykhí school who had been a close associate of both Shaykh Ahmad and Siyyid Kázim. He recognized the Báb's station immediately after His declaration.\n\nHe was renowned for his saintly life and traveled extensively, helping to confirm many prominent figures (including Vahíd) in their faith. He survived the early upheavals and later became a devoted follower of Bahá'u'lláh.",
       "confusionAlert": "Do not confuse with other Siyyids or Mirzas.",
       "pages": [
         57,
@@ -1505,10 +1505,11 @@
     },
     {
       "id": "siyyid_ali_zunuzi",
-      "name": "Siyyid 'Al\u00ed-i-Zun\u00faz\u00ed",
+      "name": "Siyyid 'Alí-i-Zunúzí",
       "sortName": "Zunuzi, Siyyid 'Ali-i",
       "titles": [
-        "Prominent Believer"
+        "Prominent Believer",
+        "Siyyid"
       ],
       "cityOfOrigin": "Zunuz",
       "relations": [
@@ -1521,37 +1522,13 @@
           "type": "Devoted defender of"
         }
       ],
-      "bio": "Siyyid 'Al\u00ed-i-Zun\u00faz\u00ed was a prominent and wealthy merchant of Tabriz who accepted the B\u00e1b. When his step-son An\u00eds (Mull\u00e1 Muhammad-'Al\u00ed) became obsessed with the B\u00e1b, Siyyid 'Al\u00ed tried to protect him by locking him in his room to prevent his arrest.\n\nDespite his efforts, An\u00eds escaped to join the B\u00e1b during His final days in Tabriz. Siyyid 'Al\u00ed is remembered as a devoted and sorrowful figure who witnessed the martyrdom of his step-son.",
-      "confusionAlert": "Do not confuse with the B\u00e1b (M\u00edrz\u00e1 'Al\u00ed-Muhammad) or Mull\u00e1 'Al\u00edy-i-Bast\u00e1m\u00ed.",
+      "bio": "Siyyid 'Alí-i-Zunúzí was a prominent and wealthy merchant of Tabriz who accepted the Báb. When his step-son Anís (Mullá Muhammad-'Alí) became obsessed with the Báb, Siyyid 'Alí tried to protect him by locking him in his room to prevent his arrest.\n\nDespite his efforts, Anís escaped to join the Báb during His final days in Tabriz. Siyyid 'Alí is remembered as a devoted and sorrowful figure who witnessed the martyrdom of his step-son.",
+      "confusionAlert": "Do not confuse with the Báb (Mírzá 'Alí-Muhammad) or Mullá 'Alíy-i-Bastámí.",
       "pages": [
-        54,
-        55,
-        57,
-        90,
-        104,
-        112,
-        113,
-        114,
-        120,
-        121,
-        131,
-        133,
-        134,
-        149,
-        150,
-        151,
-        153,
-        226,
-        238,
-        297,
-        323,
-        327,
-        328,
-        329,
-        333,
-        335,
-        351,
-        446
+        224,
+        225,
+        376,
+        377
       ],
       "birthYear": 1795,
       "deathYear": 1855,
@@ -1561,7 +1538,7 @@
     },
     {
       "id": "mulla_yusuf",
-      "name": "Mull\u00e1 Yus\u00faf-i-Ardibil\u00ed",
+      "name": "Mullá Yusúf-i-Ardibilí",
       "sortName": "Yusuf-i-Ardibili, Mulla",
       "titles": [
         "Letter of the Living"
@@ -1574,10 +1551,10 @@
         },
         {
           "targetId": "mulla_husayn",
-          "type": "Combatant under (Fort Tabars\u00ed)"
+          "type": "Combatant under (Fort Tabarsí)"
         }
       ],
-      "bio": "Mull\u00e1 Yus\u00faf-i-Ardibil\u00ed was a Letter of the Living. He was a learned divine who joined the B\u00e1b\u00eds at Fort Shaykh Tabars\u00ed, participating actively in the defense and proving himself to be a capable and spiritual soldier.\n\nHe was captured after the fall of the fort and was martyred alongside the other survivors by the royal troops in Mazandaran in 1849.",
+      "bio": "Mullá Yusúf-i-Ardibilí was a Letter of the Living. He was a learned divine who joined the Bábís at Fort Shaykh Tabarsí, participating actively in the defense and proving himself to be a capable and spiritual soldier.\n\nHe was captured after the fall of the fort and was martyred alongside the other survivors by the royal troops in Mazandaran in 1849.",
       "confusionAlert": "Do not confuse with other Mullas.",
       "pages": [
         144,
@@ -1597,7 +1574,7 @@
     },
     {
       "id": "mulla_mihdy",
-      "name": "Mull\u00e1 Mihd\u00edy-i-Yazd\u00ed",
+      "name": "Mullá Mihdíy-i-Yazdí",
       "sortName": "Mihdy-i-Yazdi, Mulla",
       "titles": [
         "Early Believer"
@@ -1613,8 +1590,8 @@
           "type": "Follower of"
         }
       ],
-      "bio": "Mull\u00e1 Mihd\u00edy-i-Yazd\u00ed was a prominent B\u00e1b\u00ed of Yazd. When Vah\u00edd arrived in Yazd to proclaim the B\u00e1b's message, Mull\u00e1 Mihd\u00ed hosted him in his home and became one of his most active supporters.\n\nHe participated in defending Vah\u00edd when local mobs and government forces attacked them, and was eventually arrested and martyred during the persecutions that swept Yazd.",
-      "confusionAlert": "Do not confuse with other figures named Mihd\u00ed.",
+      "bio": "Mullá Mihdíy-i-Yazdí was a prominent Bábí of Yazd. When Vahíd arrived in Yazd to proclaim the Báb's message, Mullá Mihdí hosted him in his home and became one of his most active supporters.\n\nHe participated in defending Vahíd when local mobs and government forces attacked them, and was eventually arrested and martyred during the persecutions that swept Yazd.",
+      "confusionAlert": "Do not confuse with other figures named Mihdí.",
       "pages": [],
       "birthYear": 1805,
       "deathYear": 1850,
@@ -1624,11 +1601,11 @@
     },
     {
       "id": "mirza_ahmad",
-      "name": "M\u00edrz\u00e1 Ahmad-i-K\u00e1tib",
+      "name": "Mírzá Ahmad-i-Kátib",
       "sortName": "Ahmad-i-Katib, Mirza",
       "titles": [
-        "Amanuensis of the B\u00e1b",
-        "M\u00edrz\u00e1 Ahmad-i-Qazv\u00edn\u00ed"
+        "Amanuensis of the Báb",
+        "Mírzá Ahmad-i-Qazvíní"
       ],
       "cityOfOrigin": "Qazvin",
       "relations": [
@@ -1637,8 +1614,8 @@
           "type": "Amanuensis/Secretary to"
         }
       ],
-      "bio": "M\u00edrz\u00e1 Ahmad-i-K\u00e1tib (also known as M\u00edrz\u00e1 Ahmad-i-Qazv\u00edn\u00ed) was the close amanuensis (secretary) of the B\u00e1b. He transcribed many of the B\u00e1b's writings during His imprisonment and helped copy and distribute them to the believers.\n\nHe was highly regarded for his beautiful calligraphy and deep devotion. He traveled between Shiraz, Tehran, and the northern fortresses to convey the B\u00e1b's messages. He was martyred during the massacres of 1852 in Tehran.",
-      "confusionAlert": "Do not confuse with Shaykh Ahmad-i-Ahs\u00e1'\u00ed.",
+      "bio": "Mírzá Ahmad-i-Kátib (also known as Mírzá Ahmad-i-Qazvíní) was the close amanuensis (secretary) of the Báb. He transcribed many of the Báb's writings during His imprisonment and helped copy and distribute them to the believers.\n\nHe was highly regarded for his beautiful calligraphy and deep devotion. He traveled between Shiraz, Tehran, and the northern fortresses to convey the Báb's messages. He was martyred during the massacres of 1852 in Tehran.",
+      "confusionAlert": "Do not confuse with Shaykh Ahmad-i-Ahsá'í.",
       "pages": [
         40,
         91,
@@ -1676,10 +1653,10 @@
     },
     {
       "id": "haji_mirza_seet_ali",
-      "name": "H\u00e1j\u00ed M\u00edrz\u00e1 Siyyid 'Al\u00ed (Kh\u00e1l-i-A'zam)",
+      "name": "Hájí Mírzá Siyyid 'Alí (Khál-i-A'zam)",
       "sortName": "Ali, Haji Mirza Siyyid (Khal-i-A'zam)",
       "titles": [
-        "Kh\u00e1l-i-A'zam (The Great Uncle)"
+        "Khál-i-A'zam (The Great Uncle)"
       ],
       "cityOfOrigin": "Shiraz",
       "relations": [
@@ -1688,8 +1665,8 @@
           "type": "Maternal Uncle of (raised Him)"
         }
       ],
-      "bio": "H\u00e1j\u00ed M\u00edrz\u00e1 Siyyid 'Al\u00ed, known as Kh\u00e1l-i-A'zam, was the maternal uncle of the B\u00e1b who raised Him after His father died. He was a respected merchant in Shiraz who initially protected the B\u00e1b out of family affection and later became a devoted believer.\n\nHe refused to recant his faith when arrested, choosing instead to share the fate of his Nephew. He was martyred in Tehran in 1850 as one of the Seven Martyrs of Tehran.",
-      "confusionAlert": "Mainly referred to as Kh\u00e1l-i-A'zam. Do not confuse with other Siyyids.",
+      "bio": "Hájí Mírzá Siyyid 'Alí, known as Khál-i-A'zam, was the maternal uncle of the Báb who raised Him after His father died. He was a respected merchant in Shiraz who initially protected the Báb out of family affection and later became a devoted believer.\n\nHe refused to recant his faith when arrested, choosing instead to share the fate of his Nephew. He was martyred in Tehran in 1850 as one of the Seven Martyrs of Tehran.",
+      "confusionAlert": "Mainly referred to as Khál-i-A'zam. Do not confuse with other Siyyids.",
       "pages": [
         54,
         55,
@@ -1717,10 +1694,10 @@
     },
     {
       "id": "mulla_sadiq",
-      "name": "Mull\u00e1 S\u00e1diq-i-Muqaddas (Jin\u00e1b-i-Muqaddas)",
+      "name": "Mullá Sádiq-i-Muqaddas (Jináb-i-Muqaddas)",
       "sortName": "Sadiq-i-Muqaddas, Mulla",
       "titles": [
-        "Jin\u00e1b-i-Muqaddas",
+        "Jináb-i-Muqaddas",
         "Muqaddas"
       ],
       "cityOfOrigin": "Khurasan",
@@ -1730,8 +1707,8 @@
           "type": "Early believer and victim of scourging under"
         }
       ],
-      "bio": "Mull\u00e1 S\u00e1diq-i-Muqaddas was a prominent scholar who accepted the B\u00e1b. He was the first B\u00e1b\u00ed to add the name of the B\u00e1b to the traditional call to prayer (Adh\u00e1n) in Shiraz, which led to his immediate arrest, scourging, and expulsion from the city.\n\nHe survived the early persecutions and was titled 'Muqaddas' (The Holy) by Bah\u00e1'u'll\u00e1h for his absolute devotion and service to the Faith.",
-      "confusionAlert": "Often called Jin\u00e1b-i-Muqaddas. Do not confuse with other Mullas.",
+      "bio": "Mullá Sádiq-i-Muqaddas was a prominent scholar who accepted the Báb. He was the first Bábí to add the name of the Báb to the traditional call to prayer (Adhán) in Shiraz, which led to his immediate arrest, scourging, and expulsion from the city.\n\nHe survived the early persecutions and was titled 'Muqaddas' (The Holy) by Bahá'u'lláh for his absolute devotion and service to the Faith.",
+      "confusionAlert": "Often called Jináb-i-Muqaddas. Do not confuse with other Mullas.",
       "pages": [
         73,
         105,
@@ -1758,7 +1735,7 @@
     },
     {
       "id": "siyyid_basir",
-      "name": "Siyyid Bas\u00edr-i-Hind\u00ed",
+      "name": "Siyyid Basír-i-Hindí",
       "sortName": "Basir-i-Hindi, Siyyid",
       "titles": [
         "The Blind Seer"
@@ -1770,8 +1747,8 @@
           "type": "Believer who recognized Him by voice"
         }
       ],
-      "bio": "Siyyid Bas\u00edr-i-Hind\u00ed was a blind Indian nobleman and spiritual seeker of Shia descent. He traveled to Persia and recognized the B\u00e1b's station immediately upon hearing His voice. Despite his blindness, he possessed a profound spiritual sight and courage.\n\nHe traveled across Persia, proclaiming the B\u00e1b's message. He was arrested, tortured with extreme cruelty, and martyred in Tehran around 1851.",
-      "confusionAlert": "Mainly called Siyyid Bas\u00edr. Do not confuse with other Shia Siyyids.",
+      "bio": "Siyyid Basír-i-Hindí was a blind Indian nobleman and spiritual seeker of Shia descent. He traveled to Persia and recognized the Báb's station immediately upon hearing His voice. Despite his blindness, he possessed a profound spiritual sight and courage.\n\nHe traveled across Persia, proclaiming the Báb's message. He was arrested, tortured with extreme cruelty, and martyred in Tehran around 1851.",
+      "confusionAlert": "Mainly called Siyyid Basír. Do not confuse with other Shia Siyyids.",
       "pages": [
         443,
         444
@@ -1784,7 +1761,7 @@
     },
     {
       "id": "mulla_baqir",
-      "name": "Mull\u00e1 B\u00e1qir-i-Tabr\u00edz\u00ed",
+      "name": "Mullá Báqir-i-Tabrízí",
       "sortName": "Baqir-i-Tabrizi, Mulla",
       "titles": [
         "Letter of the Living"
@@ -1800,7 +1777,7 @@
           "type": "Follower of (recognized His station)"
         }
       ],
-      "bio": "Mull\u00e1 B\u00e1qir-i-Tabr\u00edz\u00ed was a Letter of the Living. He was the only Letter of the Living who survived all the B\u00e1b\u00ed upheavals and lived to recognize Bah\u00e1'u'll\u00e1h's station in Baghdad, remaining a faithful follower until his death.",
+      "bio": "Mullá Báqir-i-Tabrízí was a Letter of the Living. He was the only Letter of the Living who survived all the Bábí upheavals and lived to recognize Bahá'u'lláh's station in Baghdad, remaining a faithful follower until his death.",
       "confusionAlert": "Do not confuse with other Mullas.",
       "pages": [
         58,
@@ -1824,7 +1801,7 @@
     },
     {
       "id": "solayman_khan",
-      "name": "Sulaym\u00e1n Kh\u00e1n",
+      "name": "Sulaymán Khán",
       "sortName": "Solayman Khan",
       "titles": [
         "Prominent Martyr"
@@ -1840,8 +1817,8 @@
           "type": "Devoted follower of"
         }
       ],
-      "bio": "Sulaym\u00e1n Kh\u00e1n was a nobleman and military official who became a devoted B\u00e1b\u00ed. He is famous for the extraordinary manner of his martyrdom in Tehran in August 1852. The executioners cut holes in his chest and shoulders and inserted burning candles into his wounds.\n\nHe walked to the place of execution singing verses of joy, blowing out the candles himself as they burned down. His martyrdom is recorded as one of the most heroic and moving events in early B\u00e1b\u00ed history.",
-      "confusionAlert": "Mainly called Sulaym\u00e1n Kh\u00e1n. Do not confuse with other Khans.",
+      "bio": "Sulaymán Khán was a nobleman and military official who became a devoted Bábí. He is famous for the extraordinary manner of his martyrdom in Tehran in August 1852. The executioners cut holes in his chest and shoulders and inserted burning candles into his wounds.\n\nHe walked to the place of execution singing verses of joy, blowing out the candles himself as they burned down. His martyrdom is recorded as one of the most heroic and moving events in early Bábí history.",
+      "confusionAlert": "Mainly called Sulaymán Khán. Do not confuse with other Khans.",
       "pages": [
         171,
         281,
@@ -1865,10 +1842,10 @@
     },
     {
       "id": "tahirih_father",
-      "name": "Mull\u00e1 S\u00e1lih-i-Baragh\u00e1n\u00ed",
+      "name": "Mullá Sálih-i-Baraghání",
       "sortName": "Salih-i-Baraghani, Mulla",
       "titles": [
-        "Mujtahid of Qazv\u00edn"
+        "Mujtahid of Qazvín"
       ],
       "cityOfOrigin": "Qazvin",
       "relations": [
@@ -1881,8 +1858,8 @@
           "type": "Brother of"
         }
       ],
-      "bio": "Mull\u00e1 S\u00e1lih-i-Baragh\u00e1n\u00ed was a prominent and highly respected Mujtahid of Qazv\u00edn and the father of T\u00e1hirih. He loved his daughter deeply and educated her in theology and jurisprudence, but was deeply troubled by her conversion to the B\u00e1b\u00ed Faith.\n\nHe spent his final years in grief, torn between his love for his daughter and his orthodox religious obligations.",
-      "confusionAlert": "Do not confuse with his brother Mull\u00e1 Muhammad-Taq\u00ed.",
+      "bio": "Mullá Sálih-i-Baraghání was a prominent and highly respected Mujtahid of Qazvín and the father of Táhirih. He loved his daughter deeply and educated her in theology and jurisprudence, but was deeply troubled by her conversion to the Bábí Faith.\n\nHe spent his final years in grief, torn between his love for his daughter and his orthodox religious obligations.",
+      "confusionAlert": "Do not confuse with his brother Mullá Muhammad-Taqí.",
       "pages": [],
       "birthYear": 1772,
       "deathYear": 1853,
@@ -1892,11 +1869,11 @@
     },
     {
       "id": "tahirih_uncle",
-      "name": "Mull\u00e1 Muhammad-Taq\u00ed-i-Baragh\u00e1n\u00ed",
+      "name": "Mullá Muhammad-Taqí-i-Baraghání",
       "sortName": "Muhammad-Taqi-i-Baraghani, Mulla",
       "titles": [
         "The Third Martyr",
-        "Mull\u00e1 Taq\u00ed"
+        "Mullá Taqí"
       ],
       "cityOfOrigin": "Qazvin",
       "relations": [
@@ -1909,8 +1886,8 @@
           "type": "Brother of"
         }
       ],
-      "bio": "Mull\u00e1 Muhammad-Taq\u00ed-i-Baragh\u00e1n\u00ed (known in Bah\u00e1'\u00ed history as the Third Martyr) was a fanatical Shia Mujtahid of Qazv\u00edn who vehemently denounced Shaykh Ahmad and Siyyid K\u00e1zim, and later the B\u00e1b.\n\nHis denouncements provoked a young B\u00e1b\u00ed to attack and kill him while he was praying in the mosque in 1847. His murder sparked a wave of arrests and persecutions of B\u00e1b\u00eds across Qazv\u00edn and Tehran, including the imprisonment of T\u00e1hirih.",
-      "confusionAlert": "Often called Mull\u00e1 Taq\u00ed. Do not confuse with his brother Mull\u00e1 S\u00e1lih.",
+      "bio": "Mullá Muhammad-Taqí-i-Baraghání (known in Bahá'í history as the Third Martyr) was a fanatical Shia Mujtahid of Qazvín who vehemently denounced Shaykh Ahmad and Siyyid Kázim, and later the Báb.\n\nHis denouncements provoked a young Bábí to attack and kill him while he was praying in the mosque in 1847. His murder sparked a wave of arrests and persecutions of Bábís across Qazvín and Tehran, including the imprisonment of Táhirih.",
+      "confusionAlert": "Often called Mullá Taqí. Do not confuse with his brother Mullá Sálih.",
       "pages": [],
       "birthYear": 1774,
       "deathYear": 1847,
@@ -1920,10 +1897,10 @@
     },
     {
       "id": "mujtahid_zanjan",
-      "name": "Mull\u00e1 'Abdu'r-Rah\u00edm",
+      "name": "Mullá 'Abdu'r-Rahím",
       "sortName": "Abdur-Rahim, Mulla",
       "titles": [
-        "Mujtahid of Zanj\u00e1n"
+        "Mujtahid of Zanján"
       ],
       "cityOfOrigin": "Zanjan",
       "relations": [
@@ -1932,7 +1909,7 @@
           "type": "Chief opponent of"
         }
       ],
-      "bio": "Mull\u00e1 'Abdu'r-Rah\u00edm was the chief Mujtahid of Zanj\u00e1n who led the orthodox opposition against Hujjat. He wrote numerous letters to the Shah and the Grand Vizier denouncing Hujjat as a heretic, which ultimately led to Hujjat's arrest and the subsequent Zanj\u00e1n Upheaval.",
+      "bio": "Mullá 'Abdu'r-Rahím was the chief Mujtahid of Zanján who led the orthodox opposition against Hujjat. He wrote numerous letters to the Shah and the Grand Vizier denouncing Hujjat as a heretic, which ultimately led to Hujjat's arrest and the subsequent Zanján Upheaval.",
       "confusionAlert": "Do not confuse with other Mullas.",
       "pages": [],
       "birthYear": 1785,
@@ -1943,7 +1920,7 @@
     },
     {
       "id": "prince_hamzih_mirza",
-      "name": "Hamzih M\u00edrz\u00e1",
+      "name": "Hamzih Mírzá",
       "sortName": "Hamzih Mirza, Prince",
       "titles": [
         "Hishmatu'd-Dawlih",
@@ -1960,7 +1937,7 @@
           "type": "Military opponent of"
         }
       ],
-      "bio": "Hamzih M\u00edrz\u00e1, titled Hishmatu'd-Dawlih, was a brother of Muhammad Shah and a prominent prince of the royal Qajar house. He was appointed as the military commander of the imperial forces sent to crush the B\u00e1b\u00ed defenders at Fort Shaykh Tabars\u00ed.\n\nHe suffered several humiliating defeats at the hands of Mull\u00e1 Husayn's small band of defenders before ultimately besieging the fort and capturing it through a treacherous oath of peace.",
+      "bio": "Hamzih Mírzá, titled Hishmatu'd-Dawlih, was a brother of Muhammad Shah and a prominent prince of the royal Qajar house. He was appointed as the military commander of the imperial forces sent to crush the Bábí defenders at Fort Shaykh Tabarsí.\n\nHe suffered several humiliating defeats at the hands of Mullá Husayn's small band of defenders before ultimately besieging the fort and capturing it through a treacherous oath of peace.",
       "confusionAlert": "Often referred to as Hishmatu'd-Dawlih. Do not confuse with other Mirzas.",
       "pages": [
         210,
@@ -1977,10 +1954,10 @@
     },
     {
       "id": "ali_khan_maku",
-      "name": "'Al\u00ed Kh\u00e1n of M\u00e1h-K\u00fa",
+      "name": "'Alí Khán of Máh-Kú",
       "sortName": "Ali Khan of Maku",
       "titles": [
-        "Warden of M\u00e1h-K\u00fa Fortress"
+        "Warden of Máh-Kú Fortress"
       ],
       "cityOfOrigin": "Maku",
       "relations": [
@@ -1993,8 +1970,8 @@
           "type": "Subordinate of"
         }
       ],
-      "bio": "'Al\u00ed Kh\u00e1n was the warden of the mountain fortress of M\u00e1h-K\u00fa where the B\u00e1b was imprisoned. Initially hostile and strict, he was deeply affected by the B\u00e1b's saintly character, His nightly prayers, and the devotion of His followers.\n\nHe eventually relaxed the prison conditions, allowing pilgrims to visit the B\u00e1b, and became a secret believer, refusing to carry out the harsher orders of the Grand Vizier.",
-      "confusionAlert": "Do not confuse with other Khans or individuals named 'Al\u00ed.",
+      "bio": "'Alí Khán was the warden of the mountain fortress of Máh-Kú where the Báb was imprisoned. Initially hostile and strict, he was deeply affected by the Báb's saintly character, His nightly prayers, and the devotion of His followers.\n\nHe eventually relaxed the prison conditions, allowing pilgrims to visit the Báb, and became a secret believer, refusing to carry out the harsher orders of the Grand Vizier.",
+      "confusionAlert": "Do not confuse with other Khans or individuals named 'Alí.",
       "pages": [],
       "birthYear": 1800,
       "deathYear": 1860,
@@ -2004,10 +1981,10 @@
     },
     {
       "id": "yahya_khan_chehriq",
-      "name": "Yahy\u00e1 Kh\u00e1n",
+      "name": "Yahyá Khán",
       "sortName": "Yahya Khan of Chehriq",
       "titles": [
-        "Warden of Chihr\u00edq Fortress"
+        "Warden of Chihríq Fortress"
       ],
       "cityOfOrigin": "Chehriq",
       "relations": [
@@ -2020,8 +1997,8 @@
           "type": "Brother-in-law of"
         }
       ],
-      "bio": "Yahy\u00e1 Kh\u00e1n was the warden of the fortress of Chihr\u00edq and the brother-in-law of the Grand Vizier, H\u00e1j\u00ed M\u00edrz\u00e1 \u00c1q\u00e1s\u00ed. Although he was expected to enforce strict confinement on the B\u00e1b, he also fell under the spell of the B\u00e1b's character and treated Him with kindness and respect.",
-      "confusionAlert": "Do not confuse with Vah\u00edd (Siyyid Yahy\u00e1) or M\u00edrz\u00e1 Yahy\u00e1 (Subh-i-Azal).",
+      "bio": "Yahyá Khán was the warden of the fortress of Chihríq and the brother-in-law of the Grand Vizier, Hájí Mírzá Áqásí. Although he was expected to enforce strict confinement on the Báb, he also fell under the spell of the Báb's character and treated Him with kindness and respect.",
+      "confusionAlert": "Do not confuse with Vahíd (Siyyid Yahyá) or Mírzá Yahyá (Subh-i-Azal).",
       "pages": [
         219,
         220,
@@ -2408,23 +2385,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "aliy_i_tafarshi",
-      "name": "Aliy-i-Tafarshi",
-      "sortName": "Aliy-i-Tafarshi",
-      "titles": [],
-      "cityOfOrigin": "Tafarsh",
-      "relations": [],
-      "bio": "Aliy-i-Tafarshi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        446
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1852,
-      "storyAppearancePage": 446,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "aliy_i_zanjani",
       "name": "Aliy-i-Zanjani",
       "sortName": "Aliy-i-Zanjani",
@@ -2439,43 +2399,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1849,
       "storyAppearancePage": 237,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "aliy_i_zargar",
-      "name": "Aliy-i-Zargar",
-      "sortName": "Aliy-i-Zargar",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Aliy-i-Zargar is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        285
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 285,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "aliy_i_zunuzi",
-      "name": "Aliy-i-Zunuzi",
-      "sortName": "Aliy-i-Zunuzi",
-      "titles": [],
-      "cityOfOrigin": "Zunuz",
-      "relations": [],
-      "bio": "Aliy-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        224,
-        225,
-        376,
-        377
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 224,
       "category": "Prominent Believer"
     },
     {
@@ -2683,26 +2606,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 91,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "baqir_i_rashti",
-      "name": "Baqir-i-Rashti",
-      "sortName": "Baqir-i-Rashti",
-      "titles": [],
-      "cityOfOrigin": "Rasht",
-      "relations": [],
-      "bio": "Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        14,
-        158,
-        187,
-        303
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1826,
-      "storyAppearancePage": 14,
       "category": "Prominent Believer"
     },
     {
@@ -3122,33 +3025,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "hasan_i_zunuzi",
-      "name": "Hasan-i-Zunuzi",
-      "sortName": "Hasan-i-Zunuzi",
-      "titles": [],
-      "cityOfOrigin": "Zunuz",
-      "relations": [],
-      "bio": "Hasan-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        20,
-        146,
-        149,
-        162,
-        170,
-        173,
-        175,
-        176,
-        225,
-        232,
-        448
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1844,
-      "storyAppearancePage": 20,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "hujjat_i_zanjani",
       "name": "Hujjat-i-Zanjani",
       "sortName": "Hujjat-i-Zanjani",
@@ -3164,23 +3040,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 135,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "husayn_i_azghandi",
-      "name": "Husayn-i-Azghandi",
-      "sortName": "Husayn-i-Azghandi",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Husayn-i-Azghandi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        141
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1846,
-      "storyAppearancePage": 141,
       "category": "Prominent Believer"
     },
     {
@@ -3304,24 +3163,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "husayn_i_mutavalli",
-      "name": "Husayn-i-Mutavalli",
-      "sortName": "Husayn-i-Mutavalli",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Husayn-i-Mutavalli is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        285,
-        293
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 285,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "husayn_i_qannad",
       "name": "Husayn-i-Qannad",
       "sortName": "Husayn-i-Qannad",
@@ -3373,31 +3214,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "husayn_i_yazdi",
-      "name": "Husayn-i-Yazdi",
-      "sortName": "Husayn-i-Yazdi",
-      "titles": [],
-      "cityOfOrigin": "Yazd",
-      "relations": [],
-      "bio": "Husayn-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        58,
-        149,
-        162,
-        165,
-        168,
-        170,
-        171,
-        181,
-        471
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1845,
-      "storyAppearancePage": 58,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "husayn_i_zanjani",
       "name": "Husayn-i-Zanjani",
       "sortName": "Husayn-i-Zanjani",
@@ -3412,24 +3228,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1851,
       "storyAppearancePage": 435,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "husayn_i_zavari",
-      "name": "Husayn-i-Zavari",
-      "sortName": "Husayn-i-Zavari",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Husayn-i-Zavari is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        318,
-        319
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1850,
-      "storyAppearancePage": 318,
       "category": "Prominent Believer"
     },
     {
@@ -3519,25 +3317,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "ibrahim_i_khalil",
-      "name": "Ibrahim-i-Khalil",
-      "sortName": "Ibrahim-i-Khalil",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Ibrahim-i-Khalil is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        24,
-        224,
-        225
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1844,
-      "storyAppearancePage": 24,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "ibrahim_i_mahallati",
       "name": "Ibrahim-i-Mahallati",
       "sortName": "Ibrahim-i-Mahallati",
@@ -3552,23 +3331,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 203,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "ibrahim_i_qazvini",
-      "name": "Ibrahim-i-Qazvini",
-      "sortName": "Ibrahim-i-Qazvini",
-      "titles": [],
-      "cityOfOrigin": "Qazvin",
-      "relations": [],
-      "bio": "Ibrahim-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        14
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1826,
-      "storyAppearancePage": 14,
       "category": "Prominent Believer"
     },
     {
@@ -3714,23 +3476,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "javad_i_kirmani",
-      "name": "Javad-i-Kirmani",
-      "sortName": "Javad-i-Kirmani",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Javad-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        137
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1846,
-      "storyAppearancePage": 137,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "jaziriy_i_khadra",
       "name": "Jaziriy-i-Khadra",
       "sortName": "Jaziriy-i-Khadra",
@@ -3799,25 +3544,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 120,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "kazim_i_zanjani",
-      "name": "Kazim-i-Zanjani",
-      "sortName": "Kazim-i-Zanjani",
-      "titles": [],
-      "cityOfOrigin": "Zanjan",
-      "relations": [],
-      "bio": "Kazim-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        151,
-        153,
-        398
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1846,
-      "storyAppearancePage": 151,
       "category": "Prominent Believer"
     },
     {
@@ -4846,23 +4572,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "muhammad_i_gulpaygani",
-      "name": "Muhammad-i-Gulpaygani",
-      "sortName": "Muhammad-i-Gulpaygani",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Muhammad-i-Gulpaygani is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        195
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1847,
-      "storyAppearancePage": 195,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "muhammad_i_hamzih",
       "name": "Muhammad-i-Hamzih",
       "sortName": "Muhammad-i-Hamzih",
@@ -4896,23 +4605,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 118,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "muhammad_i_isfahani",
-      "name": "Muhammad-i-Isfahani",
-      "sortName": "Muhammad-i-Isfahani",
-      "titles": [],
-      "cityOfOrigin": "Isfahan",
-      "relations": [],
-      "bio": "Muhammad-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        243
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 243,
       "category": "Prominent Believer"
     },
     {
@@ -5007,24 +4699,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 75,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "muhammad_i_shibl",
-      "name": "Muhammad-i-Shibl",
-      "sortName": "Muhammad-i-Shibl",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Muhammad-i-Shibl is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        194,
-        195
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1847,
-      "storyAppearancePage": 194,
       "category": "Prominent Believer"
     },
     {
@@ -5430,23 +5104,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "riday_i_khurasani",
-      "name": "Riday-i-Khurasani",
-      "sortName": "Riday-i-Khurasani",
-      "titles": [],
-      "cityOfOrigin": "Khurasan",
-      "relations": [],
-      "bio": "Riday-i-Khurasani is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        293
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 293,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "riday_i_kuchik",
       "name": "Riday-i-Kuchik",
       "sortName": "Riday-i-Kuchik",
@@ -5731,23 +5388,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "shahid_i_mazkan",
-      "name": "Shahid-i-Mazkan",
-      "sortName": "Shahid-i-Mazkan",
-      "titles": [],
-      "cityOfOrigin": null,
-      "relations": [],
-      "bio": "Shahid-i-Mazkan is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        443
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1852,
-      "storyAppearancePage": 443,
-      "category": "Opponent"
-    },
-    {
       "id": "shahid_i_thalith",
       "name": "Shahid-i-Thalith",
       "sortName": "Shahid-i-Thalith",
@@ -5988,7 +5628,8 @@
         175,
         176,
         225,
-        232
+        232,
+        448
       ],
       "birthYear": null,
       "deathYear": null,
@@ -6383,26 +6024,6 @@
       "category": "Prominent Believer"
     },
     {
-      "id": "siyyid_aliy_i_zunuzi",
-      "name": "Siyyid Aliy-i-Zunuzi",
-      "sortName": "Aliy-i-Zunuzi, Siyyid",
-      "titles": [
-        "Siyyid"
-      ],
-      "cityOfOrigin": "Zunuz",
-      "relations": [],
-      "bio": "Siyyid Aliy-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        224,
-        377
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1849,
-      "storyAppearancePage": 224,
-      "category": "Prominent Believer"
-    },
-    {
       "id": "siyyid_asadu",
       "name": "Siyyid Asadu",
       "sortName": "Asadu, Siyyid",
@@ -6441,25 +6062,6 @@
       "deathYear": null,
       "storyAppearanceYear": 1851,
       "storyAppearancePage": 400,
-      "category": "Prominent Believer"
-    },
-    {
-      "id": "siyyid_baqir_i_rashti",
-      "name": "Siyyid Baqir-i-Rashti",
-      "sortName": "Baqir-i-Rashti, Siyyid",
-      "titles": [
-        "Siyyid"
-      ],
-      "cityOfOrigin": "Rasht",
-      "relations": [],
-      "bio": "Siyyid Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        303
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1850,
-      "storyAppearancePage": 303,
       "category": "Prominent Believer"
     },
     {
@@ -6579,6 +6181,7 @@
       "pages": [
         58,
         149,
+        162,
         165,
         168,
         170,
@@ -6768,6 +6371,7 @@
       "relations": [],
       "bio": "Siyyid Mirza Husayn-i-Mutavalli is a historical figure mentioned in *The Dawn-Breakers*.",
       "pages": [
+        285,
         293
       ],
       "birthYear": null,
@@ -6816,7 +6420,9 @@
       "bio": "Siyyid Muhammad Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
       "pages": [
         14,
-        158
+        158,
+        187,
+        303
       ],
       "birthYear": null,
       "deathYear": null,
@@ -7032,23 +6638,6 @@
       "storyAppearanceYear": 1848,
       "storyAppearancePage": 212,
       "category": "Prominent Believer"
-    },
-    {
-      "id": "sultan_i_karbila",
-      "name": "Sultan-i-Karbila",
-      "sortName": "Sultan-i-Karbila",
-      "titles": [],
-      "cityOfOrigin": "Karbila",
-      "relations": [],
-      "bio": "Sultan-i-Karbila is a historical figure mentioned in *The Dawn-Breakers*.",
-      "pages": [
-        146
-      ],
-      "birthYear": null,
-      "deathYear": null,
-      "storyAppearanceYear": 1846,
-      "storyAppearancePage": 146,
-      "category": "Opponent"
     },
     {
       "id": "suriy_i_ayyub",
@@ -7472,19 +7061,19 @@
   "cities": [
     {
       "id": "shiraz",
-      "name": "Sh\u00edr\u00e1z",
+      "name": "Shíráz",
       "events": [
         {
-          "title": "Declaration of the B\u00e1b",
-          "description": "On May 23, 1844, Siyyid 'Al\u00ed-Muhammad declared His mission as the B\u00e1b to Mull\u00e1 Husayn in Shiraz, marking the birth of the B\u00e1b\u00ed Faith."
+          "title": "Declaration of the Báb",
+          "description": "On May 23, 1844, Siyyid 'Alí-Muhammad declared His mission as the Báb to Mullá Husayn in Shiraz, marking the birth of the Bábí Faith."
         },
         {
-          "title": "Arrest and Scourging of Mull\u00e1 S\u00e1diq",
-          "description": "Mull\u00e1 S\u00e1diq-i-Muqaddas was arrested and publicly scourged in Shiraz for adding the B\u00e1b's name to the call to prayer."
+          "title": "Arrest and Scourging of Mullá Sádiq",
+          "description": "Mullá Sádiq-i-Muqaddas was arrested and publicly scourged in Shiraz for adding the Báb's name to the call to prayer."
         },
         {
-          "title": "House Arrest of the B\u00e1b",
-          "description": "The B\u00e1b was arrested upon His return from pilgrimage and placed under house arrest at the home of His uncle, Kh\u00e1l-i-A'zam."
+          "title": "House Arrest of the Báb",
+          "description": "The Báb was arrested upon His return from pilgrimage and placed under house arrest at the home of His uncle, Khál-i-A'zam."
         }
       ],
       "pages": [
@@ -7583,19 +7172,19 @@
     },
     {
       "id": "tehran",
-      "name": "\u1e6cihr\u00e1n",
+      "name": "Ṭihrán",
       "events": [
         {
           "title": "Unveiling at Badasht Preparation",
-          "description": "Tehran served as the assembly point for many early B\u00e1b\u00eds, where Bah\u00e1'u'll\u00e1h organized the B\u00e1b\u00eds and prepared them for the conference."
+          "description": "Tehran served as the assembly point for many early Bábís, where Bahá'u'lláh organized the Bábís and prepared them for the conference."
         },
         {
           "title": "Martyrdom of the Seven Martyrs",
-          "description": "Seven prominent B\u00e1b\u00eds, including the B\u00e1b's uncle Kh\u00e1l-i-A'zam, were publicly executed in Tehran for refusing to recant their faith."
+          "description": "Seven prominent Bábís, including the Báb's uncle Khál-i-A'zam, were publicly executed in Tehran for refusing to recant their faith."
         },
         {
-          "title": "Imprisonment in the Siy\u00e1h-Ch\u00e1l",
-          "description": "Following the attempt on the Shah's life in 1852, Bah\u00e1'u'll\u00e1h and other B\u00e1b\u00eds were cast into the dark dungeon, where Bah\u00e1'u'll\u00e1h received His divine revelation."
+          "title": "Imprisonment in the Siyáh-Chál",
+          "description": "Following the attempt on the Shah's life in 1852, Bahá'u'lláh and other Bábís were cast into the dark dungeon, where Bahá'u'lláh received His divine revelation."
         }
       ],
       "pages": [
@@ -7755,12 +7344,12 @@
       "name": "Yazd",
       "events": [
         {
-          "title": "Proclamation by Vah\u00edd",
-          "description": "Vah\u00edd arrived in Yazd, attracting thousands to the B\u00e1b's cause and hosting massive religious debates."
+          "title": "Proclamation by Vahíd",
+          "description": "Vahíd arrived in Yazd, attracting thousands to the Báb's cause and hosting massive religious debates."
         },
         {
-          "title": "Anti-B\u00e1b\u00ed Riots",
-          "description": "The local clergy incited mobs to attack Vah\u00edd and his hosts, resulting in the martyrdom of several early believers and forcing Vah\u00edd to flee to Nayr\u00edz."
+          "title": "Anti-Bábí Riots",
+          "description": "The local clergy incited mobs to attack Vahíd and his hosts, resulting in the martyrdom of several early believers and forcing Vahíd to flee to Nayríz."
         }
       ],
       "pages": [
@@ -7788,15 +7377,15 @@
     },
     {
       "id": "tabriz",
-      "name": "Tabr\u00edz",
+      "name": "Tabríz",
       "events": [
         {
-          "title": "Trial of the B\u00e1b",
-          "description": "The B\u00e1b was brought from His fortress prison to stand trial before a tribunal of Shia clergy and Crown Prince N\u00e1siri'd-D\u00edn M\u00edrz\u00e1, where He declared His station."
+          "title": "Trial of the Báb",
+          "description": "The Báb was brought from His fortress prison to stand trial before a tribunal of Shia clergy and Crown Prince Násiri'd-Dín Mírzá, where He declared His station."
         },
         {
-          "title": "Martyrdom of the B\u00e1b",
-          "description": "On July 9, 1850, the B\u00e1b and His disciple An\u00eds were executed in the public square of Tabriz by a firing squad."
+          "title": "Martyrdom of the Báb",
+          "description": "On July 9, 1850, the Báb and His disciple Anís were executed in the public square of Tabriz by a firing squad."
         }
       ],
       "pages": [
@@ -7842,15 +7431,15 @@
     },
     {
       "id": "isfahan",
-      "name": "I\u1e63fah\u00e1n",
+      "name": "Iṣfahán",
       "events": [
         {
-          "title": "Refuge under Man\u00fachihr Kh\u00e1n",
-          "description": "The B\u00e1b was hosted in Isfahan by the sympathetic governor Man\u00fachihr Kh\u00e1n, who offered Him protection and his entire fortune to spread the Faith."
+          "title": "Refuge under Manúchihr Khán",
+          "description": "The Báb was hosted in Isfahan by the sympathetic governor Manúchihr Khán, who offered Him protection and his entire fortune to spread the Faith."
         },
         {
           "title": "Governor's Death and Arrest",
-          "description": "Upon the governor's death in 1847, the B\u00e1b was arrested by order of the Grand Vizier and escorted to Tehran and then M\u00e1h-K\u00fa."
+          "description": "Upon the governor's death in 1847, the Báb was arrested by order of the Grand Vizier and escorted to Tehran and then Máh-Kú."
         }
       ],
       "pages": [
@@ -7897,15 +7486,15 @@
     },
     {
       "id": "zanjan",
-      "name": "Zanj\u00e1n",
+      "name": "Zanján",
       "events": [
         {
           "title": "Conversion of Hujjat",
-          "description": "Hujjat converted to the B\u00e1b\u00ed Faith, leading his entire congregation of several thousand to accept the B\u00e1b."
+          "description": "Hujjat converted to the Bábí Faith, leading his entire congregation of several thousand to accept the Báb."
         },
         {
-          "title": "The Zanj\u00e1n Upheaval",
-          "description": "A brutal siege (1850-1851) where the B\u00e1b\u00ed quarter, led by Hujjat, defended itself against imperial troops before being massacred."
+          "title": "The Zanján Upheaval",
+          "description": "A brutal siege (1850-1851) where the Bábí quarter, led by Hujjat, defended itself against imperial troops before being massacred."
         }
       ],
       "pages": [
@@ -7967,15 +7556,15 @@
     },
     {
       "id": "nayriz",
-      "name": "Nayr\u00edz",
+      "name": "Nayríz",
       "events": [
         {
-          "title": "Arrival of Vah\u00edd",
-          "description": "Vah\u00edd arrived in Nayriz, leading to the conversion of the local governor's family and thousands of townspeople."
+          "title": "Arrival of Vahíd",
+          "description": "Vahíd arrived in Nayriz, leading to the conversion of the local governor's family and thousands of townspeople."
         },
         {
-          "title": "Nayr\u00edz Upheavals",
-          "description": "A series of battles at the fort of Kh\u00e1jih where Vah\u00edd and the B\u00e1b\u00eds defended themselves before being betrayed by a false treaty."
+          "title": "Nayríz Upheavals",
+          "description": "A series of battles at the fort of Khájih where Vahíd and the Bábís defended themselves before being betrayed by a false treaty."
         }
       ],
       "pages": [
@@ -8012,7 +7601,7 @@
       "events": [
         {
           "title": "Conference of Badasht",
-          "description": "A historic gathering of 81 B\u00e1b\u00eds in 1848, organized by Bah\u00e1'u'll\u00e1h, where T\u00e1hirih appeared unveiled, signaling the independence of the new dispensation."
+          "description": "A historic gathering of 81 Bábís in 1848, organized by Bahá'u'lláh, where Táhirih appeared unveiled, signaling the independence of the new dispensation."
         }
       ],
       "pages": [
@@ -8033,15 +7622,15 @@
     },
     {
       "id": "maku",
-      "name": "M\u00e1h-K\u00fa",
+      "name": "Máh-Kú",
       "events": [
         {
-          "title": "Imprisonment of the B\u00e1b",
-          "description": "The B\u00e1b was imprisoned in the castle of Maku, where He composed the Bay\u00e1n, His primary doctrinal work."
+          "title": "Imprisonment of the Báb",
+          "description": "The Báb was imprisoned in the castle of Maku, where He composed the Bayán, His primary doctrinal work."
         },
         {
-          "title": "Conversion of warden 'Al\u00ed Kh\u00e1n",
-          "description": "The warden 'Al\u00ed Kh\u00e1n fell under the B\u00e1b's influence and relaxed the prison restrictions, allowing pilgrims to reach the B\u00e1b."
+          "title": "Conversion of warden 'Alí Khán",
+          "description": "The warden 'Alí Khán fell under the Báb's influence and relaxed the prison restrictions, allowing pilgrims to reach the Báb."
         }
       ],
       "pages": [
@@ -8073,11 +7662,11 @@
     },
     {
       "id": "chehriq",
-      "name": "Chihr\u00edq",
+      "name": "Chihríq",
       "events": [
         {
-          "title": "Confinement of the B\u00e1b",
-          "description": "The B\u00e1b was transferred to Chihr\u00edq fortress to isolate Him further from His followers, but the warden also became sympathetic."
+          "title": "Confinement of the Báb",
+          "description": "The Báb was transferred to Chihríq fortress to isolate Him further from His followers, but the warden also became sympathetic."
         }
       ],
       "pages": [
@@ -8108,15 +7697,15 @@
     },
     {
       "id": "karbila",
-      "name": "Karbil\u00e1",
+      "name": "Karbilá",
       "events": [
         {
-          "title": "Shaykh\u00ed Lectures",
-          "description": "Siyyid K\u00e1zim taught the imminent advent of the Mihd\u00ed, making Karbila the focal point of spiritual search."
+          "title": "Shaykhí Lectures",
+          "description": "Siyyid Kázim taught the imminent advent of the Mihdí, making Karbila the focal point of spiritual search."
         },
         {
-          "title": "Arrest of Bast\u00e1m\u00ed",
-          "description": "Mull\u00e1 'Al\u00edy-i-Bast\u00e1m\u00ed arrived to announce the B\u00e1b's declaration, leading to his arrest and the start of official persecutions."
+          "title": "Arrest of Bastámí",
+          "description": "Mullá 'Alíy-i-Bastámí arrived to announce the Báb's declaration, leading to his arrest and the start of official persecutions."
         }
       ],
       "pages": [
@@ -8229,11 +7818,11 @@
     },
     {
       "id": "barfurush",
-      "name": "B\u00e1rfur\u00fash",
+      "name": "Bárfurúsh",
       "events": [
         {
-          "title": "Arrest and Martyrdom of Qudd\u00fas",
-          "description": "Qudd\u00fas was brutally tortured and martyred in the public square of his home city by an incited mob led by local clerics."
+          "title": "Arrest and Martyrdom of Quddús",
+          "description": "Quddús was brutally tortured and martyred in the public square of his home city by an incited mob led by local clerics."
         }
       ],
       "pages": [
@@ -8267,11 +7856,11 @@
     },
     {
       "id": "bushruyih",
-      "name": "Bushr\u00fayih",
+      "name": "Bushrúyih",
       "events": [
         {
-          "title": "Birthplace of Mull\u00e1 Husayn",
-          "description": "The hometown of Mull\u00e1 Husayn, from which he set out to find the Promised One."
+          "title": "Birthplace of Mullá Husayn",
+          "description": "The hometown of Mullá Husayn, from which he set out to find the Promised One."
         }
       ],
       "pages": [
@@ -8284,15 +7873,15 @@
     },
     {
       "id": "qazvin",
-      "name": "Qazv\u00edn",
+      "name": "Qazvín",
       "events": [
         {
-          "title": "Murder of Mull\u00e1 Taq\u00ed",
-          "description": "The uncle and father-in-law of T\u00e1hirih was murdered in the mosque, sparking massive arrests of B\u00e1b\u00eds."
+          "title": "Murder of Mullá Taqí",
+          "description": "The uncle and father-in-law of Táhirih was murdered in the mosque, sparking massive arrests of Bábís."
         },
         {
-          "title": "House arrest of T\u00e1hirih",
-          "description": "T\u00e1hirih was imprisoned in her family home before being secretly rescued by agents of Bah\u00e1'u'll\u00e1h and brought to Tehran."
+          "title": "House arrest of Táhirih",
+          "description": "Táhirih was imprisoned in her family home before being secretly rescued by agents of Bahá'u'lláh and brought to Tehran."
         }
       ],
       "pages": [
@@ -8332,7 +7921,7 @@
       "events": [
         {
           "title": "Raising the Black Standard",
-          "description": "Mull\u00e1 Husayn raised the Black Standard of Khurasan in Mashhad, marching with B\u00e1b\u00ed defenders toward Mazandaran."
+          "description": "Mullá Husayn raised the Black Standard of Khurasan in Mashhad, marching with Bábí defenders toward Mazandaran."
         }
       ],
       "pages": [
