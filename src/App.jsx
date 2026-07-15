@@ -124,7 +124,6 @@ export default function App() {
     if (!searchQuery.trim()) return true;
     return (
       fuzzyMatch(person.name, searchQuery) ||
-      fuzzyMatch(person.bio, searchQuery) ||
       (person.cityOfOrigin && fuzzyMatch(person.cityOfOrigin, searchQuery)) ||
       person.titles.some(title => fuzzyMatch(title, searchQuery))
     );
@@ -170,7 +169,7 @@ export default function App() {
           <Search size={20} className="search-icon" />
           <input
             type="text"
-            placeholder={activeTab === 'people' ? "Search historical figures, titles, bios, origins..." : "Search cities and historical events..."}
+            placeholder={activeTab === 'people' ? "Search historical figures, titles, origins..." : "Search cities and historical events..."}
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="search-input"

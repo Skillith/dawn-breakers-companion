@@ -117,7 +117,7 @@ describe('Dawn-Breakers Study Companion Integration Tests', () => {
   it('US-06: should perform robust, accent-insensitive fuzzy search', () => {
     render(<App />);
     
-    const searchInput = screen.getByPlaceholderText(/Search historical figures, titles, bios, origins/i);
+    const searchInput = screen.getByPlaceholderText(/Search historical figures, titles, origins/i);
     
     // Test case 1: Search "Mulla" without diacritics
     fireEvent.change(searchInput, { target: { value: 'Mulla' } });
@@ -126,6 +126,7 @@ describe('Dawn-Breakers Study Companion Integration Tests', () => {
     // Should match "Mullá Husayn-i-Bushrú'í" and "Quddús (Mullá Muhammad...)"
     expect(mullaResults.some(r => r.textContent.includes('Mull\u00e1'))).toBe(true);
     expect(mullaResults.some(r => r.textContent.includes('The B\u00e1b'))).toBe(false); // Bab does not match mulla
+    expect(mullaResults.some(r => r.textContent.includes('Hamzih M\u00edrz\u00e1'))).toBe(false); // Hamzih Mirza's bio mentions Mullá, but he shouldn't match
     
     // Test case 2: Search "mula" with typo
     fireEvent.change(searchInput, { target: { value: 'mula' } });
