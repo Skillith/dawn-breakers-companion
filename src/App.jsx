@@ -6,6 +6,81 @@ import CityCard from './components/CityCard';
 import RelationshipGraph from './components/RelationshipGraph';
 import ExportButton from './components/ExportButton';
 
+
+export function normalizeText(text) {
+  if (!text) return '';
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // remove diacritics
+    .replace(/[-]/g, " ")            // replace hyphens with spaces
+    .replace(/['’`']/g, "")          // remove apostrophes/quotes
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, " ");           // collapse spaces
+}
+
+export function getEditDistance(a, b) {
+  if (a.length === 0) return b.length;
+  if (b.length === 0) return a.length;
+
+  const matrix = [];
+
+  for (let i = 0; i <= b.length; i++) {
+    matrix[i] = [i];
+  }
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      if (b.charAt(i - 1) === a.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1, // substitution
+          Math.min(
+            matrix[i][j - 1] + 1, // insertion
+            matrix[i - 1][j] + 1  // deletion
+          )
+        );
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
+}
+
+export function fuzzyMatch(text, query) {
+  if (!query) return true;
+  if (!text) return false;
+
+  const normText = normalizeText(text);
+  const normQuery = normalizeText(query);
+
+  // Direct substring match is the primary check
+  if (normText.includes(normQuery)) return true;
+
+  // Word-based match check
+  const queryWords = normQuery.split(" ");
+  const textWords = normText.split(" ");
+
+  // Every word in query should match (or be very close to) at least one word in text
+  return queryWords.every(qWord => {
+    if (qWord.length <= 2) {
+      // For very short words, require simple prefix/substring match
+      return textWords.some(tWord => tWord.includes(qWord));
+    }
+    return textWords.some(tWord => {
+      if (tWord.includes(qWord)) return true;
+      // Allow minor typos (Levenshtein distance <= 25% of query word length, min 1 typo)
+      const maxDistance = Math.max(1, Math.floor(qWord.length * 0.25));
+      return getEditDistance(qWord, tWord) <= maxDistance;
+    });
+  });
+}
+
 export default function App() {
   const [theme, setTheme] = useState(() => localStorage.getItem('theme') || 'light');
   const [activeTab, setActiveTab] = useState('people');
@@ -46,23 +121,21 @@ export default function App() {
 
   // Filter people
   const filteredPeople = data.people.filter(person => {
-    const query = searchQuery.toLowerCase().trim();
-    if (!query) return true;
+    if (!searchQuery.trim()) return true;
     return (
-      person.name.toLowerCase().includes(query) ||
-      person.bio.toLowerCase().includes(query) ||
-      (person.cityOfOrigin && person.cityOfOrigin.toLowerCase().includes(query)) ||
-      person.titles.some(title => title.toLowerCase().includes(query))
+      fuzzyMatch(person.name, searchQuery) ||
+      fuzzyMatch(person.bio, searchQuery) ||
+      (person.cityOfOrigin && fuzzyMatch(person.cityOfOrigin, searchQuery)) ||
+      person.titles.some(title => fuzzyMatch(title, searchQuery))
     );
   }).sort((a, b) => a.name.localeCompare(b.name));
 
   // Filter cities
   const filteredCities = data.cities.filter(city => {
-    const query = searchQuery.toLowerCase().trim();
-    if (!query) return true;
+    if (!searchQuery.trim()) return true;
     return (
-      city.name.toLowerCase().includes(query) ||
-      city.events.some(e => e.title.toLowerCase().includes(query) || e.description.toLowerCase().includes(query))
+      fuzzyMatch(city.name, searchQuery) ||
+      city.events.some(e => fuzzyMatch(e.title, searchQuery) || fuzzyMatch(e.description, searchQuery))
     );
   }).sort((a, b) => a.name.localeCompare(b.name));
 
