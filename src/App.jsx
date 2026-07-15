@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Search, Moon, Sun, Users, Map, Network, Info } from 'lucide-react';
+import { Search, Moon, Sun, Users, Map, Network, Info, Clock } from 'lucide-react';
 import data from './data.json';
 import PersonCard from './components/PersonCard';
 import CityCard from './components/CityCard';
 import RelationshipGraph from './components/RelationshipGraph';
 import ExportButton from './components/ExportButton';
+import TimelineView from './components/TimelineView';
 
 
 export function normalizeText(text) {
@@ -169,7 +170,12 @@ export default function App() {
           <Search size={20} className="search-icon" />
           <input
             type="text"
-            placeholder={activeTab === 'people' ? "Search historical figures, titles, origins..." : "Search cities and historical events..."}
+            placeholder={
+              activeTab === 'people' ? "Search historical figures, titles, origins..." :
+              activeTab === 'cities' ? "Search cities and historical events..." :
+              activeTab === 'timeline' ? "Search timeline figures by name, title, origin..." :
+              "Search..."
+            }
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="search-input"
@@ -197,6 +203,13 @@ export default function App() {
           >
             <Network size={16} />
             Connections Map
+          </button>
+          <button
+            onClick={() => { setActiveTab('timeline'); clearSearch(); }}
+            className={`tab-btn ${activeTab === 'timeline' ? 'active' : ''}`}
+          >
+            <Clock size={16} />
+            Timeline
           </button>
         </div>
       </section>
@@ -242,6 +255,14 @@ export default function App() {
         {activeTab === 'relations' && (
           <RelationshipGraph
             people={data.people}
+            onSelectPerson={handleSelectPerson}
+          />
+        )}
+
+        {activeTab === 'timeline' && (
+          <TimelineView
+            people={data.people}
+            searchQuery={searchQuery}
             onSelectPerson={handleSelectPerson}
           />
         )}

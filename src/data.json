@@ -303,7 +303,12 @@
         486,
         487,
         488
-      ]
+      ],
+      "birthYear": 1819,
+      "deathYear": 1850,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 5,
+      "category": "Manifestation"
     },
     {
       "id": "bahaullah",
@@ -424,6 +429,7 @@
         350,
         353,
         365,
+        374,
         383,
         384,
         385,
@@ -460,7 +466,12 @@
         486,
         487,
         488
-      ]
+      ],
+      "birthYear": 1817,
+      "deathYear": 1892,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 5,
+      "category": "Manifestation"
     },
     {
       "id": "mulla_husayn",
@@ -612,7 +623,12 @@
         445,
         450,
         487
-      ]
+      ],
+      "birthYear": 1813,
+      "deathYear": 1849,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 15,
+      "category": "Letter of the Living"
     },
     {
       "id": "quddus",
@@ -732,7 +748,12 @@
         439,
         450,
         487
-      ]
+      ],
+      "birthYear": 1820,
+      "deathYear": 1849,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 24,
+      "category": "Letter of the Living"
     },
     {
       "id": "vahid",
@@ -757,9 +778,11 @@
       "confusionAlert": "Do not confuse with M\u00edrz\u00e1 Yahy\u00e1 (Subh-i-Azal), Bah\u00e1'u'll\u00e1h's half-brother.",
       "pages": [
         90,
+        129,
         130,
         131,
         134,
+        135,
         144,
         307,
         314,
@@ -799,7 +822,12 @@
         450,
         483,
         487
-      ]
+      ],
+      "birthYear": 1811,
+      "deathYear": 1850,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 90,
+      "category": "Prominent Believer"
     },
     {
       "id": "hujjat",
@@ -868,7 +896,12 @@
         450,
         485,
         487
-      ]
+      ],
+      "birthYear": 1813,
+      "deathYear": 1851,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 135,
+      "category": "Prominent Believer"
     },
     {
       "id": "tahirih",
@@ -938,7 +971,12 @@
         470,
         472,
         487
-      ]
+      ],
+      "birthYear": 1817,
+      "deathYear": 1852,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 58,
+      "category": "Letter of the Living"
     },
     {
       "id": "shaykh_ahmad",
@@ -997,7 +1035,12 @@
         196,
         297,
         320
-      ]
+      ],
+      "birthYear": 1753,
+      "deathYear": 1826,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 1,
+      "category": "Precursor"
     },
     {
       "id": "siyyid_kazim",
@@ -1086,9 +1129,15 @@
         308,
         309,
         310,
+        320,
         398,
         459
-      ]
+      ],
+      "birthYear": 1793,
+      "deathYear": 1843,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 6,
+      "category": "Precursor"
     },
     {
       "id": "mirza_yahya",
@@ -1121,7 +1170,12 @@
         471,
         479,
         487
-      ]
+      ],
+      "birthYear": 1831,
+      "deathYear": 1912,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 273,
+      "category": "Prominent Believer"
     },
     {
       "id": "mirza_musa",
@@ -1162,7 +1216,12 @@
         447,
         451,
         461
-      ]
+      ],
+      "birthYear": 1818,
+      "deathYear": 1887,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 74,
+      "category": "Prominent Believer"
     },
     {
       "id": "haji_mirza_aqasi",
@@ -1212,7 +1271,12 @@
         396,
         397,
         487
-      ]
+      ],
+      "birthYear": 1783,
+      "deathYear": 1849,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 87,
+      "category": "Opponent"
     },
     {
       "id": "muhammad_shah",
@@ -1275,7 +1339,12 @@
         444,
         458,
         487
-      ]
+      ],
+      "birthYear": 1808,
+      "deathYear": 1848,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 87,
+      "category": "Opponent"
     },
     {
       "id": "nasirid_din_shah",
@@ -1324,7 +1393,12 @@
         485,
         487,
         488
-      ]
+      ],
+      "birthYear": 1831,
+      "deathYear": 1896,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 231,
+      "category": "Opponent"
     },
     {
       "id": "mulla_ali_bastami",
@@ -1351,7 +1425,12 @@
         61,
         108,
         487
-      ]
+      ],
+      "birthYear": 1810,
+      "deathYear": 1846,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 39,
+      "category": "Letter of the Living"
     },
     {
       "id": "anis",
@@ -1375,7 +1454,12 @@
       "confusionAlert": "Birth name was Mull\u00e1 Muhammad-'Al\u00ed. The name An\u00eds (meaning 'Companion') was given to him by the B\u00e1b. Do not confuse with Qudd\u00fas or Hujjat.",
       "pages": [
         224
-      ]
+      ],
+      "birthYear": 1822,
+      "deathYear": 1850,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 224,
+      "category": "Prominent Believer"
     },
     {
       "id": "haji_siyyid_javad",
@@ -1410,8 +1494,14 @@
         145,
         146,
         148,
+        327,
         447
-      ]
+      ],
+      "birthYear": 1785,
+      "deathYear": 1882,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 57,
+      "category": "Prominent Believer"
     },
     {
       "id": "siyyid_ali_zunuzi",
@@ -1433,7 +1523,41 @@
       ],
       "bio": "Siyyid 'Al\u00ed-i-Zun\u00faz\u00ed was a prominent and wealthy merchant of Tabriz who accepted the B\u00e1b. When his step-son An\u00eds (Mull\u00e1 Muhammad-'Al\u00ed) became obsessed with the B\u00e1b, Siyyid 'Al\u00ed tried to protect him by locking him in his room to prevent his arrest.\n\nDespite his efforts, An\u00eds escaped to join the B\u00e1b during His final days in Tabriz. Siyyid 'Al\u00ed is remembered as a devoted and sorrowful figure who witnessed the martyrdom of his step-son.",
       "confusionAlert": "Do not confuse with the B\u00e1b (M\u00edrz\u00e1 'Al\u00ed-Muhammad) or Mull\u00e1 'Al\u00edy-i-Bast\u00e1m\u00ed.",
-      "pages": []
+      "pages": [
+        54,
+        55,
+        57,
+        90,
+        104,
+        112,
+        113,
+        114,
+        120,
+        121,
+        131,
+        133,
+        134,
+        149,
+        150,
+        151,
+        153,
+        226,
+        238,
+        297,
+        323,
+        327,
+        328,
+        329,
+        333,
+        335,
+        351,
+        446
+      ],
+      "birthYear": 1795,
+      "deathYear": 1855,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 224,
+      "category": "Prominent Believer"
     },
     {
       "id": "mulla_yusuf",
@@ -1462,8 +1586,14 @@
         296,
         305,
         308,
-        309
-      ]
+        309,
+        459
+      ],
+      "birthYear": 1812,
+      "deathYear": 1849,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 144,
+      "category": "Letter of the Living"
     },
     {
       "id": "mulla_mihdy",
@@ -1485,7 +1615,12 @@
       ],
       "bio": "Mull\u00e1 Mihd\u00edy-i-Yazd\u00ed was a prominent B\u00e1b\u00ed of Yazd. When Vah\u00edd arrived in Yazd to proclaim the B\u00e1b's message, Mull\u00e1 Mihd\u00ed hosted him in his home and became one of his most active supporters.\n\nHe participated in defending Vah\u00edd when local mobs and government forces attacked them, and was eventually arrested and martyred during the persecutions that swept Yazd.",
       "confusionAlert": "Do not confuse with other figures named Mihd\u00ed.",
-      "pages": []
+      "pages": [],
+      "birthYear": 1805,
+      "deathYear": 1850,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 343,
+      "category": "Prominent Believer"
     },
     {
       "id": "mirza_ahmad",
@@ -1532,7 +1667,12 @@
         446,
         447,
         487
-      ]
+      ],
+      "birthYear": 1815,
+      "deathYear": 1852,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 40,
+      "category": "Prominent Believer"
     },
     {
       "id": "haji_mirza_seet_ali",
@@ -1568,7 +1708,12 @@
         328,
         329,
         335
-      ]
+      ],
+      "birthYear": 1792,
+      "deathYear": 1850,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 54,
+      "category": "Prominent Believer"
     },
     {
       "id": "mulla_sadiq",
@@ -1604,7 +1749,12 @@
         282,
         303,
         435
-      ]
+      ],
+      "birthYear": 1804,
+      "deathYear": 1889,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 73,
+      "category": "Prominent Believer"
     },
     {
       "id": "siyyid_basir",
@@ -1625,7 +1775,12 @@
       "pages": [
         443,
         444
-      ]
+      ],
+      "birthYear": 1800,
+      "deathYear": 1851,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 443,
+      "category": "Prominent Believer"
     },
     {
       "id": "mulla_baqir",
@@ -1660,7 +1815,12 @@
         368,
         373,
         374
-      ]
+      ],
+      "birthYear": 1810,
+      "deathYear": 1881,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 58,
+      "category": "Letter of the Living"
     },
     {
       "id": "solayman_khan",
@@ -1696,7 +1856,12 @@
         461,
         462,
         475
-      ]
+      ],
+      "birthYear": 1810,
+      "deathYear": 1852,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 171,
+      "category": "Prominent Believer"
     },
     {
       "id": "tahirih_father",
@@ -1718,7 +1883,12 @@
       ],
       "bio": "Mull\u00e1 S\u00e1lih-i-Baragh\u00e1n\u00ed was a prominent and highly respected Mujtahid of Qazv\u00edn and the father of T\u00e1hirih. He loved his daughter deeply and educated her in theology and jurisprudence, but was deeply troubled by her conversion to the B\u00e1b\u00ed Faith.\n\nHe spent his final years in grief, torn between his love for his daughter and his orthodox religious obligations.",
       "confusionAlert": "Do not confuse with his brother Mull\u00e1 Muhammad-Taq\u00ed.",
-      "pages": []
+      "pages": [],
+      "birthYear": 1772,
+      "deathYear": 1853,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 122,
+      "category": "Opponent"
     },
     {
       "id": "tahirih_uncle",
@@ -1741,7 +1911,12 @@
       ],
       "bio": "Mull\u00e1 Muhammad-Taq\u00ed-i-Baragh\u00e1n\u00ed (known in Bah\u00e1'\u00ed history as the Third Martyr) was a fanatical Shia Mujtahid of Qazv\u00edn who vehemently denounced Shaykh Ahmad and Siyyid K\u00e1zim, and later the B\u00e1b.\n\nHis denouncements provoked a young B\u00e1b\u00ed to attack and kill him while he was praying in the mosque in 1847. His murder sparked a wave of arrests and persecutions of B\u00e1b\u00eds across Qazv\u00edn and Tehran, including the imprisonment of T\u00e1hirih.",
       "confusionAlert": "Often called Mull\u00e1 Taq\u00ed. Do not confuse with his brother Mull\u00e1 S\u00e1lih.",
-      "pages": []
+      "pages": [],
+      "birthYear": 1774,
+      "deathYear": 1847,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 122,
+      "category": "Opponent"
     },
     {
       "id": "mujtahid_zanjan",
@@ -1759,7 +1934,12 @@
       ],
       "bio": "Mull\u00e1 'Abdu'r-Rah\u00edm was the chief Mujtahid of Zanj\u00e1n who led the orthodox opposition against Hujjat. He wrote numerous letters to the Shah and the Grand Vizier denouncing Hujjat as a heretic, which ultimately led to Hujjat's arrest and the subsequent Zanj\u00e1n Upheaval.",
       "confusionAlert": "Do not confuse with other Mullas.",
-      "pages": []
+      "pages": [],
+      "birthYear": 1785,
+      "deathYear": 1853,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 390,
+      "category": "Opponent"
     },
     {
       "id": "prince_hamzih_mirza",
@@ -1788,7 +1968,12 @@
         237,
         373,
         374
-      ]
+      ],
+      "birthYear": 1812,
+      "deathYear": 1882,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 210,
+      "category": "Opponent"
     },
     {
       "id": "ali_khan_maku",
@@ -1810,7 +1995,12 @@
       ],
       "bio": "'Al\u00ed Kh\u00e1n was the warden of the mountain fortress of M\u00e1h-K\u00fa where the B\u00e1b was imprisoned. Initially hostile and strict, he was deeply affected by the B\u00e1b's saintly character, His nightly prayers, and the devotion of His followers.\n\nHe eventually relaxed the prison conditions, allowing pilgrims to visit the B\u00e1b, and became a secret believer, refusing to carry out the harsher orders of the Grand Vizier.",
       "confusionAlert": "Do not confuse with other Khans or individuals named 'Al\u00ed.",
-      "pages": []
+      "pages": [],
+      "birthYear": 1800,
+      "deathYear": 1860,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 170,
+      "category": "Warden"
     },
     {
       "id": "yahya_khan_chehriq",
@@ -1839,7 +2029,5444 @@
         382,
         415,
         458
-      ]
+      ],
+      "birthYear": 1805,
+      "deathYear": 1865,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 219,
+      "category": "Warden"
+    },
+    {
+      "id": "abidin_i_shahmirzadi",
+      "name": "Abidin-i-Shahmirzadi",
+      "sortName": "Abidin-i-Shahmirzadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Abidin-i-Shahmirzadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        297
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 297,
+      "category": "Opponent"
+    },
+    {
+      "id": "abidin_i_yazdi",
+      "name": "Abidin-i-Yazdi",
+      "sortName": "Abidin-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Abidin-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        460
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 460,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_azghandi",
+      "name": "Ahmad-i-Azghandi",
+      "sortName": "Ahmad-i-Azghandi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ahmad-i-Azghandi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        91,
+        140,
+        440
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 91,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_bahrayni",
+      "name": "Ahmad-i-Bahrayni",
+      "sortName": "Ahmad-i-Bahrayni",
+      "titles": [],
+      "cityOfOrigin": "Bahrayn",
+      "relations": [],
+      "bio": "Ahmad-i-Bahrayni is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        197
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 197,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_ibdal",
+      "name": "Ahmad-i-Ibdal",
+      "sortName": "Ahmad-i-Ibdal",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ahmad-i-Ibdal is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        212
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_mu",
+      "name": "Ahmad-i-Mu",
+      "sortName": "Ahmad-i-Mu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ahmad-i-Mu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        91
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 91,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_nukhud_biriz",
+      "name": "Ahmad-i-Nukhud-Biriz",
+      "sortName": "Ahmad-i-Nukhud-Biriz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ahmad-i-Nukhud-Biriz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_saffar",
+      "name": "Ahmad-i-Saffar",
+      "sortName": "Ahmad-i-Saffar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ahmad-i-Saffar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ahmad_i_yazdi",
+      "name": "Ahmad-i-Yazdi",
+      "sortName": "Ahmad-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Ahmad-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        338
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 338,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "akbar_i_ardistani",
+      "name": "Akbar-i-Ardistani",
+      "sortName": "Akbar-i-Ardistani",
+      "titles": [],
+      "cityOfOrigin": "Ardistan",
+      "relations": [],
+      "bio": "Akbar-i-Ardistani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        303
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 303,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ali_i_banna",
+      "name": "Ali-i-Banna",
+      "sortName": "Ali-i-Banna",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ali-i-Banna is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_ardistani",
+      "name": "Aliy-i-Ardistani",
+      "sortName": "Aliy-i-Ardistani",
+      "titles": [],
+      "cityOfOrigin": "Ardistan",
+      "relations": [],
+      "bio": "Aliy-i-Ardistani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        435
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 435,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_banna",
+      "name": "Aliy-i-Banna",
+      "sortName": "Aliy-i-Banna",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Banna is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_haddad",
+      "name": "Aliy-i-Haddad",
+      "sortName": "Aliy-i-Haddad",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Haddad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        422
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 422,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_harati",
+      "name": "Aliy-i-Harati",
+      "sortName": "Aliy-i-Harati",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Harati is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        118,
+        120
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 118,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_mudhahhib",
+      "name": "Aliy-i-Mudhahhib",
+      "sortName": "Aliy-i-Mudhahhib",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Mudhahhib is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        365
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 365,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_mutavalli",
+      "name": "Aliy-i-Mutavalli",
+      "sortName": "Aliy-i-Mutavalli",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Mutavalli is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        306
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 306,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_nahri",
+      "name": "Aliy-i-Nahri",
+      "sortName": "Aliy-i-Nahri",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Nahri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        73,
+        118,
+        120,
+        121,
+        160,
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 73,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_qazvini",
+      "name": "Aliy-i-Qazvini",
+      "sortName": "Aliy-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Aliy-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        211,
+        212
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_sardar",
+      "name": "Aliy-i-Sardar",
+      "sortName": "Aliy-i-Sardar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Sardar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        358,
+        483
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 358,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_tabib",
+      "name": "Aliy-i-Tabib",
+      "sortName": "Aliy-i-Tabib",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Tabib is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        395,
+        435,
+        448
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 395,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_tafarshi",
+      "name": "Aliy-i-Tafarshi",
+      "sortName": "Aliy-i-Tafarshi",
+      "titles": [],
+      "cityOfOrigin": "Tafarsh",
+      "relations": [],
+      "bio": "Aliy-i-Tafarshi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        446
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 446,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_zanjani",
+      "name": "Aliy-i-Zanjani",
+      "sortName": "Aliy-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Aliy-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        237
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 237,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_zargar",
+      "name": "Aliy-i-Zargar",
+      "sortName": "Aliy-i-Zargar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aliy-i-Zargar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        285
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 285,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aliy_i_zunuzi",
+      "name": "Aliy-i-Zunuzi",
+      "sortName": "Aliy-i-Zunuzi",
+      "titles": [],
+      "cityOfOrigin": "Zunuz",
+      "relations": [],
+      "bio": "Aliy-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        224,
+        225,
+        376,
+        377
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 224,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "aqay_i_rikab_saz",
+      "name": "Aqay-i-Rikab-Saz",
+      "sortName": "Aqay-i-Rikab-Saz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Aqay-i-Rikab-Saz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        116
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 116,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ard_i_jannat",
+      "name": "Ard-i-Jannat",
+      "sortName": "Ard-i-Jannat",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ard-i-Jannat is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        181
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 181,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "azim_i_khu",
+      "name": "Azim-i-Khu",
+      "sortName": "Azim-i-Khu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Azim-i-Khu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        268,
+        348
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 268,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baf_i_yazdi",
+      "name": "Baf-i-Yazdi",
+      "sortName": "Baf-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Baf-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "bagh_i_jannat",
+      "name": "Bagh-i-Jannat",
+      "sortName": "Bagh-i-Jannat",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Bagh-i-Jannat is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        208
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 208,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "bagh_i_takht",
+      "name": "Bagh-i-Takht",
+      "sortName": "Bagh-i-Takht",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Bagh-i-Takht is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        152
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 152,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "bakhsh_i_quchani",
+      "name": "Bakhsh-i-Quchani",
+      "sortName": "Bakhsh-i-Quchani",
+      "titles": [],
+      "cityOfOrigin": "Quchan",
+      "relations": [],
+      "bio": "Bakhsh-i-Quchani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "band_i_isfahani",
+      "name": "Band-i-Isfahani",
+      "sortName": "Band-i-Isfahani",
+      "titles": [],
+      "cityOfOrigin": "Isfahan",
+      "relations": [],
+      "bio": "Band-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        441
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 441,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_bastami",
+      "name": "Baqir-i-Bastami",
+      "sortName": "Baqir-i-Bastami",
+      "titles": [],
+      "cityOfOrigin": "Bastam",
+      "relations": [],
+      "bio": "Baqir-i-Bastami is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        323
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 323,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_kafsh_duz",
+      "name": "Baqir-i-Kafsh-Duz",
+      "sortName": "Baqir-i-Kafsh-Duz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Baqir-i-Kafsh-Duz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_kandi",
+      "name": "Baqir-i-Kandi",
+      "sortName": "Baqir-i-Kandi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Baqir-i-Kandi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        291
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 291,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_qa",
+      "name": "Baqir-i-Qa",
+      "sortName": "Baqir-i-Qa",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Baqir-i-Qa is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        91,
+        190,
+        211
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 91,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_rashti",
+      "name": "Baqir-i-Rashti",
+      "sortName": "Baqir-i-Rashti",
+      "titles": [],
+      "cityOfOrigin": "Rasht",
+      "relations": [],
+      "bio": "Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        14,
+        158,
+        187,
+        303
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 14,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "baqir_i_sabbagh",
+      "name": "Baqir-i-Sabbagh",
+      "sortName": "Baqir-i-Sabbagh",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Baqir-i-Sabbagh is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "bavanat_i_fars",
+      "name": "Bavanat-i-Fars",
+      "sortName": "Bavanat-i-Fars",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Bavanat-i-Fars is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        352
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 352,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "big_i_chaparchi",
+      "name": "Big-i-Chaparchi",
+      "sortName": "Big-i-Chaparchi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Big-i-Chaparchi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        166,
+        323,
+        395
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 166,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "big_i_sanandaji",
+      "name": "Big-i-Sanandaji",
+      "sortName": "Big-i-Sanandaji",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Big-i-Sanandaji is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        85
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 85,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "buzurg_i_nuri",
+      "name": "Buzurg-i-Nuri",
+      "sortName": "Buzurg-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Buzurg-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        76
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 76,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "dawliy_i_isfahani",
+      "name": "Dawliy-i-Isfahani",
+      "sortName": "Dawliy-i-Isfahani",
+      "titles": [],
+      "cityOfOrigin": "Isfahan",
+      "relations": [],
+      "bio": "Dawliy-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        405
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 405,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "din_i_maliki_duz",
+      "name": "Din-i-Maliki-Duz",
+      "sortName": "Din-i-Maliki-Duz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Din-i-Maliki-Duz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "din_i_naraqi",
+      "name": "Din-i-Naraqi",
+      "sortName": "Din-i-Naraqi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Din-i-Naraqi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        5,
+        177
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 5,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "din_i_qazvini",
+      "name": "Din-i-Qazvini",
+      "sortName": "Din-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Din-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        287
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 287,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "fawj_i_kalbat",
+      "name": "Fawj-i-Kalbat",
+      "sortName": "Fawj-i-Kalbat",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Fawj-i-Kalbat is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        312
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 312,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hadiy_i_farhadi",
+      "name": "Hadiy-i-Farhadi",
+      "sortName": "Hadiy-i-Farhadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hadiy-i-Farhadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        205,
+        339,
+        341
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 205,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hakkak_i_qumi",
+      "name": "Hakkak-i-Qumi",
+      "sortName": "Hakkak-i-Qumi",
+      "titles": [],
+      "cityOfOrigin": "Qom",
+      "relations": [],
+      "bio": "Hakkak-i-Qumi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        457
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 457,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "haram_i_ma",
+      "name": "Haram-i-Ma",
+      "sortName": "Haram-i-Ma",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Haram-i-Ma is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        170
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 170,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_bajistani",
+      "name": "Hasan-i-Bajistani",
+      "sortName": "Hasan-i-Bajistani",
+      "titles": [],
+      "cityOfOrigin": "Bajistan",
+      "relations": [],
+      "bio": "Hasan-i-Bajistani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_bazzaz",
+      "name": "Hasan-i-Bazzaz",
+      "sortName": "Hasan-i-Bazzaz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hasan-i-Bazzaz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        116
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 116,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_chit_saz",
+      "name": "Hasan-i-Chit-Saz",
+      "sortName": "Hasan-i-Chit-Saz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hasan-i-Chit-Saz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_gawhar",
+      "name": "Hasan-i-Gawhar",
+      "sortName": "Hasan-i-Gawhar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hasan-i-Gawhar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        31,
+        38
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 31,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_najafi",
+      "name": "Hasan-i-Najafi",
+      "sortName": "Hasan-i-Najafi",
+      "titles": [],
+      "cityOfOrigin": "Najaf",
+      "relations": [],
+      "bio": "Hasan-i-Najafi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        298
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 298,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_nayini",
+      "name": "Hasan-i-Nayini",
+      "sortName": "Hasan-i-Nayini",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hasan-i-Nayini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        4,
+        5
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 4,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_nuri",
+      "name": "Hasan-i-Nuri",
+      "sortName": "Hasan-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Hasan-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        158
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 158,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_qazvini",
+      "name": "Hasan-i-Qazvini",
+      "sortName": "Hasan-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Hasan-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        208,
+        214
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 208,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_rashti",
+      "name": "Hasan-i-Rashti",
+      "sortName": "Hasan-i-Rashti",
+      "titles": [],
+      "cityOfOrigin": "Rasht",
+      "relations": [],
+      "bio": "Hasan-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        309
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 309,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_sha",
+      "name": "Hasan-i-Sha",
+      "sortName": "Hasan-i-Sha",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Hasan-i-Sha is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_shirazi",
+      "name": "Hasan-i-Shirazi",
+      "sortName": "Hasan-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Hasan-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        94
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 94,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hasan_i_zunuzi",
+      "name": "Hasan-i-Zunuzi",
+      "sortName": "Hasan-i-Zunuzi",
+      "titles": [],
+      "cityOfOrigin": "Zunuz",
+      "relations": [],
+      "bio": "Hasan-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        20,
+        146,
+        149,
+        162,
+        170,
+        173,
+        175,
+        176,
+        225,
+        232,
+        448
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 20,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "hujjat_i_zanjani",
+      "name": "Hujjat-i-Zanjani",
+      "sortName": "Hujjat-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Hujjat-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        135,
+        390
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 135,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_azghandi",
+      "name": "Husayn-i-Azghandi",
+      "sortName": "Husayn-i-Azghandi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Azghandi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        141
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 141,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_hakamiy",
+      "name": "Husayn-i-Hakamiy",
+      "sortName": "Husayn-i-Hakamiy",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Hakamiy is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        243
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 243,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_kashi_saz",
+      "name": "Husayn-i-Kashi-Saz",
+      "sortName": "Husayn-i-Kashi-Saz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Kashi-Saz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_kirmani",
+      "name": "Husayn-i-Kirmani",
+      "sortName": "Husayn-i-Kirmani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        323
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 323,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_kulah_duz",
+      "name": "Husayn-i-Kulah-Duz",
+      "sortName": "Husayn-i-Kulah-Duz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Kulah-Duz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        309
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 309,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_maraghiyi",
+      "name": "Husayn-i-Maraghiyi",
+      "sortName": "Husayn-i-Maraghiyi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Maraghiyi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        326,
+        337
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 326,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_matavalliy",
+      "name": "Husayn-i-Matavalliy",
+      "sortName": "Husayn-i-Matavalliy",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Matavalliy is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        473
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 473,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_miskar",
+      "name": "Husayn-i-Miskar",
+      "sortName": "Husayn-i-Miskar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Miskar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_mutavalli",
+      "name": "Husayn-i-Mutavalli",
+      "sortName": "Husayn-i-Mutavalli",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Mutavalli is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        285,
+        293
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 285,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_qannad",
+      "name": "Husayn-i-Qannad",
+      "sortName": "Husayn-i-Qannad",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Qannad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_qutb",
+      "name": "Husayn-i-Qutb",
+      "sortName": "Husayn-i-Qutb",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Qutb is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        353
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 353,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_shushtari",
+      "name": "Husayn-i-Shushtari",
+      "sortName": "Husayn-i-Shushtari",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Shushtari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        442
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 442,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_yazdi",
+      "name": "Husayn-i-Yazdi",
+      "sortName": "Husayn-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Husayn-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        149,
+        162,
+        165,
+        168,
+        170,
+        171,
+        181,
+        471
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_zanjani",
+      "name": "Husayn-i-Zanjani",
+      "sortName": "Husayn-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Husayn-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        435
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 435,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "husayn_i_zavari",
+      "name": "Husayn-i-Zavari",
+      "sortName": "Husayn-i-Zavari",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Husayn-i-Zavari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        318,
+        319
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 318,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibn_i_muljam",
+      "name": "Ibn-i-Muljam",
+      "sortName": "Ibn-i-Muljam",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibn-i-Muljam is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        201
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 201,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibn_i_sa",
+      "name": "Ibn-i-Sa",
+      "sortName": "Ibn-i-Sa",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibn-i-Sa is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        375
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 375,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibn_i_ziyad",
+      "name": "Ibn-i-Ziyad",
+      "sortName": "Ibn-i-Ziyad",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibn-i-Ziyad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        375
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 375,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_gulpaygani",
+      "name": "Ibrahim-i-Gulpaygani",
+      "sortName": "Ibrahim-i-Gulpaygani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibrahim-i-Gulpaygani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        195
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 195,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_kalbasi",
+      "name": "Ibrahim-i-Kalbasi",
+      "sortName": "Ibrahim-i-Kalbasi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibrahim-i-Kalbasi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        70,
+        71
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 70,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_khalil",
+      "name": "Ibrahim-i-Khalil",
+      "sortName": "Ibrahim-i-Khalil",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibrahim-i-Khalil is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        24,
+        224,
+        225
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 24,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_mahallati",
+      "name": "Ibrahim-i-Mahallati",
+      "sortName": "Ibrahim-i-Mahallati",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ibrahim-i-Mahallati is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        203
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 203,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_qazvini",
+      "name": "Ibrahim-i-Qazvini",
+      "sortName": "Ibrahim-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Ibrahim-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        14
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 14,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ibrahim_i_shirazi",
+      "name": "Ibrahim-i-Shirazi",
+      "sortName": "Ibrahim-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Ibrahim-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        120
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 120,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "imarat_i_khurshid",
+      "name": "Imarat-i-Khurshid",
+      "sortName": "Imarat-i-Khurshid",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Imarat-i-Khurshid is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        165
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 165,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "jabal_i_basit",
+      "name": "Jabal-i-Basit",
+      "sortName": "Jabal-i-Basit",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Jabal-i-Basit is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        171
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 171,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "jabal_i_shadid",
+      "name": "Jabal-i-Shadid",
+      "sortName": "Jabal-i-Shadid",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Jabal-i-Shadid is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        24,
+        171
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 24,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "jalil_i_urumi",
+      "name": "Jalil-i-Urumi",
+      "sortName": "Jalil-i-Urumi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Jalil-i-Urumi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        228,
+        309
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "janiy_i_kashani",
+      "name": "Janiy-i-Kashani",
+      "sortName": "Janiy-i-Kashani",
+      "titles": [],
+      "cityOfOrigin": "Kashan",
+      "relations": [],
+      "bio": "Janiy-i-Kashani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        273
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 273,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "javad_i_baraghani",
+      "name": "Javad-i-Baraghani",
+      "sortName": "Javad-i-Baraghani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Javad-i-Baraghani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        118,
+        120,
+        127
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 118,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "javad_i_farhadi",
+      "name": "Javad-i-Farhadi",
+      "sortName": "Javad-i-Farhadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Javad-i-Farhadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        124,
+        202
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 124,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "javad_i_kirmani",
+      "name": "Javad-i-Kirmani",
+      "sortName": "Javad-i-Kirmani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Javad-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        137
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 137,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "jaziriy_i_khadra",
+      "name": "Jaziriy-i-Khadra",
+      "sortName": "Jaziriy-i-Khadra",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Jaziriy-i-Khadra is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        238,
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 238,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "jinab_i_muballigh",
+      "name": "Jinab-i-Muballigh",
+      "sortName": "Jinab-i-Muballigh",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Jinab-i-Muballigh is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        222
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 222,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "karim_i_iravani",
+      "name": "Karim-i-Iravani",
+      "sortName": "Karim-i-Iravani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Karim-i-Iravani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        122
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 122,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "karim_i_qazvini",
+      "name": "Karim-i-Qazvini",
+      "sortName": "Karim-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Karim-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        120,
+        121,
+        162
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 120,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "kazim_i_zanjani",
+      "name": "Kazim-i-Zanjani",
+      "sortName": "Kazim-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Kazim-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        151,
+        153,
+        398
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 151,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khaliq_i_isfahani",
+      "name": "Khaliq-i-Isfahani",
+      "sortName": "Khaliq-i-Isfahani",
+      "titles": [],
+      "cityOfOrigin": "Isfahan",
+      "relations": [],
+      "bio": "Khaliq-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        215
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 215,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khaliq_i_yazdi",
+      "name": "Khaliq-i-Yazdi",
+      "sortName": "Khaliq-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Khaliq-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        3,
+        7,
+        308
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 3,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_afghan",
+      "name": "Khan-i-Afghan",
+      "sortName": "Khan-i-Afghan",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Afghan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        268,
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 268,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_afshar",
+      "name": "Khan-i-Afshar",
+      "sortName": "Khan-i-Afshar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Afshar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        171,
+        281,
+        284,
+        288,
+        295,
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 171,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_du_dungi",
+      "name": "Khan-i-Du-Dungi",
+      "sortName": "Khan-i-Du-Dungi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Du-Dungi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 311,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_iravani",
+      "name": "Khan-i-Iravani",
+      "sortName": "Khan-i-Iravani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Iravani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        106
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 106,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_kalantar",
+      "name": "Khan-i-Kalantar",
+      "sortName": "Khan-i-Kalantar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Kalantar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        322,
+        324,
+        326
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 322,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_karavuli",
+      "name": "Khan-i-Karavuli",
+      "sortName": "Khan-i-Karavuli",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Karavuli is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 311,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_karrusi",
+      "name": "Khan-i-Karrusi",
+      "sortName": "Khan-i-Karrusi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Karrusi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        426
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 426,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_khamsih",
+      "name": "Khan-i-Khamsih",
+      "sortName": "Khan-i-Khamsih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Khamsih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        380
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 380,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_kurd",
+      "name": "Khan-i-Kurd",
+      "sortName": "Khan-i-Kurd",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Kurd is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        219,
+        312
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 219,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_lalih_bashi",
+      "name": "Khan-i-Lalih-Bashi",
+      "sortName": "Khan-i-Lalih-Bashi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Lalih-Bashi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        244
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 244,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_larijani",
+      "name": "Khan-i-Larijani",
+      "sortName": "Khan-i-Larijani",
+      "titles": [],
+      "cityOfOrigin": "Larijan",
+      "relations": [],
+      "bio": "Khan-i-Larijani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        249,
+        278,
+        281,
+        282,
+        285,
+        288,
+        293,
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 249,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_mah_ku",
+      "name": "Khan-i-Mah-Ku",
+      "sortName": "Khan-i-Mah-Ku",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Mah-Ku is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        172,
+        220
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 172,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_maraghiyi",
+      "name": "Khan-i-Maraghiyi",
+      "sortName": "Khan-i-Maraghiyi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Maraghiyi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        210
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 210,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_mukri",
+      "name": "Khan-i-Mukri",
+      "sortName": "Khan-i-Mukri",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Mukri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        414
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 414,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_namdar",
+      "name": "Khan-i-Namdar",
+      "sortName": "Khan-i-Namdar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Namdar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        178
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 178,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_nuri",
+      "name": "Khan-i-Nuri",
+      "sortName": "Khan-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Khan-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        88,
+        200,
+        384,
+        388,
+        451
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 88,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_qajar",
+      "name": "Khan-i-Qajar",
+      "sortName": "Khan-i-Qajar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Qajar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        31
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 31,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_sardar",
+      "name": "Khan-i-Sardar",
+      "sortName": "Khan-i-Sardar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Sardar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        198,
+        467,
+        472
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 198,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_savad_kuhi",
+      "name": "Khan-i-Savad-Kuhi",
+      "sortName": "Khan-i-Savad-Kuhi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Savad-Kuhi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        312
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 312,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_shah_sun",
+      "name": "Khan-i-Shah-Sun",
+      "sortName": "Khan-i-Shah-Sun",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Shah-Sun is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        479
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 479,
+      "category": "Opponent"
+    },
+    {
+      "id": "khan_i_surkh_karri",
+      "name": "Khan-i-Surkh-Karri",
+      "sortName": "Khan-i-Surkh-Karri",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Surkh-Karri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        312
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 312,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_turkaman",
+      "name": "Khan-i-Turkaman",
+      "sortName": "Khan-i-Turkaman",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khan-i-Turkaman is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        266,
+        268,
+        284
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 266,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khan_i_yazdi",
+      "name": "Khan-i-Yazdi",
+      "sortName": "Khan-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Khan-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khani_i_nuri",
+      "name": "Khani-i-Nuri",
+      "sortName": "Khani-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Khani-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        372
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 372,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khusraw_i_qadi_kala",
+      "name": "Khusraw-i-Qadi-Kala",
+      "sortName": "Khusraw-i-Qadi-Kala",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khusraw-i-Qadi-Kala is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        249,
+        250
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 249,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "khutbiy_i_qahriyyih",
+      "name": "Khutbiy-i-Qahriyyih",
+      "sortName": "Khutbiy-i-Qahriyyih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Khutbiy-i-Qahriyyih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        237
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 237,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "kitab_i_aqdas",
+      "name": "Kitab-i-Aqdas",
+      "sortName": "Kitab-i-Aqdas",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Kitab-i-Aqdas is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        155
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 155,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "kitab_i_iqan",
+      "name": "Kitab-i-Iqan",
+      "sortName": "Kitab-i-Iqan",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Kitab-i-Iqan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        303,
+        309
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 303,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "kitab_i_panj_sha",
+      "name": "Kitab-i-Panj-Sha",
+      "sortName": "Kitab-i-Panj-Sha",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Kitab-i-Panj-Sha is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        325
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 325,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "kull_i_shay",
+      "name": "Kull-i-Shay",
+      "sortName": "Kull-i-Shay",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Kull-i-Shay is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        90
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 90,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "lawh_i_hurufat",
+      "name": "Lawh-i-Hurufat",
+      "sortName": "Lawh-i-Hurufat",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Lawh-i-Hurufat is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        222
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 222,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "madrisiy_i_daru",
+      "name": "Madrisiy-i-Daru",
+      "sortName": "Madrisiy-i-Daru",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Madrisiy-i-Daru is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        128,
+        323,
+        324
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 128,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "madrisiy_i_mirza_salih",
+      "name": "Madrisiy-i-Mirza-Salih",
+      "sortName": "Madrisiy-i-Mirza-Salih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Madrisiy-i-Mirza-Salih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        322
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 322,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "madrisiy_i_sadr",
+      "name": "Madrisiy-i-Sadr",
+      "sortName": "Madrisiy-i-Sadr",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Madrisiy-i-Sadr is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        323
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 323,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mahmud_i_khu",
+      "name": "Mahmud-i-Khu",
+      "sortName": "Mahmud-i-Khu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Mahmud-i-Khu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        308
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mahmud_i_muqari",
+      "name": "Mahmud-i-Muqari",
+      "sortName": "Mahmud-i-Muqari",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Mahmud-i-Muqari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        307
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 307,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mahmud_i_qamsari",
+      "name": "Mahmud-i-Qamsari",
+      "sortName": "Mahmud-i-Qamsari",
+      "titles": [],
+      "cityOfOrigin": "Sari",
+      "relations": [],
+      "bio": "Mahmud-i-Qamsari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        4,
+        6
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 4,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "majid_i_shirazi",
+      "name": "Majid-i-Shirazi",
+      "sortName": "Majid-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Majid-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        148
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 148,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mamalik_i_ashtiyani",
+      "name": "Mamalik-i-Ashtiyani",
+      "sortName": "Mamalik-i-Ashtiyani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Mamalik-i-Ashtiyani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        446
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 446,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masih_i_nuri",
+      "name": "Masih-i-Nuri",
+      "sortName": "Masih-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Masih-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        237
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 237,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_baratha",
+      "name": "Masjid-i-Baratha",
+      "sortName": "Masjid-i-Baratha",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Baratha is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        34,
+        35
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 34,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_ilkhani",
+      "name": "Masjid-i-Ilkhani",
+      "sortName": "Masjid-i-Ilkhani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Ilkhani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        40,
+        42,
+        46,
+        47,
+        48
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 40,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_imam_hasan",
+      "name": "Masjid-i-Imam-Hasan",
+      "sortName": "Masjid-i-Imam-Hasan",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Imam-Hasan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        317
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 317,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_jami",
+      "name": "Masjid-i-Jami",
+      "sortName": "Masjid-i-Jami",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Jami is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        367
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 367,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_jum",
+      "name": "Masjid-i-Jum",
+      "sortName": "Masjid-i-Jum",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Jum is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        2
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 2,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_kazim_big",
+      "name": "Masjid-i-Kazim-Big",
+      "sortName": "Masjid-i-Kazim-Big",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Kazim-Big is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 310,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_kufih",
+      "name": "Masjid-i-Kufih",
+      "sortName": "Masjid-i-Kufih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Kufih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        39
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 39,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_naw",
+      "name": "Masjid-i-Naw",
+      "sortName": "Masjid-i-Naw",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Naw is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        105
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 105,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "masjid_i_shah",
+      "name": "Masjid-i-Shah",
+      "sortName": "Masjid-i-Shah",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Shah is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        321,
+        324,
+        325
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 321,
+      "category": "Opponent"
+    },
+    {
+      "id": "masjid_i_vakil",
+      "name": "Masjid-i-Vakil",
+      "sortName": "Masjid-i-Vakil",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Masjid-i-Vakil is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        112,
+        113,
+        115
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 112,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mihdiy_i_kandi",
+      "name": "Mihdiy-i-Kandi",
+      "sortName": "Mihdiy-i-Kandi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Mihdiy-i-Kandi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        170,
+        309,
+        322
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 170,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mihdiy_i_khu",
+      "name": "Mihdiy-i-Khu",
+      "sortName": "Mihdiy-i-Khu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Mihdiy-i-Khu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        20,
+        170,
+        257
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 20,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "mirzay_i_shirazi",
+      "name": "Mirzay-i-Shirazi",
+      "sortName": "Mirzay-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Mirzay-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        449
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 449,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_akhbari",
+      "name": "Muhammad-i-Akhbari",
+      "sortName": "Muhammad-i-Akhbari",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Akhbari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        38
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 38,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_furughi",
+      "name": "Muhammad-i-Furughi",
+      "sortName": "Muhammad-i-Furughi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Furughi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        91,
+        243,
+        244,
+        246,
+        256,
+        261,
+        282,
+        288,
+        296,
+        304,
+        435
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 91,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_gulpaygani",
+      "name": "Muhammad-i-Gulpaygani",
+      "sortName": "Muhammad-i-Gulpaygani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Gulpaygani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        195
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 195,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_hamzih",
+      "name": "Muhammad-i-Hamzih",
+      "sortName": "Muhammad-i-Hamzih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Hamzih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        299,
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 299,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_hana_sab",
+      "name": "Muhammad-i-Hana-Sab",
+      "sortName": "Muhammad-i-Hana-Sab",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Hana-Sab is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        118,
+        212
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 118,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_isfahani",
+      "name": "Muhammad-i-Isfahani",
+      "sortName": "Muhammad-i-Isfahani",
+      "titles": [],
+      "cityOfOrigin": "Isfahan",
+      "relations": [],
+      "bio": "Muhammad-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        243
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 243,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_karradi",
+      "name": "Muhammad-i-Karradi",
+      "sortName": "Muhammad-i-Karradi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Karradi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 310,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_khurasani",
+      "name": "Muhammad-i-Khurasani",
+      "sortName": "Muhammad-i-Khurasani",
+      "titles": [],
+      "cityOfOrigin": "Khurasan",
+      "relations": [],
+      "bio": "Muhammad-i-Khurasani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        75
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 75,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_mamaqani",
+      "name": "Muhammad-i-Mamaqani",
+      "sortName": "Muhammad-i-Mamaqani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Mamaqani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        7,
+        187,
+        231,
+        232,
+        234,
+        377,
+        378
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 7,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_mazindarani",
+      "name": "Muhammad-i-Mazindarani",
+      "sortName": "Muhammad-i-Mazindarani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Mazindarani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        445
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 445,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_mu",
+      "name": "Muhammad-i-Mu",
+      "sortName": "Muhammad-i-Mu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Mu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        75,
+        127,
+        212,
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 75,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_shibl",
+      "name": "Muhammad-i-Shibl",
+      "sortName": "Muhammad-i-Shibl",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Shibl is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        194,
+        195
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 194,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_tub_chi",
+      "name": "Muhammad-i-Tub-Chi",
+      "sortName": "Muhammad-i-Tub-Chi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Tub-Chi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        394,
+        401
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 394,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhammad_i_zari",
+      "name": "Muhammad-i-Zari",
+      "sortName": "Muhammad-i-Zari",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhammad-i-Zari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhit_i_kirmani",
+      "name": "Muhit-i-Kirmani",
+      "sortName": "Muhit-i-Kirmani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhit-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        14,
+        97,
+        98
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 14,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "muhit_i_sha",
+      "name": "Muhit-i-Sha",
+      "sortName": "Muhit-i-Sha",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Muhit-i-Sha is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        31
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 31,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "musay_i_kazim",
+      "name": "Musay-i-Kazim",
+      "sortName": "Musay-i-Kazim",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Musay-i-Kazim is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        329
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 329,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "musay_i_qumi",
+      "name": "Musay-i-Qumi",
+      "sortName": "Musay-i-Qumi",
+      "titles": [],
+      "cityOfOrigin": "Qom",
+      "relations": [],
+      "bio": "Musay-i-Qumi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        437,
+        441
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 437,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "nabil_i_akbar",
+      "name": "Nabil-i-Akbar",
+      "sortName": "Nabil-i-Akbar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Nabil-i-Akbar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        243,
+        304
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 243,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "navvab_i_radavi",
+      "name": "Navvab-i-Radavi",
+      "sortName": "Navvab-i-Radavi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Navvab-i-Radavi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        344,
+        345
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 344,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "niyaz_i_baghdadi",
+      "name": "Niyaz-i-Baghdadi",
+      "sortName": "Niyaz-i-Baghdadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Niyaz-i-Baghdadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        101
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 101,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "nubuvvat_i_khassih",
+      "name": "Nubuvvat-i-Khassih",
+      "sortName": "Nubuvvat-i-Khassih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Nubuvvat-i-Khassih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        155
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 155,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "nuqtiy_i_ukhra",
+      "name": "Nuqtiy-i-Ukhra",
+      "sortName": "Nuqtiy-i-Ukhra",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Nuqtiy-i-Ukhra is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        303
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 303,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "pay_i_minar",
+      "name": "Pay-i-Minar",
+      "sortName": "Pay-i-Minar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Pay-i-Minar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        75
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 75,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "prince_firuz_mirza",
+      "name": "Prince Firuz Mirza",
+      "sortName": "Firuz Mirza, Prince",
+      "titles": [
+        "Prince"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Prince Firuz Mirza is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        357
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 357,
+      "category": "Opponent"
+    },
+    {
+      "id": "prince_mihdi",
+      "name": "Prince Mihdi",
+      "sortName": "Mihdi, Prince",
+      "titles": [
+        "Prince"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Prince Mihdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        243,
+        269,
+        270,
+        272,
+        274,
+        281,
+        284,
+        288,
+        289,
+        291,
+        309,
+        311,
+        363,
+        437
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 243,
+      "category": "Opponent"
+    },
+    {
+      "id": "prince_muhammad",
+      "name": "Prince Muhammad",
+      "sortName": "Muhammad, Prince",
+      "titles": [
+        "Prince"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Prince Muhammad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        8,
+        11
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 8,
+      "category": "Opponent"
+    },
+    {
+      "id": "qabl_i_muhammad",
+      "name": "Qabl-i-Muhammad",
+      "sortName": "Qabl-i-Muhammad",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Qabl-i-Muhammad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        105
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 105,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "qasidiy_i_varqa",
+      "name": "Qasidiy-i-Varqa",
+      "sortName": "Qasidiy-i-Varqa",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Qasidiy-i-Varqa is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        5
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 5,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "qasim_i_nayrizi",
+      "name": "Qasim-i-Nayrizi",
+      "sortName": "Qasim-i-Nayrizi",
+      "titles": [],
+      "cityOfOrigin": "Nayriz",
+      "relations": [],
+      "bio": "Qasim-i-Nayrizi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        457
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 457,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "rahim_i_khabbaz",
+      "name": "Rahim-i-Khabbaz",
+      "sortName": "Rahim-i-Khabbaz",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Rahim-i-Khabbaz is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        116
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 116,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "rahim_i_zanjani",
+      "name": "Rahim-i-Zanjani",
+      "sortName": "Rahim-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Rahim-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        390
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 390,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "rajab_i_haddad",
+      "name": "Rajab-i-Haddad",
+      "sortName": "Rajab-i-Haddad",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Rajab-i-Haddad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 362,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "rasul_i_bahnimiri",
+      "name": "Rasul-i-Bahnimiri",
+      "sortName": "Rasul-i-Bahnimiri",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Rasul-i-Bahnimiri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        267,
+        293,
+        306
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 267,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_khurasani",
+      "name": "Riday-i-Khurasani",
+      "sortName": "Riday-i-Khurasani",
+      "titles": [],
+      "cityOfOrigin": "Khurasan",
+      "relations": [],
+      "bio": "Riday-i-Khurasani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        293
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 293,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_kuchik",
+      "name": "Riday-i-Kuchik",
+      "sortName": "Riday-i-Kuchik",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Riday-i-Kuchik is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        351
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 351,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_manshadi",
+      "name": "Riday-i-Manshadi",
+      "sortName": "Riday-i-Manshadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Riday-i-Manshadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        349
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 349,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_pa_qal",
+      "name": "Riday-i-Pa-Qal",
+      "sortName": "Riday-i-Pa-Qal",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Riday-i-Pa-Qal is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        73,
+        308
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 73,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_sardar",
+      "name": "Riday-i-Sardar",
+      "sortName": "Riday-i-Sardar",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Riday-i-Sardar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        430
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 430,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "riday_i_shah",
+      "name": "Riday-i-Shah",
+      "sortName": "Riday-i-Shah",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Riday-i-Shah is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 310,
+      "category": "Opponent"
+    },
+    {
+      "id": "riday_i_yazdi",
+      "name": "Riday-i-Yazdi",
+      "sortName": "Riday-i-Yazdi",
+      "titles": [],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Riday-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        358,
+        361,
+        362
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 358,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "risaliy_i_furu",
+      "name": "Risaliy-i-Furu",
+      "sortName": "Risaliy-i-Furu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Risaliy-i-Furu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        159
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 159,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "risaly_i_sultaniyyih",
+      "name": "Risaly-i-Sultaniyyih",
+      "sortName": "Risaly-i-Sultaniyyih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Risaly-i-Sultaniyyih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        3
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1795,
+      "storyAppearancePage": 3,
+      "category": "Opponent"
+    },
+    {
+      "id": "sadiq_i_khurasani",
+      "name": "Sadiq-i-Khurasani",
+      "sortName": "Sadiq-i-Khurasani",
+      "titles": [],
+      "cityOfOrigin": "Khurasan",
+      "relations": [],
+      "bio": "Sadiq-i-Khurasani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        73,
+        105,
+        106,
+        243
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 73,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sadiq_i_tabrizi",
+      "name": "Sadiq-i-Tabrizi",
+      "sortName": "Sadiq-i-Tabrizi",
+      "titles": [],
+      "cityOfOrigin": "Tabriz",
+      "relations": [],
+      "bio": "Sadiq-i-Tabrizi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        326,
+        374,
+        451,
+        457,
+        477
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 326,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sadr_i_ardibili",
+      "name": "Sadr-i-Ardibili",
+      "sortName": "Sadr-i-Ardibili",
+      "titles": [],
+      "cityOfOrigin": "Ardibil",
+      "relations": [],
+      "bio": "Sadr-i-Ardibili is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        201,
+        202,
+        204
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 201,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sahib_i_divan",
+      "name": "Sahib-i-Divan",
+      "sortName": "Sahib-i-Divan",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sahib-i-Divan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        115
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 115,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sahifiyi_i_baynu",
+      "name": "Sahifiyi-i-Baynu",
+      "sortName": "Sahifiyi-i-Baynu",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sahifiyi-i-Baynu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        100
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 100,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "salih_i_qazvini",
+      "name": "Salih-i-Qazvini",
+      "sortName": "Salih-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Salih-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        59
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 59,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sardar_i_kull",
+      "name": "Sardar-i-Kull",
+      "sortName": "Sardar-i-Kull",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sardar-i-Kull is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        414
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 414,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shafay_i_masjid",
+      "name": "Shafay-i-Masjid",
+      "sortName": "Shafay-i-Masjid",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shafay-i-Masjid is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        128
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 128,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shahid_i_mazkan",
+      "name": "Shahid-i-Mazkan",
+      "sortName": "Shahid-i-Mazkan",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shahid-i-Mazkan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        443
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 443,
+      "category": "Opponent"
+    },
+    {
+      "id": "shahid_i_thalith",
+      "name": "Shahid-i-Thalith",
+      "sortName": "Shahid-i-Thalith",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shahid-i-Thalith is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        59
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 59,
+      "category": "Opponent"
+    },
+    {
+      "id": "sharh_i_khutbih",
+      "name": "Sharh-i-Khutbih",
+      "sortName": "Sharh-i-Khutbih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sharh-i-Khutbih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        26
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 26,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sharh_i_qasidih",
+      "name": "Sharh-i-Qasidih",
+      "sortName": "Sharh-i-Qasidih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sharh-i-Qasidih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        26
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 26,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_abdu",
+      "name": "Shaykh Abdu",
+      "sortName": "Abdu, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Abdu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        308,
+        353,
+        359,
+        370
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 308,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_abid",
+      "name": "Shaykh Abid",
+      "sortName": "Abid, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Abid is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        54,
+        55
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 54,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_abu",
+      "name": "Shaykh Abu",
+      "sortName": "Abu, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Abu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        30,
+        32,
+        112,
+        113,
+        114,
+        213,
+        218,
+        256,
+        257,
+        341
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 30,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_ali",
+      "name": "Shaykh Ali",
+      "sortName": "Ali, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Ali is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        9,
+        91,
+        130,
+        449
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 9,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_ali_mirza",
+      "name": "Shaykh Ali Mirza",
+      "sortName": "Ali Mirza, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Ali Mirza is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        115
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 115,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_azim",
+      "name": "Shaykh Azim",
+      "sortName": "Azim, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Azim is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        374
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 374,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_hadi",
+      "name": "Shaykh Hadi",
+      "sortName": "Hadi, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Hadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        356
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 356,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_hasan",
+      "name": "Shaykh Hasan",
+      "sortName": "Hasan, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Hasan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        22,
+        174,
+        448
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 22,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_hasan_i_zunuzi",
+      "name": "Shaykh Hasan-i-Zunuzi",
+      "sortName": "Hasan-i-Zunuzi, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": "Zunuz",
+      "relations": [],
+      "bio": "Shaykh Hasan-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        20,
+        146,
+        149,
+        162,
+        170,
+        173,
+        175,
+        176,
+        225,
+        232
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 20,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_isma",
+      "name": "Shaykh Isma",
+      "sortName": "Isma, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Isma is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        439
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 439,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_muhammad",
+      "name": "Shaykh Muhammad",
+      "sortName": "Muhammad, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Muhammad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        65
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 65,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_muhammad_i_shibl",
+      "name": "Shaykh Muhammad-i-Shibl",
+      "sortName": "Muhammad-i-Shibl, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Muhammad-i-Shibl is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        194,
+        195
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 194,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_muhammad_i_tub",
+      "name": "Shaykh Muhammad-i-Tub",
+      "sortName": "Muhammad-i-Tub, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Muhammad-i-Tub is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        401
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 401,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_muhsin",
+      "name": "Shaykh Muhsin",
+      "sortName": "Muhsin, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Muhsin is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        356
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 356,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_salih",
+      "name": "Shaykh Salih",
+      "sortName": "Salih, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Salih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        194,
+        201
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 194,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_shahid_i_mazkan",
+      "name": "Shaykh Shahid-i-Mazkan",
+      "sortName": "Shahid-i-Mazkan, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Shahid-i-Mazkan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        443
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 443,
+      "category": "Opponent"
+    },
+    {
+      "id": "shaykh_sultan",
+      "name": "Shaykh Sultan",
+      "sortName": "Sultan, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Sultan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        146,
+        193,
+        195,
+        447
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 146,
+      "category": "Opponent"
+    },
+    {
+      "id": "shaykh_sultan_i_karbila",
+      "name": "Shaykh Sultan-i-Karbila",
+      "sortName": "Sultan-i-Karbila, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": "Karbila",
+      "relations": [],
+      "bio": "Shaykh Sultan-i-Karbila is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        146
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 146,
+      "category": "Opponent"
+    },
+    {
+      "id": "shaykh_yusuf",
+      "name": "Shaykh Yusuf",
+      "sortName": "Yusuf, Shaykh",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh Yusuf is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        358
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 358,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykh_i_kulayni",
+      "name": "Shaykh-i-Kulayni",
+      "sortName": "Shaykh-i-Kulayni",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykh-i-Kulayni is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        170
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 170,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "shaykhi_i_shivih_kash",
+      "name": "Shaykhi-i-Shivih-Kash",
+      "sortName": "Shaykhi-i-Shivih-Kash",
+      "titles": [
+        "Shaykh"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Shaykhi-i-Shivih-Kash is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        358
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 358,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_abdu",
+      "name": "Siyyid Abdu",
+      "sortName": "Abdu, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Abdu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        74,
+        168,
+        169,
+        195,
+        268,
+        348
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 74,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_abid",
+      "name": "Siyyid Abid",
+      "sortName": "Abid, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Abid is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        365,
+        366
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 365,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_abu",
+      "name": "Siyyid Abu",
+      "sortName": "Abu, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Abu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        298,
+        299,
+        311,
+        356,
+        401,
+        435,
+        441,
+        442
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 298,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ahmad",
+      "name": "Siyyid Ahmad",
+      "sortName": "Ahmad, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Ahmad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        297,
+        298,
+        299,
+        306,
+        308,
+        309,
+        311,
+        351
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 297,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ali_khan",
+      "name": "Siyyid Ali Khan",
+      "sortName": "Ali Khan, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Ali Khan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        414
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 414,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_aliy_i_tafarshi",
+      "name": "Siyyid Aliy-i-Tafarshi",
+      "sortName": "Aliy-i-Tafarshi, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Tafarsh",
+      "relations": [],
+      "bio": "Siyyid Aliy-i-Tafarshi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        446
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 446,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_aliy_i_zargar",
+      "name": "Siyyid Aliy-i-Zargar",
+      "sortName": "Aliy-i-Zargar, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Aliy-i-Zargar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        285
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 285,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_aliy_i_zunuzi",
+      "name": "Siyyid Aliy-i-Zunuzi",
+      "sortName": "Aliy-i-Zunuzi, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Zunuz",
+      "relations": [],
+      "bio": "Siyyid Aliy-i-Zunuzi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        224,
+        377
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 224,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_asadu",
+      "name": "Siyyid Asadu",
+      "sortName": "Asadu, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Asadu is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        71,
+        158,
+        160
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 71,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ashraf",
+      "name": "Siyyid Ashraf",
+      "sortName": "Ashraf, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Ashraf is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        400,
+        435
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 400,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_baqir_i_rashti",
+      "name": "Siyyid Baqir-i-Rashti",
+      "sortName": "Baqir-i-Rashti, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Rasht",
+      "relations": [],
+      "bio": "Siyyid Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        303
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 303,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_hasan",
+      "name": "Siyyid Hasan",
+      "sortName": "Hasan, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Hasan is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        55,
+        170,
+        171,
+        173,
+        227,
+        313,
+        413
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 55,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_husayn",
+      "name": "Siyyid Husayn",
+      "sortName": "Husayn, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Husayn is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        142,
+        143,
+        144,
+        171,
+        173,
+        177,
+        308,
+        313,
+        319,
+        324,
+        336,
+        338,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        413,
+        460,
+        472,
+        487
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 142,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_husayn_i_azghandi",
+      "name": "Siyyid Husayn-i-Azghandi",
+      "sortName": "Husayn-i-Azghandi, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Husayn-i-Azghandi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        141
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 141,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_husayn_i_kulah",
+      "name": "Siyyid Husayn-i-Kulah",
+      "sortName": "Husayn-i-Kulah, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Husayn-i-Kulah is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        309
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 309,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_husayn_i_yazdi",
+      "name": "Siyyid Husayn-i-Yazdi",
+      "sortName": "Husayn-i-Yazdi, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Yazd",
+      "relations": [],
+      "bio": "Siyyid Husayn-i-Yazdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58,
+        149,
+        165,
+        168,
+        170,
+        171,
+        181,
+        471
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_husayn_i_zavari",
+      "name": "Siyyid Husayn-i-Zavari",
+      "sortName": "Husayn-i-Zavari, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Husayn-i-Zavari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        318,
+        319
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 318,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ibrahim",
+      "name": "Siyyid Ibrahim",
+      "sortName": "Ibrahim, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Ibrahim is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        26
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 26,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ibrahim_i_khalil",
+      "name": "Siyyid Ibrahim-i-Khalil",
+      "sortName": "Ibrahim-i-Khalil, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Ibrahim-i-Khalil is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        24,
+        224,
+        225
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 24,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_ibrahim_i_qazvini",
+      "name": "Siyyid Ibrahim-i-Qazvini",
+      "sortName": "Ibrahim-i-Qazvini, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Siyyid Ibrahim-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        14
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 14,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_isma",
+      "name": "Siyyid Isma",
+      "sortName": "Isma, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Isma is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        128,
+        318,
+        319,
+        320,
+        321,
+        351,
+        352,
+        359,
+        374
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 128,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_javad_i_kirmani",
+      "name": "Siyyid Javad-i-Kirmani",
+      "sortName": "Javad-i-Kirmani, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Javad-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        137
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 137,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_kazim_i_zanjani",
+      "name": "Siyyid Kazim-i-Zanjani",
+      "sortName": "Kazim-i-Zanjani, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Siyyid Kazim-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        151,
+        153,
+        398
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 151,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_mihdi",
+      "name": "Siyyid Mihdi",
+      "sortName": "Mihdi, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Mihdi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        351
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 351,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_mirza_husayn_i_mutavalli",
+      "name": "Siyyid Mirza Husayn-i-Mutavalli",
+      "sortName": "Mirza Husayn-i-Mutavalli, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Mirza Husayn-i-Mutavalli is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        293
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 293,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_muhammad",
+      "name": "Siyyid Muhammad",
+      "sortName": "Muhammad, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Muhammad is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        15,
+        16,
+        18,
+        54,
+        70,
+        187,
+        206,
+        299,
+        308,
+        324
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1844,
+      "storyAppearancePage": 15,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_muhammad_baqir_i_rashti",
+      "name": "Siyyid Muhammad Baqir-i-Rashti",
+      "sortName": "Muhammad Baqir-i-Rashti, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Rasht",
+      "relations": [],
+      "bio": "Siyyid Muhammad Baqir-i-Rashti is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        14,
+        158
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1826,
+      "storyAppearancePage": 14,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_muhammad_i_gulpaygani",
+      "name": "Siyyid Muhammad-i-Gulpaygani",
+      "sortName": "Muhammad-i-Gulpaygani, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Muhammad-i-Gulpaygani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        195
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 195,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_muhammad_i_isfahani",
+      "name": "Siyyid Muhammad-i-Isfahani",
+      "sortName": "Muhammad-i-Isfahani, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Isfahan",
+      "relations": [],
+      "bio": "Siyyid Muhammad-i-Isfahani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        243
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 243,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_muhsin",
+      "name": "Siyyid Muhsin",
+      "sortName": "Muhsin, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Muhsin is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        380
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 380,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_murtada",
+      "name": "Siyyid Murtada",
+      "sortName": "Murtada, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid Murtada is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        151,
+        300,
+        309,
+        337
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 151,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_riday_i_khurasani",
+      "name": "Siyyid Riday-i-Khurasani",
+      "sortName": "Riday-i-Khurasani, Siyyid",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Khurasan",
+      "relations": [],
+      "bio": "Siyyid Riday-i-Khurasani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        293
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 293,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_i_khal_dar",
+      "name": "Siyyid-i-Khal-Dar",
+      "sortName": "Siyyid-i-Khal-Dar",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid-i-Khal-Dar is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        348
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 348,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_i_nahri",
+      "name": "Siyyid-i-Nahri",
+      "sortName": "Siyyid-i-Nahri",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Siyyid-i-Nahri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        340
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 340,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_i_nur",
+      "name": "Siyyid-i-Nur",
+      "sortName": "Siyyid-i-Nur",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Siyyid-i-Nur is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        145
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 145,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "siyyid_i_qumi",
+      "name": "Siyyid-i-Qumi",
+      "sortName": "Siyyid-i-Qumi",
+      "titles": [
+        "Siyyid"
+      ],
+      "cityOfOrigin": "Qom",
+      "relations": [],
+      "bio": "Siyyid-i-Qumi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        301
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 301,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sulayman_i_khatib",
+      "name": "Sulayman-i-Khatib",
+      "sortName": "Sulayman-i-Khatib",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Sulayman-i-Khatib is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        383
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 383,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sulayman_i_nuri",
+      "name": "Sulayman-i-Nuri",
+      "sortName": "Sulayman-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Sulayman-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        212,
+        213
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1848,
+      "storyAppearancePage": 212,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "sultan_i_karbila",
+      "name": "Sultan-i-Karbila",
+      "sortName": "Sultan-i-Karbila",
+      "titles": [],
+      "cityOfOrigin": "Karbila",
+      "relations": [],
+      "bio": "Sultan-i-Karbila is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        146
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 146,
+      "category": "Opponent"
+    },
+    {
+      "id": "suriy_i_ayyub",
+      "name": "Suriy-i-Ayyub",
+      "sortName": "Suriy-i-Ayyub",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Suriy-i-Ayyub is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        353
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 353,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "tabib_i_zanjani",
+      "name": "Tabib-i-Zanjani",
+      "sortName": "Tabib-i-Zanjani",
+      "titles": [],
+      "cityOfOrigin": "Zanjan",
+      "relations": [],
+      "bio": "Tabib-i-Zanjani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        442
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 442,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "tahir_i_shirazi",
+      "name": "Tahir-i-Shirazi",
+      "sortName": "Tahir-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Tahir-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        203
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 203,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "talib_i_sang_sari",
+      "name": "Talib-i-Sang-Sari",
+      "sortName": "Talib-i-Sang-Sari",
+      "titles": [],
+      "cityOfOrigin": "Sari",
+      "relations": [],
+      "bio": "Talib-i-Sang-Sari is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        311
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 311,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "talib_i_shahmirzadi",
+      "name": "Talib-i-Shahmirzadi",
+      "sortName": "Talib-i-Shahmirzadi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Talib-i-Shahmirzadi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        435
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 435,
+      "category": "Opponent"
+    },
+    {
+      "id": "taqiy_i_harati",
+      "name": "Taqiy-i-Harati",
+      "sortName": "Taqiy-i-Harati",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Harati is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        155,
+        159
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 155,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_juvayni",
+      "name": "Taqiy-i-Juvayni",
+      "sortName": "Taqiy-i-Juvayni",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Juvayni is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        254,
+        304
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 254,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_juvayniy",
+      "name": "Taqiy-i-Juvayniy",
+      "sortName": "Taqiy-i-Juvayniy",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Juvayniy is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        252
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 252,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_kirmani",
+      "name": "Taqiy-i-Kirmani",
+      "sortName": "Taqiy-i-Kirmani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Kirmani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        335,
+        337
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 335,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_milani",
+      "name": "Taqiy-i-Milani",
+      "sortName": "Taqiy-i-Milani",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Milani is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        171
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 171,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_nuri",
+      "name": "Taqiy-i-Nuri",
+      "sortName": "Taqiy-i-Nuri",
+      "titles": [],
+      "cityOfOrigin": "Nur",
+      "relations": [],
+      "bio": "Taqiy-i-Nuri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        79
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 79,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_qarakhili",
+      "name": "Taqiy-i-Qarakhili",
+      "sortName": "Taqiy-i-Qarakhili",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Taqiy-i-Qarakhili is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        310
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1850,
+      "storyAppearancePage": 310,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "taqiy_i_qazvini",
+      "name": "Taqiy-i-Qazvini",
+      "sortName": "Taqiy-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Taqiy-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        439
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 439,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "tarikh_i_nasiri",
+      "name": "Tarikh-i-Nasiri",
+      "sortName": "Tarikh-i-Nasiri",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Tarikh-i-Nasiri is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        244
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 244,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "umm_i_ashraf",
+      "name": "Umm-i-Ashraf",
+      "sortName": "Umm-i-Ashraf",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Umm-i-Ashraf is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        419
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 419,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "umm_i_salmih",
+      "name": "Umm-i-Salmih",
+      "sortName": "Umm-i-Salmih",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Umm-i-Salmih is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        470
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 470,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "usul_i_kafi",
+      "name": "Usul-i-Kafi",
+      "sortName": "Usul-i-Kafi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Usul-i-Kafi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        170,
+        444
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1847,
+      "storyAppearancePage": 170,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "vahhab_i_qazvini",
+      "name": "Vahhab-i-Qazvini",
+      "sortName": "Vahhab-i-Qazvini",
+      "titles": [],
+      "cityOfOrigin": "Qazvin",
+      "relations": [],
+      "bio": "Vahhab-i-Qazvini is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "vahhab_i_shirazi",
+      "name": "Vahhab-i-Shirazi",
+      "sortName": "Vahhab-i-Shirazi",
+      "titles": [],
+      "cityOfOrigin": "Shiraz",
+      "relations": [],
+      "bio": "Vahhab-i-Shirazi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        448,
+        474
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1852,
+      "storyAppearancePage": 448,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "vahhab_i_turshizi",
+      "name": "Vahhab-i-Turshizi",
+      "sortName": "Vahhab-i-Turshizi",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Vahhab-i-Turshizi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        224
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 224,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "yahyay_i_darabi",
+      "name": "Yahyay-i-Darabi",
+      "sortName": "Yahyay-i-Darabi",
+      "titles": [],
+      "cityOfOrigin": "Darab",
+      "relations": [],
+      "bio": "Yahyay-i-Darabi is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        129,
+        134,
+        135,
+        314,
+        345
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1846,
+      "storyAppearancePage": 129,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "yusif_i_ardibili",
+      "name": "Yusif-i-Ardibili",
+      "sortName": "Yusif-i-Ardibili",
+      "titles": [],
+      "cityOfOrigin": "Ardibil",
+      "relations": [],
+      "bio": "Yusif-i-Ardibili is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        58
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1845,
+      "storyAppearancePage": 58,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "zakariyyay_i_qadi_kala",
+      "name": "Zakariyyay-i-Qadi-Kala",
+      "sortName": "Zakariyyay-i-Qadi-Kala",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Zakariyyay-i-Qadi-Kala is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        282,
+        312
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1849,
+      "storyAppearancePage": 282,
+      "category": "Prominent Believer"
+    },
+    {
+      "id": "ziyarat_i_shah",
+      "name": "Ziyarat-i-Shah",
+      "sortName": "Ziyarat-i-Shah",
+      "titles": [],
+      "cityOfOrigin": null,
+      "relations": [],
+      "bio": "Ziyarat-i-Shah is a historical figure mentioned in *The Dawn-Breakers*.",
+      "pages": [
+        383
+      ],
+      "birthYear": null,
+      "deathYear": null,
+      "storyAppearanceYear": 1851,
+      "storyAppearancePage": 383,
+      "category": "Opponent"
     }
   ],
   "cities": [

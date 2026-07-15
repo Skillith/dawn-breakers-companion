@@ -136,6 +136,46 @@ export default function ExportButton({ people, cities }) {
                   })
                 )),
                 new Paragraph({ text: "", spacing: { after: 300 } })
+              ]),
+
+              new Paragraph({
+                text: "Part III: Narrative Timeline & Chronology",
+                heading: HeadingLevel.HEADING_1,
+                spacing: { before: 600, after: 200 }
+              }),
+              new Paragraph({
+                text: "Historical figures listed in the chronological order of their appearance in Nabíl's Narrative:",
+                spacing: { after: 300 }
+              }),
+              
+              // Timeline loop
+              ...[...people].sort((a, b) => {
+                const pageA = a.storyAppearancePage || 999;
+                const pageB = b.storyAppearancePage || 999;
+                if (pageA !== pageB) return pageA - pageB;
+                return a.name.localeCompare(b.name);
+              }).flatMap(person => [
+                new Paragraph({
+                  children: [
+                    new TextRun({ text: `Page ${person.storyAppearancePage || 'Unknown'}: `, bold: true }),
+                    new TextRun({ text: person.name, bold: true, color: "b8860b" }),
+                    new TextRun({ text: ` (c. ${person.storyAppearanceYear || 'Unknown'})` })
+                  ],
+                  spacing: { before: 150, after: 50 }
+                }),
+                new Paragraph({
+                  children: [
+                    new TextRun({ text: person.titles && person.titles.length > 0 ? `Titles: ${person.titles.join(", ")} | ` : "" }),
+                    new TextRun({ text: person.cityOfOrigin ? `Origin: ${person.cityOfOrigin} | ` : "" }),
+                    new TextRun({ text: `Category: ${person.category}` })
+                  ],
+                  italics: true,
+                  spacing: { after: 100 }
+                }),
+                new Paragraph({
+                  text: person.bio.length > 250 ? `${person.bio.substring(0, 247)}...` : person.bio,
+                  spacing: { after: 200 }
+                })
               ])
             ]
           }

@@ -73,10 +73,10 @@ export default function RelationshipGraph({ people, onSelectPerson }) {
     const height = canvas.height;
 
     // Simulation forces constants
-    const repellingForce = 1200;
+    const repellingForce = 40000;
     const linkForce = 0.05;
     const linkLength = 120;
-    const gravity = 0.03;
+    const gravity = 0.003;
     const damping = 0.85;
 
     const updateSimulation = () => {
