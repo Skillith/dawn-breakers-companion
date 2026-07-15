@@ -43,7 +43,7 @@ export default function CityMap({ cities, filteredCities, activeCityId, onSelect
 
       <div className="map-wrapper">
         <img 
-          src="/modern_map.jpg" 
+          src="modern_map.jpg" 
           alt="Modern Topographic Map of Iran and surrounding regions" 
           className="map-bg-image" 
         />
