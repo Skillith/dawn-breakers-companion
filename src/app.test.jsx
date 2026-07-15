@@ -54,14 +54,43 @@ describe('Dawn-Breakers Study Companion Integration Tests', () => {
   });
 
   it('US-02: should keep identical names separate and show confusion alerts', () => {
-    render(<App />);
+    // 1. Without duplicate names, no confusion alerts should be displayed
+    const { unmount } = render(<App />);
+    expect(screen.queryAllByText(/Avoid Confusion/i).length).toBe(0);
+    unmount();
+
+    // 2. Add a duplicate figure with the exact same name to trigger the alert
+    const mullaHusaynName = "Mullá Husayn-i-Bushrú'í";
+    const duplicatePerson = {
+      id: "mulla_husayn_duplicate",
+      name: mullaHusaynName,
+      sortName: "Husayn-i-Bushru'i, Mulla (Duplicate)",
+      titles: [],
+      cityOfOrigin: "Bushruyih",
+      relations: [],
+      bio: "Duplicate entry of Mullá Husayn to trigger confusion alert.",
+      confusionAlert: "Do not confuse with Bahá'u'lláh (Mírzá Husayn-'Alí) or the Imam Husayn.",
+      pages: []
+    };
     
-    // Mullá Husayn has a confusion alert in data.json
-    const confusionAlerts = screen.getAllByText(/Avoid Confusion/i);
-    expect(confusionAlerts.length).toBeGreaterThan(0);
+    data.people.push(duplicatePerson);
     
-    const pageText = screen.getByText(/Do not confuse with Bah\u00e1'u'll\u00e1h/i);
-    expect(pageText).toBeInTheDocument();
+    try {
+      render(<App />);
+      
+      // Since there is a duplicate, the confusion alert should show
+      const confusionAlerts = screen.getAllByText(/Avoid Confusion/i);
+      expect(confusionAlerts.length).toBeGreaterThan(0);
+      
+      const pageTexts = screen.getAllByText(/Do not confuse with Bahá'u'lláh/i);
+      expect(pageTexts.length).toBeGreaterThan(0);
+    } finally {
+      // Clean up the duplicate person to avoid affecting other tests
+      const index = data.people.indexOf(duplicatePerson);
+      if (index !== -1) {
+        data.people.splice(index, 1);
+      }
+    }
   });
 
   it('US-03: should render biographies, origin cities, and page numbers', () => {

@@ -32,7 +32,7 @@ export default function PersonCard({ person, allPeople, onSelectPerson }) {
           <p key={idx} className="bio-paragraph">{para}</p>
         ))}
 
-        {person.confusionAlert && (
+        {person.confusionAlert && allPeople && allPeople.some(p => p.id !== person.id && p.name === person.name) && (
           <div className="confusion-alert">
             <AlertTriangle size={16} style={{ flexShrink: 0, marginTop: '2px' }} />
             <span><strong>Avoid Confusion:</strong> {person.confusionAlert}</span>

@@ -85,7 +85,7 @@ export default function ExportButton({ people, cities }) {
                   ],
                   spacing: { after: 150 }
                 }),
-                ...(person.confusionAlert ? [
+                ...(person.confusionAlert && people.some(p => p.id !== person.id && p.name === person.name) ? [
                   new Paragraph({
                     children: [
                       new TextRun({ text: "Avoid Confusion: ", bold: true, color: "8b0000" }),
