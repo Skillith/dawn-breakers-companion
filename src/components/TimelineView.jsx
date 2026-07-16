@@ -12,7 +12,10 @@ export default function TimelineView({ people, searchQuery, onSelectPerson }) {
     { id: 'Letter of the Living', label: 'Letters of the Living' },
     { id: 'Prominent Believer', label: 'Believers' },
     { id: 'Opponent', label: 'Opponents' },
-    { id: 'Warden', label: 'Wardens' }
+    { id: 'Warden', label: 'Wardens' },
+    { id: 'Location of Relevance', label: 'Locations' },
+    { id: 'Text of Relevance', label: 'Texts' },
+    { id: 'Term of Relevance', label: 'Terms' }
   ];
 
   // Process, filter, and sort people for the timeline
@@ -62,6 +65,9 @@ export default function TimelineView({ people, searchQuery, onSelectPerson }) {
       case 'Precursor': return 'category-precursor';
       case 'Warden': return 'category-warden';
       case 'Opponent': return 'category-opponent';
+      case 'Location of Relevance': return 'category-location-relevance';
+      case 'Text of Relevance': return 'category-text-relevance';
+      case 'Term of Relevance': return 'category-term-relevance';
       default: return 'category-believer';
     }
   };

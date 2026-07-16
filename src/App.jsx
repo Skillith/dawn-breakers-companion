@@ -7,6 +7,7 @@ import CityMap from './components/CityMap';
 import RelationshipGraph from './components/RelationshipGraph';
 import ExportButton from './components/ExportButton';
 import TimelineView from './components/TimelineView';
+import ResourcesView from './components/ResourcesView';
 
 
 export function normalizeText(text) {
@@ -195,24 +196,26 @@ export default function App() {
         <p className="app-subtitle">A Historical Study Companion & Index of Names and Cities</p>
       </header>
 
-      <section className="toolbar-section">
-        <div className="search-wrapper">
-          <Search size={20} className="search-icon" />
-          <input
-            type="text"
-            placeholder={
-              activeTab === 'people' ? "Search historical figures, titles, origins..." :
-              activeTab === 'cities' ? "Search cities and historical events..." :
-              activeTab === 'timeline' ? "Search timeline figures by name, title, origin..." :
-              "Search..."
-            }
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="search-input"
-          />
-        </div>
+      <section className="toolbar-section" style={{ gridTemplateColumns: activeTab === 'resources' ? '1fr' : undefined }}>
+        {activeTab !== 'resources' && (
+          <div className="search-wrapper">
+            <Search size={20} className="search-icon" />
+            <input
+              type="text"
+              placeholder={
+                activeTab === 'people' ? "Search historical figures, titles, origins..." :
+                activeTab === 'cities' ? "Search cities and historical events..." :
+                activeTab === 'timeline' ? "Search timeline figures by name, title, origin..." :
+                "Search..."
+              }
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="search-input"
+            />
+          </div>
+        )}
 
-        <div className="tabs-container">
+        <div className="tabs-container" style={{ margin: activeTab === 'resources' ? '0 auto' : undefined }}>
           <button
             onClick={() => { setActiveTab('people'); clearSearch(); }}
             className={`tab-btn ${activeTab === 'people' ? 'active' : ''}`}
@@ -240,6 +243,13 @@ export default function App() {
           >
             <Clock size={16} />
             Timeline
+          </button>
+          <button
+            onClick={() => { setActiveTab('resources'); clearSearch(); }}
+            className={`tab-btn ${activeTab === 'resources' ? 'active' : ''}`}
+          >
+            <BookOpen size={16} />
+            Resources
           </button>
         </div>
       </section>
@@ -320,6 +330,10 @@ export default function App() {
             searchQuery={searchQuery}
             onSelectPerson={handleSelectPerson}
           />
+        )}
+
+        {activeTab === 'resources' && (
+          <ResourcesView />
         )}
       </main>
 

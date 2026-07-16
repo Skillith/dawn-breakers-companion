@@ -476,7 +476,7 @@
     {
       "id": "mulla_husayn",
       "name": "Mullá Husayn-i-Bushrú'í",
-      "sortName": "Husayn-i-Bushru'i, Mulla",
+      "sortName": "Husayn-i-Bushru'i, Mullá",
       "titles": [
         "Bábu'l-Báb",
         "Gate of the Gate"
@@ -1045,7 +1045,7 @@
     {
       "id": "siyyid_kazim",
       "name": "Siyyid Kázim-i-Rashtí",
-      "sortName": "Kazim-i-Rashti, Siyyid",
+      "sortName": "Kázim-i-Rashtí, Siyyid",
       "titles": [
         "Leader of the Shaykhís"
       ],
@@ -1142,7 +1142,7 @@
     {
       "id": "mirza_yahya",
       "name": "Mírzá Yahyá (Subh-i-Azal)",
-      "sortName": "Yahya, Mirza (Subh-i-Azal)",
+      "sortName": "Yahya, Mírzá (Subh-i-Azal)",
       "titles": [
         "Subh-i-Azal",
         "Mírzá Yahyá"
@@ -1180,7 +1180,7 @@
     {
       "id": "mirza_musa",
       "name": "Mírzá Músá (Áqáy-i-Kalím)",
-      "sortName": "Musa, Mirza (Aqay-i-Kalim)",
+      "sortName": "Musa, Mírzá (Áqáy-i-Kalim)",
       "titles": [
         "Áqáy-i-Kalím",
         "Kalím"
@@ -1226,7 +1226,7 @@
     {
       "id": "haji_mirza_aqasi",
       "name": "Hájí Mírzá Áqásí",
-      "sortName": "Aqasi, Haji Mirza",
+      "sortName": "Áqásí, Hájí Mírzá",
       "titles": [
         "Grand Vizier of Persia",
         "Prime Minister"
@@ -1281,7 +1281,7 @@
     {
       "id": "muhammad_shah",
       "name": "Muhammad Sháh",
-      "sortName": "Muhammad Shah",
+      "sortName": "Muhammad Sháh",
       "titles": [
         "Sháh of Persia",
         "Muhammad Sháh Qájár"
@@ -1349,7 +1349,7 @@
     {
       "id": "nasirid_din_shah",
       "name": "Násiri'd-Dín Sháh",
-      "sortName": "Nasirid-Din Shah",
+      "sortName": "Nasirid-Dín Sháh",
       "titles": [
         "Crown Prince",
         "Sháh of Persia",
@@ -1403,7 +1403,7 @@
     {
       "id": "mulla_ali_bastami",
       "name": "Mullá 'Alíy-i-Bastámí",
-      "sortName": "Bastami, Mulla 'Aliy-i",
+      "sortName": "Bastámí, Mullá ''Alíy-i",
       "titles": [
         "Letter of the Living",
         "First Martyr of the Bábí Dispensation"
@@ -1464,7 +1464,7 @@
     {
       "id": "haji_siyyid_javad",
       "name": "Hájí Siyyid Javád-i-Karbilá'í",
-      "sortName": "Javad-i-Karbilai, Haji Siyyid",
+      "sortName": "Javád-i-Karbilai, Hájí Siyyid",
       "titles": [
         "Prominent Scholar"
       ],
@@ -1506,7 +1506,7 @@
     {
       "id": "siyyid_ali_zunuzi",
       "name": "Siyyid 'Alí-i-Zunúzí",
-      "sortName": "Zunuzi, Siyyid 'Ali-i",
+      "sortName": "Zunúzí, Siyyid ''Alí-i",
       "titles": [
         "Prominent Believer",
         "Siyyid"
@@ -1539,7 +1539,7 @@
     {
       "id": "mulla_yusuf",
       "name": "Mullá Yusúf-i-Ardibilí",
-      "sortName": "Yusuf-i-Ardibili, Mulla",
+      "sortName": "Yusuf-i-Ardibili, Mullá",
       "titles": [
         "Letter of the Living"
       ],
@@ -1575,7 +1575,7 @@
     {
       "id": "mulla_mihdy",
       "name": "Mullá Mihdíy-i-Yazdí",
-      "sortName": "Mihdy-i-Yazdi, Mulla",
+      "sortName": "Mihdy-i-Yazdi, Mullá",
       "titles": [
         "Early Believer"
       ],
@@ -1592,7 +1592,10 @@
       ],
       "bio": "Mullá Mihdíy-i-Yazdí was a prominent Bábí of Yazd. When Vahíd arrived in Yazd to proclaim the Báb's message, Mullá Mihdí hosted him in his home and became one of his most active supporters.\n\nHe participated in defending Vahíd when local mobs and government forces attacked them, and was eventually arrested and martyred during the persecutions that swept Yazd.",
       "confusionAlert": "Do not confuse with other figures named Mihdí.",
-      "pages": [],
+      "pages": [
+        343,
+        344
+      ],
       "birthYear": 1805,
       "deathYear": 1850,
       "storyAppearanceYear": 1850,
@@ -1602,7 +1605,7 @@
     {
       "id": "mirza_ahmad",
       "name": "Mírzá Ahmad-i-Kátib",
-      "sortName": "Ahmad-i-Katib, Mirza",
+      "sortName": "Ahmad-i-Katib, Mírzá",
       "titles": [
         "Amanuensis of the Báb",
         "Mírzá Ahmad-i-Qazvíní"
@@ -1654,7 +1657,7 @@
     {
       "id": "haji_mirza_seet_ali",
       "name": "Hájí Mírzá Siyyid 'Alí (Khál-i-A'zam)",
-      "sortName": "Ali, Haji Mirza Siyyid (Khal-i-A'zam)",
+      "sortName": "'Alí, Hájí Mírzá Siyyid (Khal-i-A'zam)",
       "titles": [
         "Khál-i-A'zam (The Great Uncle)"
       ],
@@ -1695,7 +1698,7 @@
     {
       "id": "mulla_sadiq",
       "name": "Mullá Sádiq-i-Muqaddas (Jináb-i-Muqaddas)",
-      "sortName": "Sadiq-i-Muqaddas, Mulla",
+      "sortName": "Sadiq-i-Muqaddas, Mullá",
       "titles": [
         "Jináb-i-Muqaddas",
         "Muqaddas"
@@ -1762,7 +1765,7 @@
     {
       "id": "mulla_baqir",
       "name": "Mullá Báqir-i-Tabrízí",
-      "sortName": "Baqir-i-Tabrizi, Mulla",
+      "sortName": "Báqir-i-Tabrizi, Mullá",
       "titles": [
         "Letter of the Living"
       ],
@@ -1802,7 +1805,7 @@
     {
       "id": "solayman_khan",
       "name": "Sulaymán Khán",
-      "sortName": "Solayman Khan",
+      "sortName": "Sulaymán Khan",
       "titles": [
         "Prominent Martyr"
       ],
@@ -1843,7 +1846,7 @@
     {
       "id": "tahirih_father",
       "name": "Mullá Sálih-i-Baraghání",
-      "sortName": "Salih-i-Baraghani, Mulla",
+      "sortName": "Sálih-i-Baraghání, Mullá",
       "titles": [
         "Mujtahid of Qazvín"
       ],
@@ -1860,7 +1863,12 @@
       ],
       "bio": "Mullá Sálih-i-Baraghání was a prominent and highly respected Mujtahid of Qazvín and the father of Táhirih. He loved his daughter deeply and educated her in theology and jurisprudence, but was deeply troubled by her conversion to the Bábí Faith.\n\nHe spent his final years in grief, torn between his love for his daughter and his orthodox religious obligations.",
       "confusionAlert": "Do not confuse with his brother Mullá Muhammad-Taqí.",
-      "pages": [],
+      "pages": [
+        122,
+        123,
+        124,
+        202
+      ],
       "birthYear": 1772,
       "deathYear": 1853,
       "storyAppearanceYear": 1847,
@@ -1870,7 +1878,7 @@
     {
       "id": "tahirih_uncle",
       "name": "Mullá Muhammad-Taqí-i-Baraghání",
-      "sortName": "Muhammad-Taqi-i-Baraghani, Mulla",
+      "sortName": "Muhammad-Taqi-i-Baraghání, Mullá",
       "titles": [
         "The Third Martyr",
         "Mullá Taqí"
@@ -1888,7 +1896,11 @@
       ],
       "bio": "Mullá Muhammad-Taqí-i-Baraghání (known in Bahá'í history as the Third Martyr) was a fanatical Shia Mujtahid of Qazvín who vehemently denounced Shaykh Ahmad and Siyyid Kázim, and later the Báb.\n\nHis denouncements provoked a young Bábí to attack and kill him while he was praying in the mosque in 1847. His murder sparked a wave of arrests and persecutions of Bábís across Qazvín and Tehran, including the imprisonment of Táhirih.",
       "confusionAlert": "Often called Mullá Taqí. Do not confuse with his brother Mullá Sálih.",
-      "pages": [],
+      "pages": [
+        122,
+        123,
+        124
+      ],
       "birthYear": 1774,
       "deathYear": 1847,
       "storyAppearanceYear": 1847,
@@ -1897,8 +1909,8 @@
     },
     {
       "id": "mujtahid_zanjan",
-      "name": "Mullá 'Abdu'r-Rahím",
-      "sortName": "Abdur-Rahim, Mulla",
+      "name": "Mullá ''Abdu'r-Rahím",
+      "sortName": "Abdur-Rahím, Mullá",
       "titles": [
         "Mujtahid of Zanján"
       ],
@@ -1911,7 +1923,9 @@
       ],
       "bio": "Mullá 'Abdu'r-Rahím was the chief Mujtahid of Zanján who led the orthodox opposition against Hujjat. He wrote numerous letters to the Shah and the Grand Vizier denouncing Hujjat as a heretic, which ultimately led to Hujjat's arrest and the subsequent Zanján Upheaval.",
       "confusionAlert": "Do not confuse with other Mullas.",
-      "pages": [],
+      "pages": [
+        390
+      ],
       "birthYear": 1785,
       "deathYear": 1853,
       "storyAppearanceYear": 1850,
@@ -1921,7 +1935,7 @@
     {
       "id": "prince_hamzih_mirza",
       "name": "Hamzih Mírzá",
-      "sortName": "Hamzih Mirza, Prince",
+      "sortName": "Hamzih Mírzá, Prince",
       "titles": [
         "Hishmatu'd-Dawlih",
         "Royal Prince"
@@ -1955,7 +1969,7 @@
     {
       "id": "ali_khan_maku",
       "name": "'Alí Khán of Máh-Kú",
-      "sortName": "Ali Khan of Maku",
+      "sortName": "'Alí Khan of Maku",
       "titles": [
         "Warden of Máh-Kú Fortress"
       ],
@@ -1972,7 +1986,11 @@
       ],
       "bio": "'Alí Khán was the warden of the mountain fortress of Máh-Kú where the Báb was imprisoned. Initially hostile and strict, he was deeply affected by the Báb's saintly character, His nightly prayers, and the devotion of His followers.\n\nHe eventually relaxed the prison conditions, allowing pilgrims to visit the Báb, and became a secret believer, refusing to carry out the harsher orders of the Grand Vizier.",
       "confusionAlert": "Do not confuse with other Khans or individuals named 'Alí.",
-      "pages": [],
+      "pages": [
+        170,
+        171,
+        172
+      ],
       "birthYear": 1800,
       "deathYear": 1860,
       "storyAppearanceYear": 1847,
@@ -2015,8 +2033,8 @@
     },
     {
       "id": "abidin_i_shahmirzadi",
-      "name": "Abidin-i-Shahmirzadi",
-      "sortName": "Abidin-i-Shahmirzadi",
+      "name": "'Ábidín-i-Shahmirzadi",
+      "sortName": "'Ábidín-i-Shahmirzadi",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2032,8 +2050,8 @@
     },
     {
       "id": "abidin_i_yazdi",
-      "name": "Abidin-i-Yazdi",
-      "sortName": "Abidin-i-Yazdi",
+      "name": "'Ábidín-i-Yazdi",
+      "sortName": "'Ábidín-i-Yazdi",
       "titles": [],
       "cityOfOrigin": "Yazd",
       "relations": [],
@@ -2103,8 +2121,8 @@
     },
     {
       "id": "ahmad_i_mu",
-      "name": "Ahmad-i-Mu",
-      "sortName": "Ahmad-i-Mu",
+      "name": "Ahmad-i-Mu'allim",
+      "sortName": "Ahmad-i-Mu'allim",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2188,8 +2206,8 @@
     },
     {
       "id": "aliy_i_ardistani",
-      "name": "Aliy-i-Ardistani",
-      "sortName": "Aliy-i-Ardistani",
+      "name": "'Alíy-i-Ardistani",
+      "sortName": "'Alíy-i-Ardistani",
       "titles": [],
       "cityOfOrigin": "Ardistan",
       "relations": [],
@@ -2205,8 +2223,8 @@
     },
     {
       "id": "aliy_i_banna",
-      "name": "Aliy-i-Banna",
-      "sortName": "Aliy-i-Banna",
+      "name": "'Alíy-i-Banna",
+      "sortName": "'Alíy-i-Banna",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2222,8 +2240,8 @@
     },
     {
       "id": "aliy_i_haddad",
-      "name": "Aliy-i-Haddad",
-      "sortName": "Aliy-i-Haddad",
+      "name": "'Alíy-i-Haddad",
+      "sortName": "'Alíy-i-Haddad",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2239,8 +2257,8 @@
     },
     {
       "id": "aliy_i_harati",
-      "name": "Aliy-i-Harati",
-      "sortName": "Aliy-i-Harati",
+      "name": "'Alíy-i-Harati",
+      "sortName": "'Alíy-i-Harati",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2257,8 +2275,8 @@
     },
     {
       "id": "aliy_i_mudhahhib",
-      "name": "Aliy-i-Mudhahhib",
-      "sortName": "Aliy-i-Mudhahhib",
+      "name": "'Alíy-i-Mudhahhib",
+      "sortName": "'Alíy-i-Mudhahhib",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2274,8 +2292,8 @@
     },
     {
       "id": "aliy_i_mutavalli",
-      "name": "Aliy-i-Mutavalli",
-      "sortName": "Aliy-i-Mutavalli",
+      "name": "'Alíy-i-Mutavalli",
+      "sortName": "'Alíy-i-Mutavalli",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2291,8 +2309,8 @@
     },
     {
       "id": "aliy_i_nahri",
-      "name": "Aliy-i-Nahri",
-      "sortName": "Aliy-i-Nahri",
+      "name": "'Alíy-i-Nahri",
+      "sortName": "'Alíy-i-Nahri",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2313,8 +2331,8 @@
     },
     {
       "id": "aliy_i_qazvini",
-      "name": "Aliy-i-Qazvini",
-      "sortName": "Aliy-i-Qazvini",
+      "name": "'Alíy-i-Qazvini",
+      "sortName": "'Alíy-i-Qazvini",
       "titles": [],
       "cityOfOrigin": "Qazvin",
       "relations": [],
@@ -2332,8 +2350,8 @@
     },
     {
       "id": "aliy_i_sardar",
-      "name": "Aliy-i-Sardar",
-      "sortName": "Aliy-i-Sardar",
+      "name": "'Alíy-i-Sardar",
+      "sortName": "'Alíy-i-Sardar",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2350,8 +2368,8 @@
     },
     {
       "id": "aliy_i_tabib",
-      "name": "Aliy-i-Tabib",
-      "sortName": "Aliy-i-Tabib",
+      "name": "'Alíy-i-Tabib",
+      "sortName": "'Alíy-i-Tabib",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2369,8 +2387,8 @@
     },
     {
       "id": "aliy_i_zanjani",
-      "name": "Aliy-i-Zanjani",
-      "sortName": "Aliy-i-Zanjani",
+      "name": "'Alíy-i-Zanjani",
+      "sortName": "'Alíy-i-Zanjani",
       "titles": [],
       "cityOfOrigin": "Zanjan",
       "relations": [],
@@ -2386,8 +2404,8 @@
     },
     {
       "id": "aqay_i_rikab_saz",
-      "name": "Aqay-i-Rikab-Saz",
-      "sortName": "Aqay-i-Rikab-Saz",
+      "name": "Áqáy-i-Rikab-Saz",
+      "sortName": "Áqáy-i-Rikab-Saz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2416,12 +2434,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 181,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "azim_i_khu",
-      "name": "Azim-i-Khu",
-      "sortName": "Azim-i-Khu",
+      "name": "'Azím-i-Khu",
+      "sortName": "'Azím-i-Khu",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2438,8 +2456,8 @@
     },
     {
       "id": "baf_i_yazdi",
-      "name": "Baf-i-Yazdi",
-      "sortName": "Baf-i-Yazdi",
+      "name": "Báf-i-Yazdi",
+      "sortName": "Báf-i-Yazdi",
       "titles": [],
       "cityOfOrigin": "Yazd",
       "relations": [],
@@ -2455,8 +2473,8 @@
     },
     {
       "id": "bagh_i_jannat",
-      "name": "Bagh-i-Jannat",
-      "sortName": "Bagh-i-Jannat",
+      "name": "Bágh-i-Jannat",
+      "sortName": "Bágh-i-Jannat",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2468,12 +2486,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1848,
       "storyAppearancePage": 208,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "bagh_i_takht",
-      "name": "Bagh-i-Takht",
-      "sortName": "Bagh-i-Takht",
+      "name": "Bágh-i-Takht",
+      "sortName": "Bágh-i-Takht",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2485,12 +2503,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 152,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "bakhsh_i_quchani",
-      "name": "Bakhsh-i-Quchani",
-      "sortName": "Bakhsh-i-Quchani",
+      "name": "Bakhsh-i-Qúchání",
+      "sortName": "Bakhsh-i-Qúchání",
       "titles": [],
       "cityOfOrigin": "Quchan",
       "relations": [],
@@ -2506,8 +2524,8 @@
     },
     {
       "id": "band_i_isfahani",
-      "name": "Band-i-Isfahani",
-      "sortName": "Band-i-Isfahani",
+      "name": "Band-i-Isfahání",
+      "sortName": "Band-i-Isfahání",
       "titles": [],
       "cityOfOrigin": "Isfahan",
       "relations": [],
@@ -2523,8 +2541,8 @@
     },
     {
       "id": "baqir_i_bastami",
-      "name": "Baqir-i-Bastami",
-      "sortName": "Baqir-i-Bastami",
+      "name": "Báqir-i-Bastámí",
+      "sortName": "Báqir-i-Bastámí",
       "titles": [],
       "cityOfOrigin": "Bastam",
       "relations": [],
@@ -2540,8 +2558,8 @@
     },
     {
       "id": "baqir_i_kafsh_duz",
-      "name": "Baqir-i-Kafsh-Duz",
-      "sortName": "Baqir-i-Kafsh-Duz",
+      "name": "Báqir-i-Kafsh-Dúz",
+      "sortName": "Báqir-i-Kafsh-Dúz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2557,8 +2575,8 @@
     },
     {
       "id": "baqir_i_kandi",
-      "name": "Baqir-i-Kandi",
-      "sortName": "Baqir-i-Kandi",
+      "name": "Báqir-i-Kandí",
+      "sortName": "Báqir-i-Kandí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2574,8 +2592,8 @@
     },
     {
       "id": "baqir_i_qa",
-      "name": "Baqir-i-Qa",
-      "sortName": "Baqir-i-Qa",
+      "name": "Báqir-i-Qá'iní",
+      "sortName": "Báqir-i-Qá'iní",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2593,8 +2611,8 @@
     },
     {
       "id": "baqir_i_sabbagh",
-      "name": "Baqir-i-Sabbagh",
-      "sortName": "Baqir-i-Sabbagh",
+      "name": "Báqir-i-Sabbágh",
+      "sortName": "Báqir-i-Sabbágh",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2610,8 +2628,8 @@
     },
     {
       "id": "bavanat_i_fars",
-      "name": "Bavanat-i-Fars",
-      "sortName": "Bavanat-i-Fars",
+      "name": "Bavanát-i-Fárs",
+      "sortName": "Bavanát-i-Fárs",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2623,12 +2641,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 352,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "big_i_chaparchi",
-      "name": "Big-i-Chaparchi",
-      "sortName": "Big-i-Chaparchi",
+      "name": "Big-i-Chápárchí",
+      "sortName": "Big-i-Chápárchí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2646,8 +2664,8 @@
     },
     {
       "id": "big_i_sanandaji",
-      "name": "Big-i-Sanandaji",
-      "sortName": "Big-i-Sanandaji",
+      "name": "Big-i-Sanandají",
+      "sortName": "Big-i-Sanandají",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2663,8 +2681,8 @@
     },
     {
       "id": "buzurg_i_nuri",
-      "name": "Buzurg-i-Nuri",
-      "sortName": "Buzurg-i-Nuri",
+      "name": "Buzurg-i-Núrí",
+      "sortName": "Buzurg-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -2680,8 +2698,8 @@
     },
     {
       "id": "dawliy_i_isfahani",
-      "name": "Dawliy-i-Isfahani",
-      "sortName": "Dawliy-i-Isfahani",
+      "name": "Dawlíy-i-Isfahání",
+      "sortName": "Dawlíy-i-Isfahání",
       "titles": [],
       "cityOfOrigin": "Isfahan",
       "relations": [],
@@ -2697,8 +2715,8 @@
     },
     {
       "id": "din_i_maliki_duz",
-      "name": "Din-i-Maliki-Duz",
-      "sortName": "Din-i-Maliki-Duz",
+      "name": "Dín-i-Malikí-Dúz",
+      "sortName": "Dín-i-Malikí-Dúz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2714,8 +2732,8 @@
     },
     {
       "id": "din_i_naraqi",
-      "name": "Din-i-Naraqi",
-      "sortName": "Din-i-Naraqi",
+      "name": "Dín-i-Naráqí",
+      "sortName": "Dín-i-Naráqí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2732,8 +2750,8 @@
     },
     {
       "id": "din_i_qazvini",
-      "name": "Din-i-Qazvini",
-      "sortName": "Din-i-Qazvini",
+      "name": "Dín-i-Qazvini",
+      "sortName": "Dín-i-Qazvini",
       "titles": [],
       "cityOfOrigin": "Qazvin",
       "relations": [],
@@ -2749,8 +2767,8 @@
     },
     {
       "id": "fawj_i_kalbat",
-      "name": "Fawj-i-Kalbat",
-      "sortName": "Fawj-i-Kalbat",
+      "name": "Fawj-i-Kalbát",
+      "sortName": "Fawj-i-Kalbát",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2766,8 +2784,8 @@
     },
     {
       "id": "hadiy_i_farhadi",
-      "name": "Hadiy-i-Farhadi",
-      "sortName": "Hadiy-i-Farhadi",
+      "name": "Hádíy-i-Farhádí",
+      "sortName": "Hádíy-i-Farhádí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2785,8 +2803,8 @@
     },
     {
       "id": "hakkak_i_qumi",
-      "name": "Hakkak-i-Qumi",
-      "sortName": "Hakkak-i-Qumi",
+      "name": "Hakkák-i-Qumí",
+      "sortName": "Hakkák-i-Qumí",
       "titles": [],
       "cityOfOrigin": "Qom",
       "relations": [],
@@ -2802,8 +2820,8 @@
     },
     {
       "id": "haram_i_ma",
-      "name": "Haram-i-Ma",
-      "sortName": "Haram-i-Ma",
+      "name": "Haram-i-Ma'súmih",
+      "sortName": "Haram-i-Ma'súmih",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2815,12 +2833,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 170,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "hasan_i_bajistani",
-      "name": "Hasan-i-Bajistani",
-      "sortName": "Hasan-i-Bajistani",
+      "name": "Hasan-i-Bájistání",
+      "sortName": "Hasan-i-Bájistání",
       "titles": [],
       "cityOfOrigin": "Bajistan",
       "relations": [],
@@ -2836,8 +2854,8 @@
     },
     {
       "id": "hasan_i_bazzaz",
-      "name": "Hasan-i-Bazzaz",
-      "sortName": "Hasan-i-Bazzaz",
+      "name": "Hasan-i-Bazzáz",
+      "sortName": "Hasan-i-Bazzáz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2853,8 +2871,8 @@
     },
     {
       "id": "hasan_i_chit_saz",
-      "name": "Hasan-i-Chit-Saz",
-      "sortName": "Hasan-i-Chit-Saz",
+      "name": "Hasan-i-Chít-Saz",
+      "sortName": "Hasan-i-Chít-Saz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2888,8 +2906,8 @@
     },
     {
       "id": "hasan_i_najafi",
-      "name": "Hasan-i-Najafi",
-      "sortName": "Hasan-i-Najafi",
+      "name": "Hasan-i-Najafí",
+      "sortName": "Hasan-i-Najafí",
       "titles": [],
       "cityOfOrigin": "Najaf",
       "relations": [],
@@ -2905,8 +2923,8 @@
     },
     {
       "id": "hasan_i_nayini",
-      "name": "Hasan-i-Nayini",
-      "sortName": "Hasan-i-Nayini",
+      "name": "Hasan-i-Náyiní",
+      "sortName": "Hasan-i-Náyiní",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -2923,8 +2941,8 @@
     },
     {
       "id": "hasan_i_nuri",
-      "name": "Hasan-i-Nuri",
-      "sortName": "Hasan-i-Nuri",
+      "name": "Hasan-i-Núrí",
+      "sortName": "Hasan-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -2958,8 +2976,8 @@
     },
     {
       "id": "hasan_i_rashti",
-      "name": "Hasan-i-Rashti",
-      "sortName": "Hasan-i-Rashti",
+      "name": "Hasan-i-Rashtí",
+      "sortName": "Hasan-i-Rashtí",
       "titles": [],
       "cityOfOrigin": "Rasht",
       "relations": [],
@@ -2975,8 +2993,8 @@
     },
     {
       "id": "hasan_i_sha",
-      "name": "Hasan-i-Sha",
-      "sortName": "Hasan-i-Sha",
+      "name": "Hasan-i-Shá'ir",
+      "sortName": "Hasan-i-Shá'ir",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3027,8 +3045,8 @@
     },
     {
       "id": "husayn_i_hakamiy",
-      "name": "Husayn-i-Hakamiy",
-      "sortName": "Husayn-i-Hakamiy",
+      "name": "Husayn-i-Hakamíy",
+      "sortName": "Husayn-i-Hakamíy",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3044,8 +3062,8 @@
     },
     {
       "id": "husayn_i_kashi_saz",
-      "name": "Husayn-i-Kashi-Saz",
-      "sortName": "Husayn-i-Kashi-Saz",
+      "name": "Husayn-i-Káshí-Saz",
+      "sortName": "Husayn-i-Káshí-Saz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3061,8 +3079,8 @@
     },
     {
       "id": "husayn_i_kirmani",
-      "name": "Husayn-i-Kirmani",
-      "sortName": "Husayn-i-Kirmani",
+      "name": "Husayn-i-Kirmání",
+      "sortName": "Husayn-i-Kirmání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3078,8 +3096,8 @@
     },
     {
       "id": "husayn_i_kulah_duz",
-      "name": "Husayn-i-Kulah-Duz",
-      "sortName": "Husayn-i-Kulah-Duz",
+      "name": "Husayn-i-Kulah-Dúz",
+      "sortName": "Husayn-i-Kulah-Dúz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3095,8 +3113,8 @@
     },
     {
       "id": "husayn_i_maraghiyi",
-      "name": "Husayn-i-Maraghiyi",
-      "sortName": "Husayn-i-Maraghiyi",
+      "name": "Husayn-i-Marághi'í",
+      "sortName": "Husayn-i-Marághi'í",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3130,8 +3148,8 @@
     },
     {
       "id": "husayn_i_miskar",
-      "name": "Husayn-i-Miskar",
-      "sortName": "Husayn-i-Miskar",
+      "name": "Husayn-i-Miskár",
+      "sortName": "Husayn-i-Miskár",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3147,8 +3165,8 @@
     },
     {
       "id": "husayn_i_qannad",
-      "name": "Husayn-i-Qannad",
-      "sortName": "Husayn-i-Qannad",
+      "name": "Husayn-i-Qannád",
+      "sortName": "Husayn-i-Qannád",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3181,8 +3199,8 @@
     },
     {
       "id": "husayn_i_shushtari",
-      "name": "Husayn-i-Shushtari",
-      "sortName": "Husayn-i-Shushtari",
+      "name": "Husayn-i-Shushtarí",
+      "sortName": "Husayn-i-Shushtarí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3228,12 +3246,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 201,
-      "category": "Prominent Believer"
+      "category": "Opponent"
     },
     {
       "id": "ibn_i_sa",
-      "name": "Ibn-i-Sa",
-      "sortName": "Ibn-i-Sa",
+      "name": "Ibn-i-Sa'd",
+      "sortName": "Ibn-i-Sa'd",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3245,12 +3263,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 375,
-      "category": "Prominent Believer"
+      "category": "Opponent"
     },
     {
       "id": "ibn_i_ziyad",
-      "name": "Ibn-i-Ziyad",
-      "sortName": "Ibn-i-Ziyad",
+      "name": "Ibn-i-Ziyád",
+      "sortName": "Ibn-i-Ziyád",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3262,12 +3280,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 375,
-      "category": "Prominent Believer"
+      "category": "Opponent"
     },
     {
       "id": "ibrahim_i_gulpaygani",
-      "name": "Ibrahim-i-Gulpaygani",
-      "sortName": "Ibrahim-i-Gulpaygani",
+      "name": "Ibráhím-i-Gulpaygani",
+      "sortName": "Ibráhím-i-Gulpaygani",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3283,8 +3301,8 @@
     },
     {
       "id": "ibrahim_i_kalbasi",
-      "name": "Ibrahim-i-Kalbasi",
-      "sortName": "Ibrahim-i-Kalbasi",
+      "name": "Ibráhím-i-Kalbásí",
+      "sortName": "Ibráhím-i-Kalbásí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3301,8 +3319,8 @@
     },
     {
       "id": "ibrahim_i_mahallati",
-      "name": "Ibrahim-i-Mahallati",
-      "sortName": "Ibrahim-i-Mahallati",
+      "name": "Ibráhím-i-Mahallátí",
+      "sortName": "Ibráhím-i-Mahallátí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3318,8 +3336,8 @@
     },
     {
       "id": "ibrahim_i_shirazi",
-      "name": "Ibrahim-i-Shirazi",
-      "sortName": "Ibrahim-i-Shirazi",
+      "name": "Ibráhím-i-Shirazi",
+      "sortName": "Ibráhím-i-Shirazi",
       "titles": [],
       "cityOfOrigin": "Shiraz",
       "relations": [],
@@ -3335,8 +3353,8 @@
     },
     {
       "id": "imarat_i_khurshid",
-      "name": "Imarat-i-Khurshid",
-      "sortName": "Imarat-i-Khurshid",
+      "name": "Imárat-i-Khurshíd",
+      "sortName": "Imárat-i-Khurshíd",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3348,12 +3366,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 165,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "jabal_i_basit",
-      "name": "Jabal-i-Basit",
-      "sortName": "Jabal-i-Basit",
+      "name": "Jabal-i-Básit",
+      "sortName": "Jabal-i-Básit",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3365,12 +3383,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 171,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "jabal_i_shadid",
-      "name": "Jabal-i-Shadid",
-      "sortName": "Jabal-i-Shadid",
+      "name": "Jabal-i-Shadíd",
+      "sortName": "Jabal-i-Shadíd",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3383,12 +3401,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 24,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "jalil_i_urumi",
-      "name": "Jalil-i-Urumi",
-      "sortName": "Jalil-i-Urumi",
+      "name": "Jalíl-i-Urúmí",
+      "sortName": "Jalíl-i-Urúmí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3406,8 +3424,8 @@
     },
     {
       "id": "janiy_i_kashani",
-      "name": "Janiy-i-Kashani",
-      "sortName": "Janiy-i-Kashani",
+      "name": "Jání-i-Káshání",
+      "sortName": "Jání-i-Káshání",
       "titles": [],
       "cityOfOrigin": "Kashan",
       "relations": [],
@@ -3423,8 +3441,8 @@
     },
     {
       "id": "javad_i_baraghani",
-      "name": "Javad-i-Baraghani",
-      "sortName": "Javad-i-Baraghani",
+      "name": "Javád-i-Baraghání",
+      "sortName": "Javád-i-Baraghání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3442,8 +3460,8 @@
     },
     {
       "id": "javad_i_farhadi",
-      "name": "Javad-i-Farhadi",
-      "sortName": "Javad-i-Farhadi",
+      "name": "Javád-i-Farhádí",
+      "sortName": "Javád-i-Farhádí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3460,8 +3478,8 @@
     },
     {
       "id": "jaziriy_i_khadra",
-      "name": "Jaziriy-i-Khadra",
-      "sortName": "Jaziriy-i-Khadra",
+      "name": "Jazíriy-i-Khadrá",
+      "sortName": "Jazíriy-i-Khadrá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3474,12 +3492,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1849,
       "storyAppearancePage": 238,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "jinab_i_muballigh",
-      "name": "Jinab-i-Muballigh",
-      "sortName": "Jinab-i-Muballigh",
+      "name": "Jináb-i-Muballigh",
+      "sortName": "Jináb-i-Muballigh",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3495,8 +3513,8 @@
     },
     {
       "id": "karim_i_iravani",
-      "name": "Karim-i-Iravani",
-      "sortName": "Karim-i-Iravani",
+      "name": "Karím-i-Íravání",
+      "sortName": "Karím-i-Íravání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3512,8 +3530,8 @@
     },
     {
       "id": "karim_i_qazvini",
-      "name": "Karim-i-Qazvini",
-      "sortName": "Karim-i-Qazvini",
+      "name": "Karím-i-Qazvini",
+      "sortName": "Karím-i-Qazvini",
       "titles": [],
       "cityOfOrigin": "Qazvin",
       "relations": [],
@@ -3531,8 +3549,8 @@
     },
     {
       "id": "khaliq_i_isfahani",
-      "name": "Khaliq-i-Isfahani",
-      "sortName": "Khaliq-i-Isfahani",
+      "name": "Kháliq-i-Isfahání",
+      "sortName": "Kháliq-i-Isfahání",
       "titles": [],
       "cityOfOrigin": "Isfahan",
       "relations": [],
@@ -3548,8 +3566,8 @@
     },
     {
       "id": "khaliq_i_yazdi",
-      "name": "Khaliq-i-Yazdi",
-      "sortName": "Khaliq-i-Yazdi",
+      "name": "Kháliq-i-Yazdi",
+      "sortName": "Kháliq-i-Yazdi",
       "titles": [],
       "cityOfOrigin": "Yazd",
       "relations": [],
@@ -3567,8 +3585,8 @@
     },
     {
       "id": "khan_i_afghan",
-      "name": "Khan-i-Afghan",
-      "sortName": "Khan-i-Afghan",
+      "name": "Khan-i-Afghán",
+      "sortName": "Khan-i-Afghán",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3585,8 +3603,8 @@
     },
     {
       "id": "khan_i_afshar",
-      "name": "Khan-i-Afshar",
-      "sortName": "Khan-i-Afshar",
+      "name": "Khan-i-Afshár",
+      "sortName": "Khan-i-Afshár",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3607,8 +3625,8 @@
     },
     {
       "id": "khan_i_du_dungi",
-      "name": "Khan-i-Du-Dungi",
-      "sortName": "Khan-i-Du-Dungi",
+      "name": "Khan-i-Du-Dungí",
+      "sortName": "Khan-i-Du-Dungí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3624,8 +3642,8 @@
     },
     {
       "id": "khan_i_iravani",
-      "name": "Khan-i-Iravani",
-      "sortName": "Khan-i-Iravani",
+      "name": "Khan-i-Íravání",
+      "sortName": "Khan-i-Íravání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3641,8 +3659,8 @@
     },
     {
       "id": "khan_i_kalantar",
-      "name": "Khan-i-Kalantar",
-      "sortName": "Khan-i-Kalantar",
+      "name": "Khan-i-Kalántar",
+      "sortName": "Khan-i-Kalántar",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3660,8 +3678,8 @@
     },
     {
       "id": "khan_i_karavuli",
-      "name": "Khan-i-Karavuli",
-      "sortName": "Khan-i-Karavuli",
+      "name": "Khan-i-Karávulí",
+      "sortName": "Khan-i-Karávulí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3677,8 +3695,8 @@
     },
     {
       "id": "khan_i_karrusi",
-      "name": "Khan-i-Karrusi",
-      "sortName": "Khan-i-Karrusi",
+      "name": "Khan-i-Karrúsí",
+      "sortName": "Khan-i-Karrúsí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3729,8 +3747,8 @@
     },
     {
       "id": "khan_i_lalih_bashi",
-      "name": "Khan-i-Lalih-Bashi",
-      "sortName": "Khan-i-Lalih-Bashi",
+      "name": "Khan-i-Lálih-Báshí",
+      "sortName": "Khan-i-Lálih-Báshí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3746,8 +3764,8 @@
     },
     {
       "id": "khan_i_larijani",
-      "name": "Khan-i-Larijani",
-      "sortName": "Khan-i-Larijani",
+      "name": "Khan-i-Láríjání",
+      "sortName": "Khan-i-Láríjání",
       "titles": [],
       "cityOfOrigin": "Larijan",
       "relations": [],
@@ -3770,8 +3788,8 @@
     },
     {
       "id": "khan_i_mah_ku",
-      "name": "Khan-i-Mah-Ku",
-      "sortName": "Khan-i-Mah-Ku",
+      "name": "Khan-i-Máh-Kú",
+      "sortName": "Khan-i-Máh-Kú",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3788,8 +3806,8 @@
     },
     {
       "id": "khan_i_maraghiyi",
-      "name": "Khan-i-Maraghiyi",
-      "sortName": "Khan-i-Maraghiyi",
+      "name": "Khan-i-Marághi'í",
+      "sortName": "Khan-i-Marághi'í",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3805,8 +3823,8 @@
     },
     {
       "id": "khan_i_mukri",
-      "name": "Khan-i-Mukri",
-      "sortName": "Khan-i-Mukri",
+      "name": "Khan-i-Mukrí",
+      "sortName": "Khan-i-Mukrí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3822,8 +3840,8 @@
     },
     {
       "id": "khan_i_namdar",
-      "name": "Khan-i-Namdar",
-      "sortName": "Khan-i-Namdar",
+      "name": "Khan-i-Námdár",
+      "sortName": "Khan-i-Námdár",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3839,8 +3857,8 @@
     },
     {
       "id": "khan_i_nuri",
-      "name": "Khan-i-Nuri",
-      "sortName": "Khan-i-Nuri",
+      "name": "Khan-i-Núrí",
+      "sortName": "Khan-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -3860,8 +3878,8 @@
     },
     {
       "id": "khan_i_qajar",
-      "name": "Khan-i-Qajar",
-      "sortName": "Khan-i-Qajar",
+      "name": "Khan-i-Qájár",
+      "sortName": "Khan-i-Qájár",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3896,8 +3914,8 @@
     },
     {
       "id": "khan_i_savad_kuhi",
-      "name": "Khan-i-Savad-Kuhi",
-      "sortName": "Khan-i-Savad-Kuhi",
+      "name": "Khan-i-Savád-Kúhí",
+      "sortName": "Khan-i-Savád-Kúhí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3913,8 +3931,8 @@
     },
     {
       "id": "khan_i_shah_sun",
-      "name": "Khan-i-Shah-Sun",
-      "sortName": "Khan-i-Shah-Sun",
+      "name": "Khan-i-Sháh-Sún",
+      "sortName": "Khan-i-Sháh-Sún",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3930,8 +3948,8 @@
     },
     {
       "id": "khan_i_surkh_karri",
-      "name": "Khan-i-Surkh-Karri",
-      "sortName": "Khan-i-Surkh-Karri",
+      "name": "Khan-i-Surkh-Karrí",
+      "sortName": "Khan-i-Surkh-Karrí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3947,8 +3965,8 @@
     },
     {
       "id": "khan_i_turkaman",
-      "name": "Khan-i-Turkaman",
-      "sortName": "Khan-i-Turkaman",
+      "name": "Khan-i-Turkamán",
+      "sortName": "Khan-i-Turkamán",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -3983,8 +4001,8 @@
     },
     {
       "id": "khani_i_nuri",
-      "name": "Khani-i-Nuri",
-      "sortName": "Khani-i-Nuri",
+      "name": "Khání-i-Núrí",
+      "sortName": "Khání-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -4000,8 +4018,8 @@
     },
     {
       "id": "khusraw_i_qadi_kala",
-      "name": "Khusraw-i-Qadi-Kala",
-      "sortName": "Khusraw-i-Qadi-Kala",
+      "name": "Khusraw-i-Qádí-Kalá",
+      "sortName": "Khusraw-i-Qádí-Kalá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4031,7 +4049,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1849,
       "storyAppearancePage": 237,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "kitab_i_aqdas",
@@ -4048,12 +4066,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 155,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "kitab_i_iqan",
-      "name": "Kitab-i-Iqan",
-      "sortName": "Kitab-i-Iqan",
+      "name": "Kitab-i-Íqán",
+      "sortName": "Kitab-i-Íqán",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4066,12 +4084,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 303,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "kitab_i_panj_sha",
-      "name": "Kitab-i-Panj-Sha",
-      "sortName": "Kitab-i-Panj-Sha",
+      "name": "Kitáb-i-Panj-Sha'n",
+      "sortName": "Kitáb-i-Panj-Sha'n",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4083,12 +4101,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 325,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "kull_i_shay",
-      "name": "Kull-i-Shay",
-      "sortName": "Kull-i-Shay",
+      "name": "Kull-i-Shay'",
+      "sortName": "Kull-i-Shay'",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4100,12 +4118,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 90,
-      "category": "Prominent Believer"
+      "category": "Term of Relevance"
     },
     {
       "id": "lawh_i_hurufat",
-      "name": "Lawh-i-Hurufat",
-      "sortName": "Lawh-i-Hurufat",
+      "name": "Lawh-i-Hurúfát",
+      "sortName": "Lawh-i-Hurúfát",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4117,12 +4135,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1848,
       "storyAppearancePage": 222,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "madrisiy_i_daru",
-      "name": "Madrisiy-i-Daru",
-      "sortName": "Madrisiy-i-Daru",
+      "name": "Madrisiy-i-Dárú",
+      "sortName": "Madrisiy-i-Dárú",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4136,12 +4154,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 128,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "madrisiy_i_mirza_salih",
-      "name": "Madrisiy-i-Mirza-Salih",
-      "sortName": "Madrisiy-i-Mirza-Salih",
+      "name": "Madrisiy-i-Mírzá-Sálih",
+      "sortName": "Madrisiy-i-Mírzá-Sálih",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4153,7 +4171,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 322,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "madrisiy_i_sadr",
@@ -4170,12 +4188,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 323,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "mahmud_i_khu",
-      "name": "Mahmud-i-Khu",
-      "sortName": "Mahmud-i-Khu",
+      "name": "Mahmúd-i-Khu",
+      "sortName": "Mahmúd-i-Khu",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4192,8 +4210,8 @@
     },
     {
       "id": "mahmud_i_muqari",
-      "name": "Mahmud-i-Muqari",
-      "sortName": "Mahmud-i-Muqari",
+      "name": "Mahmúd-i-Muqárí",
+      "sortName": "Mahmúd-i-Muqárí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4209,8 +4227,8 @@
     },
     {
       "id": "mahmud_i_qamsari",
-      "name": "Mahmud-i-Qamsari",
-      "sortName": "Mahmud-i-Qamsari",
+      "name": "Mahmúd-i-Qamsarí",
+      "sortName": "Mahmúd-i-Qamsarí",
       "titles": [],
       "cityOfOrigin": "Sari",
       "relations": [],
@@ -4227,8 +4245,8 @@
     },
     {
       "id": "majid_i_shirazi",
-      "name": "Majid-i-Shirazi",
-      "sortName": "Majid-i-Shirazi",
+      "name": "Majíd-i-Shirazi",
+      "sortName": "Majíd-i-Shirazi",
       "titles": [],
       "cityOfOrigin": "Shiraz",
       "relations": [],
@@ -4244,8 +4262,8 @@
     },
     {
       "id": "mamalik_i_ashtiyani",
-      "name": "Mamalik-i-Ashtiyani",
-      "sortName": "Mamalik-i-Ashtiyani",
+      "name": "Mamálik-i-Áshtiyání",
+      "sortName": "Mamálik-i-Áshtiyání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4261,8 +4279,8 @@
     },
     {
       "id": "masih_i_nuri",
-      "name": "Masih-i-Nuri",
-      "sortName": "Masih-i-Nuri",
+      "name": "Masíh-i-Núrí",
+      "sortName": "Masíh-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -4278,8 +4296,8 @@
     },
     {
       "id": "masjid_i_baratha",
-      "name": "Masjid-i-Baratha",
-      "sortName": "Masjid-i-Baratha",
+      "name": "Masjid-i-Baráthá",
+      "sortName": "Masjid-i-Baráthá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4292,12 +4310,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 34,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_ilkhani",
-      "name": "Masjid-i-Ilkhani",
-      "sortName": "Masjid-i-Ilkhani",
+      "name": "Masjid-i-Ílkhání",
+      "sortName": "Masjid-i-Ílkhání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4313,12 +4331,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 40,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_imam_hasan",
-      "name": "Masjid-i-Imam-Hasan",
-      "sortName": "Masjid-i-Imam-Hasan",
+      "name": "Masjid-i-Imám-Hasan",
+      "sortName": "Masjid-i-Imám-Hasan",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4330,12 +4348,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 317,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_jami",
-      "name": "Masjid-i-Jami",
-      "sortName": "Masjid-i-Jami",
+      "name": "Masjid-i-Jámi'",
+      "sortName": "Masjid-i-Jámi'",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4347,12 +4365,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 367,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_jum",
-      "name": "Masjid-i-Jum",
-      "sortName": "Masjid-i-Jum",
+      "name": "Masjid-i-Jum'ih",
+      "sortName": "Masjid-i-Jum'ih",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4364,12 +4382,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1795,
       "storyAppearancePage": 2,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_kazim_big",
-      "name": "Masjid-i-Kazim-Big",
-      "sortName": "Masjid-i-Kazim-Big",
+      "name": "Masjid-i-Kázim-Big",
+      "sortName": "Masjid-i-Kázim-Big",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4381,12 +4399,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 310,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_kufih",
-      "name": "Masjid-i-Kufih",
-      "sortName": "Masjid-i-Kufih",
+      "name": "Masjid-i-Kúfih",
+      "sortName": "Masjid-i-Kúfih",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4398,7 +4416,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 39,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_naw",
@@ -4415,12 +4433,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 105,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_shah",
-      "name": "Masjid-i-Shah",
-      "sortName": "Masjid-i-Shah",
+      "name": "Masjid-i-Sháh",
+      "sortName": "Masjid-i-Sháh",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4434,12 +4452,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 321,
-      "category": "Opponent"
+      "category": "Location of Relevance"
     },
     {
       "id": "masjid_i_vakil",
-      "name": "Masjid-i-Vakil",
-      "sortName": "Masjid-i-Vakil",
+      "name": "Masjid-i-Vakíl",
+      "sortName": "Masjid-i-Vakíl",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4453,12 +4471,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 112,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "mihdiy_i_kandi",
-      "name": "Mihdiy-i-Kandi",
-      "sortName": "Mihdiy-i-Kandi",
+      "name": "Mihdíy-i-Kandí",
+      "sortName": "Mihdíy-i-Kandí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4476,8 +4494,8 @@
     },
     {
       "id": "mihdiy_i_khu",
-      "name": "Mihdiy-i-Khu",
-      "sortName": "Mihdiy-i-Khu",
+      "name": "Mihdíy-i-Khu",
+      "sortName": "Mihdíy-i-Khu",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4495,8 +4513,8 @@
     },
     {
       "id": "mirzay_i_shirazi",
-      "name": "Mirzay-i-Shirazi",
-      "sortName": "Mirzay-i-Shirazi",
+      "name": "Mírzáy-i-Shirazi",
+      "sortName": "Mírzáy-i-Shirazi",
       "titles": [],
       "cityOfOrigin": "Shiraz",
       "relations": [],
@@ -4512,8 +4530,8 @@
     },
     {
       "id": "muhammad_i_akhbari",
-      "name": "Muhammad-i-Akhbari",
-      "sortName": "Muhammad-i-Akhbari",
+      "name": "Muhammad-i-Akhbárí",
+      "sortName": "Muhammad-i-Akhbárí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4574,8 +4592,8 @@
     },
     {
       "id": "muhammad_i_hana_sab",
-      "name": "Muhammad-i-Hana-Sab",
-      "sortName": "Muhammad-i-Hana-Sab",
+      "name": "Muhammad-i-Haná-Sab",
+      "sortName": "Muhammad-i-Haná-Sab",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4626,8 +4644,8 @@
     },
     {
       "id": "muhammad_i_mamaqani",
-      "name": "Muhammad-i-Mamaqani",
-      "sortName": "Muhammad-i-Mamaqani",
+      "name": "Muhammad-i-Mamaqání",
+      "sortName": "Muhammad-i-Mamaqání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4649,8 +4667,8 @@
     },
     {
       "id": "muhammad_i_mazindarani",
-      "name": "Muhammad-i-Mazindarani",
-      "sortName": "Muhammad-i-Mazindarani",
+      "name": "Muhammad-i-Mázandarání",
+      "sortName": "Muhammad-i-Mázandarání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4686,8 +4704,8 @@
     },
     {
       "id": "muhammad_i_tub_chi",
-      "name": "Muhammad-i-Tub-Chi",
-      "sortName": "Muhammad-i-Tub-Chi",
+      "name": "Muhammad-i-Túb-Chi",
+      "sortName": "Muhammad-i-Túb-Chi",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4704,8 +4722,8 @@
     },
     {
       "id": "muhammad_i_zari",
-      "name": "Muhammad-i-Zari",
-      "sortName": "Muhammad-i-Zari",
+      "name": "Muhammad-i-Zarí",
+      "sortName": "Muhammad-i-Zarí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4721,8 +4739,8 @@
     },
     {
       "id": "muhit_i_kirmani",
-      "name": "Muhit-i-Kirmani",
-      "sortName": "Muhit-i-Kirmani",
+      "name": "Muhít-i-Kirmání",
+      "sortName": "Muhít-i-Kirmání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4740,8 +4758,8 @@
     },
     {
       "id": "muhit_i_sha",
-      "name": "Muhit-i-Sha",
-      "sortName": "Muhit-i-Sha",
+      "name": "Muhít-i-Shá'ir",
+      "sortName": "Muhít-i-Shá'ir",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4757,8 +4775,8 @@
     },
     {
       "id": "musay_i_kazim",
-      "name": "Musay-i-Kazim",
-      "sortName": "Musay-i-Kazim",
+      "name": "Músáy-i-Kázim",
+      "sortName": "Músáy-i-Kázim",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4774,8 +4792,8 @@
     },
     {
       "id": "musay_i_qumi",
-      "name": "Musay-i-Qumi",
-      "sortName": "Musay-i-Qumi",
+      "name": "Músáy-i-Qumí",
+      "sortName": "Músáy-i-Qumí",
       "titles": [],
       "cityOfOrigin": "Qom",
       "relations": [],
@@ -4792,8 +4810,8 @@
     },
     {
       "id": "nabil_i_akbar",
-      "name": "Nabil-i-Akbar",
-      "sortName": "Nabil-i-Akbar",
+      "name": "Nabíl-i-Akbar",
+      "sortName": "Nabíl-i-Akbar",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4810,8 +4828,8 @@
     },
     {
       "id": "navvab_i_radavi",
-      "name": "Navvab-i-Radavi",
-      "sortName": "Navvab-i-Radavi",
+      "name": "Navváb-i-Radaví",
+      "sortName": "Navváb-i-Radaví",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4828,8 +4846,8 @@
     },
     {
       "id": "niyaz_i_baghdadi",
-      "name": "Niyaz-i-Baghdadi",
-      "sortName": "Niyaz-i-Baghdadi",
+      "name": "Niyáz-i-Baghdádí",
+      "sortName": "Niyáz-i-Baghdádí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4845,8 +4863,8 @@
     },
     {
       "id": "nubuvvat_i_khassih",
-      "name": "Nubuvvat-i-Khassih",
-      "sortName": "Nubuvvat-i-Khassih",
+      "name": "Nubuvvat-i-Khássih",
+      "sortName": "Nubuvvat-i-Khássih",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4858,12 +4876,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 155,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "nuqtiy_i_ukhra",
-      "name": "Nuqtiy-i-Ukhra",
-      "sortName": "Nuqtiy-i-Ukhra",
+      "name": "Nuqtiy-i-Ukhrá",
+      "sortName": "Nuqtiy-i-Ukhrá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4875,12 +4893,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 303,
-      "category": "Prominent Believer"
+      "category": "Term of Relevance"
     },
     {
       "id": "pay_i_minar",
-      "name": "Pay-i-Minar",
-      "sortName": "Pay-i-Minar",
+      "name": "Pay-i-Minár",
+      "sortName": "Pay-i-Minár",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4892,12 +4910,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 75,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "prince_firuz_mirza",
-      "name": "Prince Firuz Mirza",
-      "sortName": "Firuz Mirza, Prince",
+      "name": "Prince Fírúz Mírzá",
+      "sortName": "Fírúz Mírzá, Prince",
       "titles": [
         "Prince"
       ],
@@ -4980,12 +4998,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 105,
-      "category": "Prominent Believer"
+      "category": "Term of Relevance"
     },
     {
       "id": "qasidiy_i_varqa",
-      "name": "Qasidiy-i-Varqa",
-      "sortName": "Qasidiy-i-Varqa",
+      "name": "Qasídiy-i-Varqá",
+      "sortName": "Qasídiy-i-Varqá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -4997,7 +5015,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1795,
       "storyAppearancePage": 5,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "qasim_i_nayrizi",
@@ -5018,8 +5036,8 @@
     },
     {
       "id": "rahim_i_khabbaz",
-      "name": "Rahim-i-Khabbaz",
-      "sortName": "Rahim-i-Khabbaz",
+      "name": "Rahím-i-Khabbaz",
+      "sortName": "Rahím-i-Khabbaz",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -5035,8 +5053,8 @@
     },
     {
       "id": "rahim_i_zanjani",
-      "name": "Rahim-i-Zanjani",
-      "sortName": "Rahim-i-Zanjani",
+      "name": "Rahím-i-Zanjani",
+      "sortName": "Rahím-i-Zanjani",
       "titles": [],
       "cityOfOrigin": "Zanjan",
       "relations": [],
@@ -5157,8 +5175,8 @@
     },
     {
       "id": "riday_i_shah",
-      "name": "Riday-i-Shah",
-      "sortName": "Riday-i-Shah",
+      "name": "Riday-i-Sháh",
+      "sortName": "Riday-i-Sháh",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -5206,7 +5224,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 159,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "risaly_i_sultaniyyih",
@@ -5223,7 +5241,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1795,
       "storyAppearancePage": 3,
-      "category": "Opponent"
+      "category": "Text of Relevance"
     },
     {
       "id": "sadiq_i_khurasani",
@@ -5317,12 +5335,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1845,
       "storyAppearancePage": 100,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "salih_i_qazvini",
-      "name": "Salih-i-Qazvini",
-      "sortName": "Salih-i-Qazvini",
+      "name": "Sálih-i-Qazvini",
+      "sortName": "Sálih-i-Qazvini",
       "titles": [],
       "cityOfOrigin": "Qazvin",
       "relations": [],
@@ -5368,7 +5386,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1846,
       "storyAppearancePage": 128,
-      "category": "Prominent Believer"
+      "category": "Location of Relevance"
     },
     {
       "id": "shahid_i_thalith",
@@ -5402,7 +5420,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 26,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "sharh_i_qasidih",
@@ -5419,12 +5437,12 @@
       "deathYear": null,
       "storyAppearanceYear": 1844,
       "storyAppearancePage": 26,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "shaykh_abdu",
-      "name": "Shaykh Abdu",
-      "sortName": "Abdu, Shaykh",
+      "name": "Shaykh 'Abdu",
+      "sortName": "'Abdu, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5445,8 +5463,8 @@
     },
     {
       "id": "shaykh_abid",
-      "name": "Shaykh Abid",
-      "sortName": "Abid, Shaykh",
+      "name": "Shaykh 'Ábid",
+      "sortName": "'Ábid, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5465,8 +5483,8 @@
     },
     {
       "id": "shaykh_abu",
-      "name": "Shaykh Abu",
-      "sortName": "Abu, Shaykh",
+      "name": "Shaykh Abú",
+      "sortName": "Abú, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5493,8 +5511,8 @@
     },
     {
       "id": "shaykh_ali",
-      "name": "Shaykh Ali",
-      "sortName": "Ali, Shaykh",
+      "name": "Shaykh 'Alí",
+      "sortName": "'Alí, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5515,8 +5533,8 @@
     },
     {
       "id": "shaykh_ali_mirza",
-      "name": "Shaykh Ali Mirza",
-      "sortName": "Ali Mirza, Shaykh",
+      "name": "Shaykh 'Alí Mírzá",
+      "sortName": "'Alí Mírzá, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5534,8 +5552,8 @@
     },
     {
       "id": "shaykh_azim",
-      "name": "Shaykh Azim",
-      "sortName": "Azim, Shaykh",
+      "name": "Shaykh 'Azím",
+      "sortName": "'Azím, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5593,8 +5611,8 @@
     },
     {
       "id": "shaykh_hasan_i_zunuzi",
-      "name": "Shaykh Hasan-i-Zunuzi",
-      "sortName": "Hasan-i-Zunuzi, Shaykh",
+      "name": "Shaykh Hasan-i-Zunúzí",
+      "sortName": "Hasan-i-Zunúzí, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5680,8 +5698,8 @@
     },
     {
       "id": "shaykh_muhammad_i_tub",
-      "name": "Shaykh Muhammad-i-Tub",
-      "sortName": "Muhammad-i-Tub, Shaykh",
+      "name": "Shaykh Muhammad-i-Túb",
+      "sortName": "Muhammad-i-Túb, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5718,8 +5736,8 @@
     },
     {
       "id": "shaykh_salih",
-      "name": "Shaykh Salih",
-      "sortName": "Salih, Shaykh",
+      "name": "Shaykh Sálih",
+      "sortName": "Sálih, Shaykh",
       "titles": [
         "Shaykh"
       ],
@@ -5855,8 +5873,8 @@
     },
     {
       "id": "siyyid_abdu",
-      "name": "Siyyid Abdu",
-      "sortName": "Abdu, Siyyid",
+      "name": "Siyyid 'Abdu",
+      "sortName": "'Abdu, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -5879,8 +5897,8 @@
     },
     {
       "id": "siyyid_abid",
-      "name": "Siyyid Abid",
-      "sortName": "Abid, Siyyid",
+      "name": "Siyyid 'Ábid",
+      "sortName": "'Ábid, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -5899,8 +5917,8 @@
     },
     {
       "id": "siyyid_abu",
-      "name": "Siyyid Abu",
-      "sortName": "Abu, Siyyid",
+      "name": "Siyyid Abú",
+      "sortName": "Abú, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -5951,8 +5969,8 @@
     },
     {
       "id": "siyyid_ali_khan",
-      "name": "Siyyid Ali Khan",
-      "sortName": "Ali Khan, Siyyid",
+      "name": "Siyyid 'Alí Khan",
+      "sortName": "'Alí Khan, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -5970,8 +5988,8 @@
     },
     {
       "id": "siyyid_aliy_i_tafarshi",
-      "name": "Siyyid Aliy-i-Tafarshi",
-      "sortName": "Aliy-i-Tafarshi, Siyyid",
+      "name": "Siyyid 'Alíy-i-Tafarshi",
+      "sortName": "'Alíy-i-Tafarshi, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -5989,8 +6007,8 @@
     },
     {
       "id": "siyyid_aliy_i_zargar",
-      "name": "Siyyid Aliy-i-Zargar",
-      "sortName": "Aliy-i-Zargar, Siyyid",
+      "name": "Siyyid 'Alíy-i-Zargar",
+      "sortName": "'Alíy-i-Zargar, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6181,8 +6199,8 @@
     },
     {
       "id": "siyyid_ibrahim",
-      "name": "Siyyid Ibrahim",
-      "sortName": "Ibrahim, Siyyid",
+      "name": "Siyyid Ibráhím",
+      "sortName": "Ibráhím, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6200,8 +6218,8 @@
     },
     {
       "id": "siyyid_ibrahim_i_khalil",
-      "name": "Siyyid Ibrahim-i-Khalil",
-      "sortName": "Ibrahim-i-Khalil, Siyyid",
+      "name": "Siyyid Ibráhím-i-Khalil",
+      "sortName": "Ibráhím-i-Khalil, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6221,8 +6239,8 @@
     },
     {
       "id": "siyyid_ibrahim_i_qazvini",
-      "name": "Siyyid Ibrahim-i-Qazvini",
-      "sortName": "Ibrahim-i-Qazvini, Siyyid",
+      "name": "Siyyid Ibráhím-i-Qazvini",
+      "sortName": "Ibráhím-i-Qazvini, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6267,8 +6285,8 @@
     },
     {
       "id": "siyyid_javad_i_kirmani",
-      "name": "Siyyid Javad-i-Kirmani",
-      "sortName": "Javad-i-Kirmani, Siyyid",
+      "name": "Siyyid Javád-i-Kirmání",
+      "sortName": "Javád-i-Kirmání, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6286,8 +6304,8 @@
     },
     {
       "id": "siyyid_kazim_i_zanjani",
-      "name": "Siyyid Kazim-i-Zanjani",
-      "sortName": "Kazim-i-Zanjani, Siyyid",
+      "name": "Siyyid Kázim-i-Zanjani",
+      "sortName": "Kázim-i-Zanjani, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6326,8 +6344,8 @@
     },
     {
       "id": "siyyid_mirza_husayn_i_mutavalli",
-      "name": "Siyyid Mirza Husayn-i-Mutavalli",
-      "sortName": "Mirza Husayn-i-Mutavalli, Siyyid",
+      "name": "Siyyid Mírzá Husayn-i-Mutavalli",
+      "sortName": "Mírzá Husayn-i-Mutavalli, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6374,8 +6392,8 @@
     },
     {
       "id": "siyyid_muhammad_baqir_i_rashti",
-      "name": "Siyyid Muhammad Baqir-i-Rashti",
-      "sortName": "Muhammad Baqir-i-Rashti, Siyyid",
+      "name": "Siyyid Muhammad Báqir-i-Rashtí",
+      "sortName": "Muhammad Báqir-i-Rashtí, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6415,8 +6433,8 @@
     },
     {
       "id": "siyyid_muhammad_i_isfahani",
-      "name": "Siyyid Muhammad-i-Isfahani",
-      "sortName": "Muhammad-i-Isfahani, Siyyid",
+      "name": "Siyyid Muhammad-i-Isfahání",
+      "sortName": "Muhammad-i-Isfahání, Siyyid",
       "titles": [
         "Siyyid"
       ],
@@ -6551,8 +6569,8 @@
     },
     {
       "id": "siyyid_i_qumi",
-      "name": "Siyyid-i-Qumi",
-      "sortName": "Siyyid-i-Qumi",
+      "name": "Siyyid-i-Qumí",
+      "sortName": "Siyyid-i-Qumí",
       "titles": [
         "Siyyid"
       ],
@@ -6587,8 +6605,8 @@
     },
     {
       "id": "sulayman_i_nuri",
-      "name": "Sulayman-i-Nuri",
-      "sortName": "Sulayman-i-Nuri",
+      "name": "Sulayman-i-Núrí",
+      "sortName": "Sulayman-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -6605,8 +6623,8 @@
     },
     {
       "id": "suriy_i_ayyub",
-      "name": "Suriy-i-Ayyub",
-      "sortName": "Suriy-i-Ayyub",
+      "name": "Súriy-i-Ayyúb",
+      "sortName": "Súriy-i-Ayyúb",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6618,7 +6636,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1850,
       "storyAppearancePage": 353,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "tabib_i_zanjani",
@@ -6639,8 +6657,8 @@
     },
     {
       "id": "tahir_i_shirazi",
-      "name": "Tahir-i-Shirazi",
-      "sortName": "Tahir-i-Shirazi",
+      "name": "Táhir-i-Shirazi",
+      "sortName": "Táhir-i-Shirazi",
       "titles": [],
       "cityOfOrigin": "Shiraz",
       "relations": [],
@@ -6656,8 +6674,8 @@
     },
     {
       "id": "talib_i_sang_sari",
-      "name": "Talib-i-Sang-Sari",
-      "sortName": "Talib-i-Sang-Sari",
+      "name": "Tálib-i-Sang-Sarí",
+      "sortName": "Tálib-i-Sang-Sarí",
       "titles": [],
       "cityOfOrigin": "Sari",
       "relations": [],
@@ -6673,8 +6691,8 @@
     },
     {
       "id": "talib_i_shahmirzadi",
-      "name": "Talib-i-Shahmirzadi",
-      "sortName": "Talib-i-Shahmirzadi",
+      "name": "Tálib-i-Shahmirzadi",
+      "sortName": "Tálib-i-Shahmirzadi",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6690,8 +6708,8 @@
     },
     {
       "id": "taqiy_i_harati",
-      "name": "Taqiy-i-Harati",
-      "sortName": "Taqiy-i-Harati",
+      "name": "Taqíy-i-Harati",
+      "sortName": "Taqíy-i-Harati",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6708,8 +6726,8 @@
     },
     {
       "id": "taqiy_i_juvayni",
-      "name": "Taqiy-i-Juvayni",
-      "sortName": "Taqiy-i-Juvayni",
+      "name": "Taqíy-i-Juvayní",
+      "sortName": "Taqíy-i-Juvayní",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6726,8 +6744,8 @@
     },
     {
       "id": "taqiy_i_juvayniy",
-      "name": "Taqiy-i-Juvayniy",
-      "sortName": "Taqiy-i-Juvayniy",
+      "name": "Taqíy-i-Juvayníy",
+      "sortName": "Taqíy-i-Juvayníy",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6743,8 +6761,8 @@
     },
     {
       "id": "taqiy_i_kirmani",
-      "name": "Taqiy-i-Kirmani",
-      "sortName": "Taqiy-i-Kirmani",
+      "name": "Taqíy-i-Kirmání",
+      "sortName": "Taqíy-i-Kirmání",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6761,8 +6779,8 @@
     },
     {
       "id": "taqiy_i_milani",
-      "name": "Taqiy-i-Milani",
-      "sortName": "Taqiy-i-Milani",
+      "name": "Taqíy-i-Milani",
+      "sortName": "Taqíy-i-Milani",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6778,8 +6796,8 @@
     },
     {
       "id": "taqiy_i_nuri",
-      "name": "Taqiy-i-Nuri",
-      "sortName": "Taqiy-i-Nuri",
+      "name": "Taqíy-i-Núrí",
+      "sortName": "Taqíy-i-Núrí",
       "titles": [],
       "cityOfOrigin": "Nur",
       "relations": [],
@@ -6795,8 +6813,8 @@
     },
     {
       "id": "taqiy_i_qarakhili",
-      "name": "Taqiy-i-Qarakhili",
-      "sortName": "Taqiy-i-Qarakhili",
+      "name": "Taqíy-i-Qarakhili",
+      "sortName": "Taqíy-i-Qarakhili",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6812,8 +6830,8 @@
     },
     {
       "id": "taqiy_i_qazvini",
-      "name": "Taqiy-i-Qazvini",
-      "sortName": "Taqiy-i-Qazvini",
+      "name": "Taqíy-i-Qazvini",
+      "sortName": "Taqíy-i-Qazvini",
       "titles": [],
       "cityOfOrigin": "Qazvin",
       "relations": [],
@@ -6829,8 +6847,8 @@
     },
     {
       "id": "tarikh_i_nasiri",
-      "name": "Tarikh-i-Nasiri",
-      "sortName": "Tarikh-i-Nasiri",
+      "name": "Táríkh-i-Nasiri",
+      "sortName": "Táríkh-i-Nasiri",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6842,7 +6860,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1849,
       "storyAppearancePage": 244,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "umm_i_ashraf",
@@ -6880,8 +6898,8 @@
     },
     {
       "id": "usul_i_kafi",
-      "name": "Usul-i-Kafi",
-      "sortName": "Usul-i-Kafi",
+      "name": "Usúl-i-Káfí",
+      "sortName": "Usúl-i-Káfí",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -6894,7 +6912,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1847,
       "storyAppearancePage": 170,
-      "category": "Prominent Believer"
+      "category": "Text of Relevance"
     },
     {
       "id": "vahhab_i_qazvini",
@@ -6950,8 +6968,8 @@
     },
     {
       "id": "yahyay_i_darabi",
-      "name": "Yahyay-i-Darabi",
-      "sortName": "Yahyay-i-Darabi",
+      "name": "Yahyáy-i-Darabi",
+      "sortName": "Yahyáy-i-Darabi",
       "titles": [],
       "cityOfOrigin": "Darab",
       "relations": [],
@@ -6971,8 +6989,8 @@
     },
     {
       "id": "yusif_i_ardibili",
-      "name": "Yusif-i-Ardibili",
-      "sortName": "Yusif-i-Ardibili",
+      "name": "Yúsuf-i-Ardibili",
+      "sortName": "Yúsuf-i-Ardibili",
       "titles": [],
       "cityOfOrigin": "Ardibil",
       "relations": [],
@@ -6988,8 +7006,8 @@
     },
     {
       "id": "zakariyyay_i_qadi_kala",
-      "name": "Zakariyyay-i-Qadi-Kala",
-      "sortName": "Zakariyyay-i-Qadi-Kala",
+      "name": "Zakariyyay-i-Qádí-Kalá",
+      "sortName": "Zakariyyay-i-Qádí-Kalá",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -7006,8 +7024,8 @@
     },
     {
       "id": "ziyarat_i_shah",
-      "name": "Ziyarat-i-Shah",
-      "sortName": "Ziyarat-i-Shah",
+      "name": "Ziyárat-i-Sháh",
+      "sortName": "Ziyárat-i-Sháh",
       "titles": [],
       "cityOfOrigin": null,
       "relations": [],
@@ -7019,7 +7037,7 @@
       "deathYear": null,
       "storyAppearanceYear": 1851,
       "storyAppearancePage": 383,
-      "category": "Opponent"
+      "category": "Text of Relevance"
     }
   ],
   "cities": [

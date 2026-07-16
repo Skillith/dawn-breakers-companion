@@ -11,7 +11,18 @@ export default function PersonCard({ person, allPeople, onSelectPerson }) {
     <div className="card-item" id={`person-${person.id}`}>
       <div className="card-header">
         <div className="card-meta-row">
-          <span className="category-tag people">Historical Figure</span>
+          <span className={`category-tag ${
+            person.category === 'Location of Relevance' ? 'location-relevance' :
+            person.category === 'Text of Relevance' ? 'text-relevance' :
+            person.category === 'Term of Relevance' ? 'term-relevance' :
+            'people'
+          }`}>
+            {person.category === 'Location of Relevance' || 
+             person.category === 'Text of Relevance' || 
+             person.category === 'Term of Relevance' 
+              ? person.category 
+              : 'Historical Figure'}
+          </span>
           {person.cityOfOrigin && (
             <span className="card-origin">
               <MapPin size={14} />

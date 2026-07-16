@@ -280,6 +280,36 @@ header {
   color: var(--tag-text-cities);
 }
 
+.category-tag.location-relevance {
+  background: var(--tag-bg-cities);
+  color: var(--tag-text-cities);
+  border: 1px solid rgba(139, 0, 0, 0.12);
+}
+
+.category-tag.text-relevance {
+  background: rgba(103, 58, 183, 0.08);
+  color: #673ab7;
+  border: 1px solid rgba(103, 58, 183, 0.12);
+}
+
+[data-theme='dark'] .category-tag.text-relevance {
+  background: rgba(149, 117, 205, 0.12);
+  color: #b39ddb;
+  border-color: rgba(149, 117, 205, 0.2);
+}
+
+.category-tag.term-relevance {
+  background: rgba(0, 150, 136, 0.08);
+  color: #009688;
+  border: 1px solid rgba(0, 150, 136, 0.12);
+}
+
+[data-theme='dark'] .category-tag.term-relevance {
+  background: rgba(77, 182, 172, 0.12);
+  color: #80cbc4;
+  border-color: rgba(77, 182, 172, 0.2);
+}
+
 .card-title {
   font-family: var(--font-title);
   font-size: 1.25rem;
@@ -1001,6 +1031,40 @@ header {
 [data-theme='dark'] .category-tag.category-believer {
   background: rgba(41, 182, 246, 0.12);
   color: #29b6f6;
+}
+
+.category-tag.category-location-relevance {
+  background: var(--tag-bg-cities);
+  color: var(--tag-text-cities);
+  border: 1px solid rgba(139, 0, 0, 0.12);
+}
+
+[data-theme='dark'] .category-tag.category-location-relevance {
+  border-color: rgba(255, 107, 107, 0.2);
+}
+
+.category-tag.category-text-relevance {
+  background: rgba(103, 58, 183, 0.08);
+  color: #673ab7;
+  border: 1px solid rgba(103, 58, 183, 0.12);
+}
+
+[data-theme='dark'] .category-tag.category-text-relevance {
+  background: rgba(149, 117, 205, 0.12);
+  color: #b39ddb;
+  border-color: rgba(149, 117, 205, 0.2);
+}
+
+.category-tag.category-term-relevance {
+  background: rgba(0, 150, 136, 0.08);
+  color: #009688;
+  border: 1px solid rgba(0, 150, 136, 0.12);
+}
+
+[data-theme='dark'] .category-tag.category-term-relevance {
+  background: rgba(77, 182, 172, 0.12);
+  color: #80cbc4;
+  border-color: rgba(77, 182, 172, 0.2);
 }
 
 /* Cities tab layout - Map and List split view */
