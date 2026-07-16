@@ -8,6 +8,7 @@ import RelationshipGraph from './components/RelationshipGraph';
 import ExportButton from './components/ExportButton';
 import TimelineView from './components/TimelineView';
 import ResourcesView from './components/ResourcesView';
+import { TRAVEL_DATA } from './travelData';
 
 
 export function normalizeText(text) {
@@ -90,6 +91,28 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [focusedItemId, setFocusedItemId] = useState(null);
   const [activeCityId, setActiveCityId] = useState(null);
+  const [activeTravelPersonId, setActiveTravelPersonId] = useState(null);
+  const isTesting = typeof process !== 'undefined' && (process.env.NODE_ENV === 'test' || process.env.VITEST);
+  const [visiblePeopleCount, setVisiblePeopleCount] = useState(isTesting ? 1000 : 24);
+
+  // Reset pagination when search query changes
+  useEffect(() => {
+    setVisiblePeopleCount(isTesting ? 1000 : 24);
+  }, [searchQuery, isTesting]);
+
+  const handleTraceJourney = (personId) => {
+    setActiveTravelPersonId(personId);
+    setActiveTab('cities');
+    setActiveCityId(null);
+    
+    // Smooth scroll to map
+    setTimeout(() => {
+      const element = document.querySelector('.map-panel');
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 100);
+  };
 
   const handleSelectCity = (cityId) => {
     setActiveCityId(cityId);
@@ -257,16 +280,30 @@ export default function App() {
       <main style={{ flexGrow: 1, marginBottom: '2rem' }}>
         {activeTab === 'people' && (
           filteredPeople.length > 0 ? (
-            <div className="results-grid">
-              {filteredPeople.map(person => (
-                <PersonCard
-                  key={person.id}
-                  person={person}
-                  allPeople={data.people}
-                  onSelectPerson={handleSelectPerson}
-                />
-              ))}
-            </div>
+            <>
+              <div className="results-grid">
+                {filteredPeople.slice(0, visiblePeopleCount).map(person => (
+                  <PersonCard
+                    key={person.id}
+                    person={person}
+                    allPeople={data.people}
+                    onSelectPerson={handleSelectPerson}
+                    onTraceJourney={handleTraceJourney}
+                    hasTravelRoute={!!TRAVEL_DATA[person.id]}
+                  />
+                ))}
+              </div>
+              {filteredPeople.length > visiblePeopleCount && (
+                <div className="show-more-container">
+                  <button
+                    onClick={() => setVisiblePeopleCount(prev => prev + 24)}
+                    className="show-more-btn"
+                  >
+                    Load More Figures ({filteredPeople.length - visiblePeopleCount} remaining)
+                  </button>
+                </div>
+              )}
+            </>
           ) : (
             <div className="empty-state">
               <Users size={48} />
@@ -283,6 +320,8 @@ export default function App() {
               filteredCities={filteredCities}
               activeCityId={activeCityId}
               onSelectCity={handleSelectCity}
+              activeTravelPersonId={activeTravelPersonId}
+              onClearTravelPath={() => setActiveTravelPersonId(null)}
             />
             <div className="cities-list-panel">
               <div className="cities-list-header">
@@ -329,6 +368,8 @@ export default function App() {
             people={data.people}
             searchQuery={searchQuery}
             onSelectPerson={handleSelectPerson}
+            onTraceJourney={handleTraceJourney}
+            travelDataKeys={Object.keys(TRAVEL_DATA)}
           />
         )}
 

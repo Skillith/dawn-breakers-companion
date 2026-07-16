@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { Clock, BookOpen, Calendar, MapPin, ExternalLink, Filter } from 'lucide-react';
 import { fuzzyMatch } from '../App';
 
-export default function TimelineView({ people, searchQuery, onSelectPerson }) {
+export default function TimelineView({ people, searchQuery, onSelectPerson, onTraceJourney, travelDataKeys = [] }) {
   const [timelineMode, setTimelineMode] = useState('story'); // 'story' or 'historical'
   const [selectedCategory, setSelectedCategory] = useState('all');
 
@@ -134,10 +134,13 @@ export default function TimelineView({ people, searchQuery, onSelectPerson }) {
                 ? `c. ${person.storyAppearanceYear} (Page ${person.storyAppearancePage})`
                 : formatLifespan(person);
                 
+              const isEven = index % 2 === 0;
+              const hasTravel = travelDataKeys.includes(person.id);
+
               return (
-                <div key={person.id} className="timeline-event-node">
+                <div key={person.id} className={`timeline-event-node ${isEven ? 'node-even' : 'node-odd'}`}>
                   <div className="timeline-marker">
-                    <div className="timeline-marker-dot"></div>
+                    <div className={`timeline-marker-dot ${getCategoryColorClass(person.category)}`}></div>
                   </div>
                   
                   <div className="timeline-event-card">
@@ -172,6 +175,16 @@ export default function TimelineView({ people, searchQuery, onSelectPerson }) {
                     </div>
 
                     <div className="timeline-card-actions">
+                      {hasTravel && (
+                        <button
+                          onClick={() => onTraceJourney(person.id)}
+                          className="timeline-trace-journey-btn"
+                          title={`Trace the chronological journey of ${person.name} on the map`}
+                        >
+                          <MapPin size={14} />
+                          Trace Journey
+                        </button>
+                      )}
                       <button
                         onClick={() => onSelectPerson(person.id)}
                         className="timeline-view-profile-btn"

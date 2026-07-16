@@ -1,7 +1,7 @@
 import React from 'react';
 import { User, MapPin, BookOpen, AlertTriangle } from 'lucide-react';
 
-export default function PersonCard({ person, allPeople, onSelectPerson }) {
+export default function PersonCard({ person, allPeople, onSelectPerson, onTraceJourney, hasTravelRoute }) {
   const getRelationDisplayName = (targetId) => {
     const target = allPeople.find(p => p.id === targetId);
     return target ? target.name.split(" (")[0] : targetId;
@@ -28,6 +28,19 @@ export default function PersonCard({ person, allPeople, onSelectPerson }) {
               <MapPin size={14} />
               {person.cityOfOrigin}
             </span>
+          )}
+          {hasTravelRoute && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onTraceJourney(person.id);
+              }}
+              className="trace-journey-badge-btn"
+              title={`Trace the chronological journey of ${person.name} on the map`}
+            >
+              <MapPin size={12} className="pin-animate" />
+              Trace Journey
+            </button>
           )}
         </div>
         <h3 className="card-title">{person.name}</h3>
