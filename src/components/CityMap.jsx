@@ -21,9 +21,8 @@ const CITY_COORDINATES = {
   najaf: { x: 12, y: 61, region: "Iraq" }
 };
 
-export default function CityMap({ cities, filteredCities, activeCityId, onSelectCity, activeTravelPersonId, onClearTravelPath }) {
+export default function CityMap({ cities, filteredCities, activeCityId, onSelectCity, activeTravelPersonId, onClearTravelPath, hoveredStepIndex, setHoveredStepIndex }) {
   const [hoveredCity, setHoveredCity] = useState(null);
-  const [hoveredStepIndex, setHoveredStepIndex] = useState(null);
 
   const handleMarkerClick = (cityId) => {
     if (onSelectCity) {
@@ -42,6 +41,30 @@ export default function CityMap({ cities, filteredCities, activeCityId, onSelect
     ? pathPoints.map((point, index) => `${index === 0 ? 'M' : 'L'} ${point.coords.x} ${point.coords.y}`).join(' ')
     : '';
 
+  const activeHoveredStepCityId = hoveredStepIndex !== null && pathPoints[hoveredStepIndex]
+    ? pathPoints[hoveredStepIndex].cityId
+    : null;
+
+  const tooltipCity = hoveredCity || (activeHoveredStepCityId
+    ? {
+        ...cities.find(c => c.id === activeHoveredStepCityId),
+        ...CITY_COORDINATES[activeHoveredStepCityId],
+        name: cities.find(c => c.id === activeHoveredStepCityId)?.name || activeHoveredStepCityId
+      }
+    : null);
+
+  let transformStyle = 'translate(-50%, -108%)';
+  let arrowLeftStyle = '50%';
+  if (tooltipCity && tooltipCity.x !== undefined) {
+    if (tooltipCity.x < 25) {
+      transformStyle = 'translate(-10%, -108%)';
+      arrowLeftStyle = '15%';
+    } else if (tooltipCity.x > 75) {
+      transformStyle = 'translate(-90%, -108%)';
+      arrowLeftStyle = '85%';
+    }
+  }
+
   return (
     <div className="map-panel">
       <div className="map-header">
@@ -58,7 +81,7 @@ export default function CityMap({ cities, filteredCities, activeCityId, onSelect
         </div>
         <p className="map-panel-subtitle">
           {travel 
-            ? `Now tracing the journey of ${travel.name}. Hover over steps below to highlight.`
+            ? `Now tracing the journey of ${travel.name.split(" (")[0]}. Hover over steps to highlight.`
             : "Hover over markers to view key events; click to locate details below."}
         </p>
       </div>
@@ -154,89 +177,44 @@ export default function CityMap({ cities, filteredCities, activeCityId, onSelect
         })}
 
         {/* Tooltip Overlay */}
-        {hoveredCity && (
+        {tooltipCity && (
           <div 
             className="map-tooltip"
             style={{ 
-              left: `${hoveredCity.x}%`, 
-              top: `${hoveredCity.y - 3}%` 
+              left: `${tooltipCity.x}%`, 
+              top: `${tooltipCity.y - 3}%`,
+              transform: transformStyle
             }}
           >
             <div className="map-tooltip-header">
-              <span className="map-tooltip-name">{hoveredCity.name}</span>
-              <span className="map-tooltip-region">{hoveredCity.region}</span>
+              <span className="map-tooltip-name">{tooltipCity.name}</span>
+              <span className="map-tooltip-region">{tooltipCity.region}</span>
             </div>
             <div className="map-tooltip-body">
               <div className="map-tooltip-meta">
-                <span>{hoveredCity.events?.length || 0} Historical Event(s)</span>
+                <span>{tooltipCity.events?.length || 0} Historical Event(s)</span>
                 <span>•</span>
-                <span>{hoveredCity.pages?.length || 0} Page Mention(s)</span>
+                <span>{tooltipCity.pages?.length || 0} Page Mention(s)</span>
               </div>
-              {hoveredCity.events && hoveredCity.events.length > 0 && (
+              {tooltipCity.events && tooltipCity.events.length > 0 && (
                 <ul className="map-tooltip-events">
-                  {hoveredCity.events.slice(0, 2).map((e, idx) => (
+                  {tooltipCity.events.slice(0, 2).map((e, idx) => (
                     <li key={idx} className="map-tooltip-event-item">
                       <strong>{e.title}:</strong> {e.description.length > 60 ? `${e.description.substring(0, 60)}...` : e.description}
                     </li>
                   ))}
-                  {hoveredCity.events.length > 2 && (
+                  {tooltipCity.events.length > 2 && (
                     <li className="map-tooltip-more-events">
-                      + {hoveredCity.events.length - 2} more event(s)...
+                      + {tooltipCity.events.length - 2} more event(s)...
                     </li>
                   )}
                 </ul>
               )}
             </div>
-            <div className="map-tooltip-arrow"></div>
+            <div className="map-tooltip-arrow" style={{ left: arrowLeftStyle }}></div>
           </div>
         )}
       </div>
-
-      {/* Travel Journey Panel */}
-      {travel && (
-        <div className="map-travel-panel">
-          <div className="map-travel-panel-header">
-            <h4 className="map-travel-panel-title">
-              <Navigation size={16} />
-              Chronological Journey of {travel.name}
-            </h4>
-          </div>
-          <div className="map-travel-steps">
-            {travel.path.map((step, idx) => {
-              const cityData = cities.find(c => c.id === step.cityId);
-              return (
-                <div
-                  key={idx}
-                  className={`map-travel-step ${hoveredStepIndex === idx ? 'hovered' : ''}`}
-                  onMouseEnter={() => {
-                    setHoveredStepIndex(idx);
-                    if (cityData) {
-                      setHoveredCity({
-                        ...cityData,
-                        ...CITY_COORDINATES[step.cityId]
-                      });
-                    }
-                  }}
-                  onMouseLeave={() => {
-                    setHoveredStepIndex(null);
-                    setHoveredCity(null);
-                  }}
-                  onClick={() => handleMarkerClick(step.cityId)}
-                >
-                  <span className="step-num">{idx + 1}</span>
-                  <div className="step-content">
-                    <div className="step-meta">
-                      <strong className="step-city">{cityData?.name || step.cityId}</strong>
-                      <span className="step-date">{step.date}</span>
-                    </div>
-                    <p className="step-description">{step.desc}</p>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      )}
 
       <div className="map-footer">
         <div className="map-legend">

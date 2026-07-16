@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, Moon, Sun, Users, Map, Network, Info, Clock, BookOpen } from 'lucide-react';
+import { Search, Moon, Sun, Users, Map, Network, Info, Clock, BookOpen, X } from 'lucide-react';
 import data from './data.json';
 import PersonCard from './components/PersonCard';
 import CityCard from './components/CityCard';
@@ -92,6 +92,7 @@ export default function App() {
   const [focusedItemId, setFocusedItemId] = useState(null);
   const [activeCityId, setActiveCityId] = useState(null);
   const [activeTravelPersonId, setActiveTravelPersonId] = useState(null);
+  const [hoveredStepIndex, setHoveredStepIndex] = useState(null);
   const isTesting = typeof process !== 'undefined' && (process.env.NODE_ENV === 'test' || process.env.VITEST);
   const [visiblePeopleCount, setVisiblePeopleCount] = useState(isTesting ? 1000 : 24);
 
@@ -104,6 +105,7 @@ export default function App() {
     setActiveTravelPersonId(personId);
     setActiveTab('cities');
     setActiveCityId(null);
+    setHoveredStepIndex(null);
     
     // Smooth scroll to map
     setTimeout(() => {
@@ -112,6 +114,11 @@ export default function App() {
         element.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }, 100);
+  };
+
+  const handleClearTravelPath = () => {
+    setActiveTravelPersonId(null);
+    setHoveredStepIndex(null);
   };
 
   const handleSelectCity = (cityId) => {
@@ -321,38 +328,88 @@ export default function App() {
               activeCityId={activeCityId}
               onSelectCity={handleSelectCity}
               activeTravelPersonId={activeTravelPersonId}
-              onClearTravelPath={() => setActiveTravelPersonId(null)}
+              onClearTravelPath={handleClearTravelPath}
+              hoveredStepIndex={hoveredStepIndex}
+              setHoveredStepIndex={setHoveredStepIndex}
             />
-            <div className="cities-list-panel">
-              <div className="cities-list-header">
-                <h3 className="cities-list-panel-title">
-                  <BookOpen size={18} />
-                  Cities & Events Directory
-                </h3>
-                <p className="cities-list-panel-subtitle">
-                  Browse cities alphabetically or search for events.
-                </p>
-              </div>
-              <div className="cities-list-container">
-                {filteredCities.length > 0 ? (
-                  <div className="cities-grid">
-                    {filteredCities.map(city => (
-                      <CityCard
-                        key={city.id}
-                        city={city}
-                        isActive={activeCityId === city.id}
-                      />
-                    ))}
+            {activeTravelPersonId && TRAVEL_DATA[activeTravelPersonId] ? (
+              <div className="cities-list-panel travel-steps-panel">
+                <div className="cities-list-header">
+                  <div className="map-title-row">
+                    <h3 className="cities-list-panel-title">
+                      <Network size={18} />
+                      Journey of {TRAVEL_DATA[activeTravelPersonId].name.split(" (")[0]}
+                    </h3>
+                    <button
+                      onClick={handleClearTravelPath}
+                      className="clear-travel-top-btn"
+                      title="Clear travel path"
+                    >
+                      <X size={14} /> Clear Path
+                    </button>
                   </div>
-                ) : (
-                  <div className="empty-state">
-                    <Map size={48} />
-                    <h3 className="empty-state-title">No Cities Found</h3>
-                    <p>No cities or events match your search query "{searchQuery}".</p>
+                  <p className="cities-list-panel-subtitle">
+                    Chronological steps of their travels. Hover to highlight on the map.
+                  </p>
+                </div>
+                <div className="cities-list-container">
+                  <div className="map-travel-steps">
+                    {TRAVEL_DATA[activeTravelPersonId].path.map((step, idx) => {
+                      const cityData = data.cities.find(c => c.id === step.cityId);
+                      return (
+                        <div
+                          key={idx}
+                          className={`map-travel-step ${hoveredStepIndex === idx ? 'hovered' : ''}`}
+                          onMouseEnter={() => setHoveredStepIndex(idx)}
+                          onMouseLeave={() => setHoveredStepIndex(null)}
+                          onClick={() => handleSelectCity(step.cityId)}
+                        >
+                          <span className="step-num">{idx + 1}</span>
+                          <div className="step-content">
+                            <div className="step-meta">
+                              <strong className="step-city">{cityData?.name || step.cityId}</strong>
+                              <span className="step-date">{step.date}</span>
+                            </div>
+                            <p className="step-description">{step.desc}</p>
+                          </div>
+                        </div>
+                      );
+                    })}
                   </div>
-                )}
+                </div>
               </div>
-            </div>
+            ) : (
+              <div className="cities-list-panel">
+                <div className="cities-list-header">
+                  <h3 className="cities-list-panel-title">
+                    <BookOpen size={18} />
+                    Cities & Events Directory
+                  </h3>
+                  <p className="cities-list-panel-subtitle">
+                    Browse cities alphabetically or search for events.
+                  </p>
+                </div>
+                <div className="cities-list-container">
+                  {filteredCities.length > 0 ? (
+                    <div className="cities-grid">
+                      {filteredCities.map(city => (
+                        <CityCard
+                          key={city.id}
+                          city={city}
+                          isActive={activeCityId === city.id}
+                        />
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="empty-state">
+                      <Map size={48} />
+                      <h3 className="empty-state-title">No Cities Found</h3>
+                      <p>No cities or events match your search query "{searchQuery}".</p>
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
           </div>
         )}
 
